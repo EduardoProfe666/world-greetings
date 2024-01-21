@@ -3,8 +3,8 @@ from github import Github
 from datetime import datetime
 import os
 from dotenv import load_dotenv
-#
-# load_dotenv()
+
+load_dotenv()
 
 github_token = os.getenv('TOKEN')
 
