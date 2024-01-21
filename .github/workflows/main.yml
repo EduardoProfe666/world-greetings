@@ -29,6 +29,8 @@ jobs:
 
     - name: Update .md files
       run: python script.py
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
 
     - name: Commit files
       run: |
@@ -37,5 +39,3 @@ jobs:
         git add -u
         git commit -m "Update .md files with current time" || echo "No changes to commit"
         git push
-      env:
-        TOKEN: ${{ secrets.TOKEN }}
