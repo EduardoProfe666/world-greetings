@@ -5,601 +5,1792 @@ every part of the world.
 
 ## 🌎 Greetings
 
-| **🎌 Part of the World/TimeZone** | **👋 Greeting** | **📅 Day** | **⌚Time** |
-|---|---|---|---|
-| **Africa/Abidjan** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Accra** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Addis_Ababa** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Algiers** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Asmara** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Asmera** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Bamako** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Bangui** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Banjul** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Bissau** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Blantyre** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Brazzaville** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Bujumbura** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Cairo** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Casablanca** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Ceuta** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Conakry** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Dakar** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Dar_es_Salaam** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Djibouti** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Douala** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/El_Aaiun** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Freetown** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Gaborone** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Harare** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Johannesburg** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Juba** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Kampala** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Khartoum** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Kigali** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Kinshasa** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Lagos** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Libreville** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Lome** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Luanda** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Lubumbashi** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Lusaka** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Malabo** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Maputo** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Maseru** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Mbabane** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Mogadishu** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Monrovia** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Nairobi** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Africa/Ndjamena** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Niamey** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Nouakchott** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Ouagadougou** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Porto-Novo** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Sao_Tome** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Timbuktu** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Africa/Tripoli** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Africa/Tunis** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Africa/Windhoek** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **America/Adak** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **America/Anchorage** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/Anguilla** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Antigua** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Araguaina** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Buenos_Aires** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Catamarca** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/ComodRivadavia** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Cordoba** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Jujuy** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/La_Rioja** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Mendoza** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Rio_Gallegos** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Salta** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/San_Juan** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/San_Luis** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Tucuman** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Argentina/Ushuaia** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Aruba** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Asuncion** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Atikokan** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Atka** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **America/Bahia** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Bahia_Banderas** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Barbados** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Belem** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Belize** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Blanc-Sablon** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Boa_Vista** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Bogota** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Boise** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Buenos_Aires** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Cambridge_Bay** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Campo_Grande** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Cancun** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Caracas** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Catamarca** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Cayenne** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Cayman** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Chicago** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Chihuahua** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Ciudad_Juarez** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Coral_Harbour** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Cordoba** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Costa_Rica** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Creston** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Cuiaba** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Curacao** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Danmarkshavn** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **America/Dawson** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Dawson_Creek** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Denver** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Detroit** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Dominica** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Edmonton** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Eirunepe** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/El_Salvador** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Ensenada** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **America/Fort_Nelson** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Fort_Wayne** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Fortaleza** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Glace_Bay** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Godthab** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **America/Goose_Bay** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Grand_Turk** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Grenada** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Guadeloupe** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Guatemala** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Guayaquil** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Guyana** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Halifax** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Havana** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Hermosillo** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Indiana/Indianapolis** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indiana/Knox** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Indiana/Marengo** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indiana/Petersburg** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indiana/Tell_City** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Indiana/Vevay** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indiana/Vincennes** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indiana/Winamac** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Indianapolis** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Inuvik** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Iqaluit** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Jamaica** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Jujuy** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Juneau** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/Kentucky/Louisville** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Kentucky/Monticello** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Knox_IN** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Kralendijk** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/La_Paz** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Lima** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Los_Angeles** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **America/Louisville** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Lower_Princes** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Maceio** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Managua** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Manaus** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Marigot** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Martinique** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Matamoros** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Mazatlan** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Mendoza** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Menominee** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Merida** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Metlakatla** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/Mexico_City** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Miquelon** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Moncton** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Monterrey** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Montevideo** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Montreal** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Montserrat** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Nassau** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/New_York** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Nipigon** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Nome** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/Noronha** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **America/North_Dakota/Beulah** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/North_Dakota/Center** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/North_Dakota/New_Salem** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Nuuk** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **America/Ojinaga** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Panama** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Pangnirtung** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Paramaribo** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Phoenix** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Port-au-Prince** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Port_of_Spain** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Porto_Acre** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Porto_Velho** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Puerto_Rico** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Punta_Arenas** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Rainy_River** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Rankin_Inlet** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Recife** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Regina** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Resolute** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Rio_Branco** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Rosario** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Santa_Isabel** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **America/Santarem** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Santiago** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Santo_Domingo** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Sao_Paulo** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **America/Scoresbysund** | Good Evening | Sunday 21/January/2024 | 08:55 PM |
-| **America/Shiprock** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Sitka** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/St_Barthelemy** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/St_Johns** | Good Evening | Sunday 21/January/2024 | 06:25 PM |
-| **America/St_Kitts** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/St_Lucia** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/St_Thomas** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/St_Vincent** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Swift_Current** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Tegucigalpa** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Thule** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Thunder_Bay** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Tijuana** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **America/Toronto** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **America/Tortola** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Vancouver** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **America/Virgin** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **America/Whitehorse** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **America/Winnipeg** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **America/Yakutat** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **America/Yellowknife** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Antarctica/Casey** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Antarctica/Davis** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Antarctica/DumontDUrville** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Antarctica/Macquarie** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Antarctica/Mawson** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Antarctica/McMurdo** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Antarctica/Palmer** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Antarctica/Rothera** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Antarctica/South_Pole** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Antarctica/Syowa** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Antarctica/Troll** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Antarctica/Vostok** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Arctic/Longyearbyen** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Asia/Aden** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Almaty** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Amman** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Anadyr** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Asia/Aqtau** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Aqtobe** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Ashgabat** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Ashkhabad** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Atyrau** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Baghdad** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Bahrain** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Baku** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Asia/Bangkok** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Barnaul** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Beirut** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Bishkek** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Brunei** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Calcutta** | Good Morning | Monday 22/January/2024 | 03:25 AM |
-| **Asia/Chita** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Choibalsan** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Chongqing** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Chungking** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Colombo** | Good Morning | Monday 22/January/2024 | 03:25 AM |
-| **Asia/Dacca** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Damascus** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Dhaka** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Dili** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Dubai** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Asia/Dushanbe** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Famagusta** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Gaza** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Harbin** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Hebron** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Ho_Chi_Minh** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Hong_Kong** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Hovd** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Irkutsk** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Istanbul** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Jakarta** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Jayapura** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Jerusalem** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Kabul** | Good Morning | Monday 22/January/2024 | 02:25 AM |
-| **Asia/Kamchatka** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Asia/Karachi** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Kashgar** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Kathmandu** | Good Morning | Monday 22/January/2024 | 03:40 AM |
-| **Asia/Katmandu** | Good Morning | Monday 22/January/2024 | 03:40 AM |
-| **Asia/Khandyga** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Kolkata** | Good Morning | Monday 22/January/2024 | 03:25 AM |
-| **Asia/Krasnoyarsk** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Kuala_Lumpur** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Kuching** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Kuwait** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Macao** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Macau** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Magadan** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Asia/Makassar** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Manila** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Muscat** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Asia/Nicosia** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Novokuznetsk** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Novosibirsk** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Omsk** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Oral** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Phnom_Penh** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Pontianak** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Pyongyang** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Qatar** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Qostanay** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Qyzylorda** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Rangoon** | Good Morning | Monday 22/January/2024 | 04:25 AM |
-| **Asia/Riyadh** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Asia/Saigon** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Sakhalin** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Asia/Samarkand** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Seoul** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Shanghai** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Singapore** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Srednekolymsk** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Asia/Taipei** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Tashkent** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Tbilisi** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Asia/Tehran** | Good Morning | Monday 22/January/2024 | 01:25 AM |
-| **Asia/Tel_Aviv** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Asia/Thimbu** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Thimphu** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Tokyo** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Tomsk** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Ujung_Pandang** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Ulaanbaatar** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Ulan_Bator** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Asia/Urumqi** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Asia/Ust-Nera** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Asia/Vientiane** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Asia/Vladivostok** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Asia/Yakutsk** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Asia/Yangon** | Good Morning | Monday 22/January/2024 | 04:25 AM |
-| **Asia/Yekaterinburg** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Asia/Yerevan** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Atlantic/Azores** | Good Evening | Sunday 21/January/2024 | 08:55 PM |
-| **Atlantic/Bermuda** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **Atlantic/Canary** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/Cape_Verde** | Good Evening | Sunday 21/January/2024 | 08:55 PM |
-| **Atlantic/Faeroe** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/Faroe** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/Jan_Mayen** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Atlantic/Madeira** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/Reykjavik** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/South_Georgia** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **Atlantic/St_Helena** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Atlantic/Stanley** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Australia/ACT** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Adelaide** | Good Morning | Monday 22/January/2024 | 08:25 AM |
-| **Australia/Brisbane** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Australia/Broken_Hill** | Good Morning | Monday 22/January/2024 | 08:25 AM |
-| **Australia/Canberra** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Currie** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Darwin** | Good Morning | Monday 22/January/2024 | 07:25 AM |
-| **Australia/Eucla** | Good Morning | Monday 22/January/2024 | 06:40 AM |
-| **Australia/Hobart** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/LHI** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Lindeman** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Australia/Lord_Howe** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Melbourne** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/NSW** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/North** | Good Morning | Monday 22/January/2024 | 07:25 AM |
-| **Australia/Perth** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Australia/Queensland** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Australia/South** | Good Morning | Monday 22/January/2024 | 08:25 AM |
-| **Australia/Sydney** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Tasmania** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/Victoria** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Australia/West** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Australia/Yancowinna** | Good Morning | Monday 22/January/2024 | 08:25 AM |
-| **Brazil/Acre** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Brazil/DeNoronha** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **Brazil/East** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Brazil/West** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **CET** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **CST6CDT** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **Canada/Atlantic** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **Canada/Central** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **Canada/Eastern** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Canada/Mountain** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Canada/Newfoundland** | Good Evening | Sunday 21/January/2024 | 06:25 PM |
-| **Canada/Pacific** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **Canada/Saskatchewan** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **Canada/Yukon** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Chile/Continental** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Chile/EasterIsland** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Cuba** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **EET** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **EST** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **EST5EDT** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Egypt** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Eire** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/GMT** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/GMT+0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/GMT+1** | Good Evening | Sunday 21/January/2024 | 08:55 PM |
-| **Etc/GMT+10** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Etc/GMT+11** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **Etc/GMT+12** | Good Morning | Sunday 21/January/2024 | 09:55 AM |
-| **Etc/GMT+2** | Good Evening | Sunday 21/January/2024 | 07:55 PM |
-| **Etc/GMT+3** | Good Evening | Sunday 21/January/2024 | 06:55 PM |
-| **Etc/GMT+4** | Good Afternoon | Sunday 21/January/2024 | 05:55 PM |
-| **Etc/GMT+5** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Etc/GMT+6** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **Etc/GMT+7** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Etc/GMT+8** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **Etc/GMT+9** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **Etc/GMT-0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/GMT-1** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Etc/GMT-10** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Etc/GMT-11** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Etc/GMT-12** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Etc/GMT-13** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Etc/GMT-14** | Good Morning | Monday 22/January/2024 | 11:55 AM |
-| **Etc/GMT-2** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Etc/GMT-3** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Etc/GMT-4** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Etc/GMT-5** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Etc/GMT-6** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Etc/GMT-7** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Etc/GMT-8** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Etc/GMT-9** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Etc/GMT0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/Greenwich** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/UCT** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/UTC** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/Universal** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Etc/Zulu** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Amsterdam** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Andorra** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Astrakhan** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Europe/Athens** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Belfast** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Belgrade** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Berlin** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Bratislava** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Brussels** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Bucharest** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Budapest** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Busingen** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Chisinau** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Copenhagen** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Dublin** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Gibraltar** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Guernsey** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Helsinki** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Isle_of_Man** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Istanbul** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Jersey** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Kaliningrad** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Kiev** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Kirov** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Kyiv** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Lisbon** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Ljubljana** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/London** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Europe/Luxembourg** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Madrid** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Malta** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Mariehamn** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Minsk** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Monaco** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Moscow** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Nicosia** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Oslo** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Paris** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Podgorica** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Prague** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Riga** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Rome** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Samara** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Europe/San_Marino** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Sarajevo** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Saratov** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Europe/Simferopol** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Skopje** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Sofia** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Stockholm** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Tallinn** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Tirane** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Tiraspol** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Ulyanovsk** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Europe/Uzhgorod** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Vaduz** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Vatican** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Vienna** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Vilnius** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Volgograd** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Europe/Warsaw** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Zagreb** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Europe/Zaporozhye** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Europe/Zurich** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **GB** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **GB-Eire** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **GMT** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **GMT+0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **GMT-0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **GMT0** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Greenwich** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **HST** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Hongkong** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Iceland** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Indian/Antananarivo** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Indian/Chagos** | Good Morning | Monday 22/January/2024 | 03:55 AM |
-| **Indian/Christmas** | Good Morning | Monday 22/January/2024 | 04:55 AM |
-| **Indian/Cocos** | Good Morning | Monday 22/January/2024 | 04:25 AM |
-| **Indian/Comoro** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Indian/Kerguelen** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Indian/Mahe** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Indian/Maldives** | Good Morning | Monday 22/January/2024 | 02:55 AM |
-| **Indian/Mauritius** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Indian/Mayotte** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **Indian/Reunion** | Good Morning | Monday 22/January/2024 | 01:55 AM |
-| **Iran** | Good Morning | Monday 22/January/2024 | 01:25 AM |
-| **Israel** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **Jamaica** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Japan** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Kwajalein** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Libya** | Good Evening | Sunday 21/January/2024 | 11:55 PM |
-| **MET** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **MST** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **MST7MDT** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Mexico/BajaNorte** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **Mexico/BajaSur** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **Mexico/General** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **NZ** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **NZ-CHAT** | Good Morning | Monday 22/January/2024 | 11:40 AM |
-| **Navajo** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **PRC** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **PST8PDT** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **Pacific/Apia** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Auckland** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Bougainville** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Chatham** | Good Morning | Monday 22/January/2024 | 11:40 AM |
-| **Pacific/Chuuk** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Pacific/Easter** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **Pacific/Efate** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Enderbury** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Fakaofo** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Fiji** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Funafuti** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Galapagos** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **Pacific/Gambier** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **Pacific/Guadalcanal** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Guam** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Pacific/Honolulu** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Pacific/Johnston** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Pacific/Kanton** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Kiritimati** | Good Morning | Monday 22/January/2024 | 11:55 AM |
-| **Pacific/Kosrae** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Kwajalein** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Majuro** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Marquesas** | Good Afternoon | Sunday 21/January/2024 | 12:25 PM |
-| **Pacific/Midway** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **Pacific/Nauru** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Niue** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **Pacific/Norfolk** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Noumea** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Pago_Pago** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **Pacific/Palau** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Pacific/Pitcairn** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **Pacific/Pohnpei** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Ponape** | Good Morning | Monday 22/January/2024 | 08:55 AM |
-| **Pacific/Port_Moresby** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Pacific/Rarotonga** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Pacific/Saipan** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Pacific/Samoa** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **Pacific/Tahiti** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **Pacific/Tarawa** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Tongatapu** | Good Morning | Monday 22/January/2024 | 10:55 AM |
-| **Pacific/Truk** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Pacific/Wake** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Wallis** | Good Morning | Monday 22/January/2024 | 09:55 AM |
-| **Pacific/Yap** | Good Morning | Monday 22/January/2024 | 07:55 AM |
-| **Poland** | Good Evening | Sunday 21/January/2024 | 10:55 PM |
-| **Portugal** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **ROC** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **ROK** | Good Morning | Monday 22/January/2024 | 06:55 AM |
-| **Singapore** | Good Morning | Monday 22/January/2024 | 05:55 AM |
-| **Turkey** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **UCT** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **US/Alaska** | Good Afternoon | Sunday 21/January/2024 | 12:55 PM |
-| **US/Aleutian** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **US/Arizona** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **US/Central** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **US/East-Indiana** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **US/Eastern** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **US/Hawaii** | Good Morning | Sunday 21/January/2024 | 11:55 AM |
-| **US/Indiana-Starke** | Good Afternoon | Sunday 21/January/2024 | 03:55 PM |
-| **US/Michigan** | Good Afternoon | Sunday 21/January/2024 | 04:55 PM |
-| **US/Mountain** | Good Afternoon | Sunday 21/January/2024 | 02:55 PM |
-| **US/Pacific** | Good Afternoon | Sunday 21/January/2024 | 01:55 PM |
-| **US/Samoa** | Good Morning | Sunday 21/January/2024 | 10:55 AM |
-| **UTC** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Universal** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **W-SU** | Good Evening | Monday 22/January/2024 | 12:55 AM |
-| **WET** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
-| **Zulu** | Good Evening | Sunday 21/January/2024 | 09:55 PM |
+
+### 👋 Good Evening `Africa/Abidjan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Accra`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Addis_Ababa`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Algiers`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Asmara`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Asmera`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Bamako`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Bangui`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Banjul`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Bissau`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Blantyre`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Brazzaville`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Bujumbura`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Cairo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Casablanca`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Ceuta`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Conakry`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Dakar`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Dar_es_Salaam`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Djibouti`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Douala`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/El_Aaiun`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Freetown`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Gaborone`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Harare`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Johannesburg`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Juba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Kampala`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Khartoum`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Kigali`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Kinshasa`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Lagos`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Libreville`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Lome`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Luanda`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Lubumbashi`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Lusaka`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Malabo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Maputo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Maseru`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Mbabane`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Mogadishu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Monrovia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Nairobi`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Africa/Ndjamena`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Niamey`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Nouakchott`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Ouagadougou`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Porto-Novo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Sao_Tome`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Timbuktu`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Africa/Tripoli`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Africa/Tunis`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Africa/Windhoek`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `America/Adak`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Afternoon `America/Anchorage`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Afternoon `America/Anguilla`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Antigua`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Araguaina`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Buenos_Aires`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Catamarca`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/ComodRivadavia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Cordoba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Jujuy`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/La_Rioja`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Mendoza`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Rio_Gallegos`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Salta`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/San_Juan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/San_Luis`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Tucuman`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Argentina/Ushuaia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Aruba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Asuncion`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Atikokan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Morning `America/Atka`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Evening `America/Bahia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Bahia_Banderas`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Barbados`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Belem`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Belize`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Blanc-Sablon`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Boa_Vista`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Bogota`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Boise`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Evening `America/Buenos_Aires`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Cambridge_Bay`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Campo_Grande`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Cancun`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Caracas`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Catamarca`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Cayenne`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Cayman`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Chicago`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Chihuahua`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Ciudad_Juarez`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Coral_Harbour`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `America/Cordoba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Costa_Rica`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Creston`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Cuiaba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Curacao`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Danmarkshavn`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Afternoon `America/Dawson`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Dawson_Creek`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Denver`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Detroit`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Dominica`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Edmonton`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Eirunepe`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/El_Salvador`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Ensenada`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `America/Fort_Nelson`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Fort_Wayne`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `America/Fortaleza`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Glace_Bay`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Godthab`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Afternoon `America/Goose_Bay`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Grand_Turk`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Grenada`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Guadeloupe`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Guatemala`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Guayaquil`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Guyana`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Halifax`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Havana`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Hermosillo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Indianapolis`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Knox`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Marengo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Petersburg`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Tell_City`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Vevay`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Vincennes`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indiana/Winamac`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Indianapolis`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Inuvik`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Iqaluit`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Jamaica`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `America/Jujuy`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Juneau`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Afternoon `America/Kentucky/Louisville`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Kentucky/Monticello`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Knox_IN`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Kralendijk`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/La_Paz`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Lima`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Los_Angeles`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `America/Louisville`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Lower_Princes`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Maceio`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Managua`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Manaus`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Marigot`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Martinique`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Matamoros`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Mazatlan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Evening `America/Mendoza`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Menominee`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Merida`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Metlakatla`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Afternoon `America/Mexico_City`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Evening `America/Miquelon`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Moncton`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Monterrey`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Evening `America/Montevideo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Montreal`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Montserrat`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Nassau`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/New_York`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Nipigon`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Nome`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Evening `America/Noronha`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Afternoon `America/North_Dakota/Beulah`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/North_Dakota/Center`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/North_Dakota/New_Salem`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Evening `America/Nuuk`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Afternoon `America/Ojinaga`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Panama`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Pangnirtung`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `America/Paramaribo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Phoenix`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Port-au-Prince`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Port_of_Spain`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Porto_Acre`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Porto_Velho`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Puerto_Rico`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Punta_Arenas`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Rainy_River`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Rankin_Inlet`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Evening `America/Recife`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Regina`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Resolute`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Rio_Branco`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `America/Rosario`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Santa_Isabel`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Evening `America/Santarem`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Santiago`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `America/Santo_Domingo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/Sao_Paulo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `America/Scoresbysund`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `08:56 PM` there
+### 👋 Good Afternoon `America/Shiprock`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Sitka`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Afternoon `America/St_Barthelemy`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `America/St_Johns`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:26 PM` there
+### 👋 Good Afternoon `America/St_Kitts`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/St_Lucia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/St_Thomas`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/St_Vincent`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Swift_Current`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Tegucigalpa`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Thule`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Thunder_Bay`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Tijuana`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `America/Toronto`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `America/Tortola`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Vancouver`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `America/Virgin`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `America/Whitehorse`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `America/Winnipeg`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `America/Yakutat`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Afternoon `America/Yellowknife`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Morning `Antarctica/Casey`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Antarctica/Davis`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Antarctica/DumontDUrville`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Antarctica/Macquarie`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Antarctica/Mawson`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Antarctica/McMurdo`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Evening `Antarctica/Palmer`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Evening `Antarctica/Rothera`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Morning `Antarctica/South_Pole`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Evening `Antarctica/Syowa`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Antarctica/Troll`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Morning `Antarctica/Vostok`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Evening `Arctic/Longyearbyen`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Asia/Aden`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Almaty`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Evening `Asia/Amman`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Anadyr`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Asia/Aqtau`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Aqtobe`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Ashgabat`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Ashkhabad`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Atyrau`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Evening `Asia/Baghdad`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Asia/Bahrain`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Baku`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Asia/Bangkok`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Barnaul`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Evening `Asia/Beirut`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Bishkek`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Brunei`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Calcutta`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:26 AM` there
+### 👋 Good Morning `Asia/Chita`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Choibalsan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Chongqing`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Chungking`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Colombo`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:26 AM` there
+### 👋 Good Morning `Asia/Dacca`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Evening `Asia/Damascus`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Dhaka`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Dili`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Dubai`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Asia/Dushanbe`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Evening `Asia/Famagusta`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Asia/Gaza`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Harbin`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Evening `Asia/Hebron`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Ho_Chi_Minh`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Hong_Kong`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Hovd`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Irkutsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Evening `Asia/Istanbul`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Jakarta`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Jayapura`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Evening `Asia/Jerusalem`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Kabul`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:26 AM` there
+### 👋 Good Morning `Asia/Kamchatka`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Asia/Karachi`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Kashgar`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Kathmandu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:41 AM` there
+### 👋 Good Morning `Asia/Katmandu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:41 AM` there
+### 👋 Good Morning `Asia/Khandyga`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Kolkata`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:26 AM` there
+### 👋 Good Morning `Asia/Krasnoyarsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Kuala_Lumpur`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Kuching`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Evening `Asia/Kuwait`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Macao`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Macau`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Magadan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Asia/Makassar`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Manila`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Muscat`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Asia/Nicosia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Novokuznetsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Novosibirsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Omsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Oral`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Phnom_Penh`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Pontianak`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Pyongyang`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Evening `Asia/Qatar`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Qostanay`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Qyzylorda`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Rangoon`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:26 AM` there
+### 👋 Good Evening `Asia/Riyadh`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Asia/Saigon`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Sakhalin`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Asia/Samarkand`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Seoul`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Shanghai`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Singapore`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Srednekolymsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Asia/Taipei`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Tashkent`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Tbilisi`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Asia/Tehran`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:26 AM` there
+### 👋 Good Evening `Asia/Tel_Aviv`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Asia/Thimbu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Thimphu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Tokyo`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Tomsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Ujung_Pandang`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Ulaanbaatar`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Ulan_Bator`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Asia/Urumqi`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Asia/Ust-Nera`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Asia/Vientiane`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Asia/Vladivostok`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Asia/Yakutsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Asia/Yangon`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:26 AM` there
+### 👋 Good Morning `Asia/Yekaterinburg`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Asia/Yerevan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Atlantic/Azores`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `08:56 PM` there
+### 👋 Good Afternoon `Atlantic/Bermuda`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `Atlantic/Canary`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/Cape_Verde`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `08:56 PM` there
+### 👋 Good Evening `Atlantic/Faeroe`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/Faroe`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/Jan_Mayen`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Atlantic/Madeira`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/Reykjavik`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/South_Georgia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Evening `Atlantic/St_Helena`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Atlantic/Stanley`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Morning `Australia/ACT`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Adelaide`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:26 AM` there
+### 👋 Good Morning `Australia/Brisbane`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Australia/Broken_Hill`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:26 AM` there
+### 👋 Good Morning `Australia/Canberra`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Currie`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Darwin`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:26 AM` there
+### 👋 Good Morning `Australia/Eucla`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:41 AM` there
+### 👋 Good Morning `Australia/Hobart`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/LHI`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Lindeman`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Australia/Lord_Howe`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Melbourne`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/NSW`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/North`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:26 AM` there
+### 👋 Good Morning `Australia/Perth`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Australia/Queensland`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Australia/South`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:26 AM` there
+### 👋 Good Morning `Australia/Sydney`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Tasmania`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/Victoria`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Australia/West`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Australia/Yancowinna`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:26 AM` there
+### 👋 Good Afternoon `Brazil/Acre`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `Brazil/DeNoronha`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Evening `Brazil/East`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `Brazil/West`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Evening `CET`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Afternoon `CST6CDT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `Canada/Atlantic`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `Canada/Central`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `Canada/Eastern`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `Canada/Mountain`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Evening `Canada/Newfoundland`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:26 PM` there
+### 👋 Good Afternoon `Canada/Pacific`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `Canada/Saskatchewan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `Canada/Yukon`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Evening `Chile/Continental`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `Chile/EasterIsland`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `Cuba`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `EET`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Afternoon `EST`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `EST5EDT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Evening `Egypt`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Eire`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/GMT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/GMT+0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/GMT+1`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `08:56 PM` there
+### 👋 Good Morning `Etc/GMT+10`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Etc/GMT+11`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Etc/GMT+12`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Evening `Etc/GMT+2`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `07:56 PM` there
+### 👋 Good Evening `Etc/GMT+3`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `06:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+4`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `05:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+5`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+6`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+7`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+8`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `Etc/GMT+9`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Evening `Etc/GMT-0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/GMT-1`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Morning `Etc/GMT-10`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Etc/GMT-11`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Etc/GMT-12`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Etc/GMT-13`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Etc/GMT-14`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Evening `Etc/GMT-2`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Etc/GMT-3`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Etc/GMT-4`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Etc/GMT-5`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Etc/GMT-6`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Etc/GMT-7`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Etc/GMT-8`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `Etc/GMT-9`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Evening `Etc/GMT0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/Greenwich`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/UCT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/UTC`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/Universal`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Etc/Zulu`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Amsterdam`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Andorra`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Morning `Europe/Astrakhan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Europe/Athens`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Belfast`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Belgrade`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Berlin`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Bratislava`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Brussels`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Bucharest`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Budapest`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Busingen`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Chisinau`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Copenhagen`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Dublin`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Gibraltar`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Guernsey`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Helsinki`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Isle_of_Man`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Istanbul`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Jersey`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Kaliningrad`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Kiev`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Kirov`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Kyiv`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Lisbon`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Ljubljana`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/London`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Europe/Luxembourg`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Madrid`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Malta`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Mariehamn`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Minsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Monaco`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Moscow`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Nicosia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Oslo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Paris`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Podgorica`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Prague`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Riga`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Rome`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Morning `Europe/Samara`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Europe/San_Marino`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Sarajevo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Morning `Europe/Saratov`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Europe/Simferopol`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Skopje`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Sofia`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Stockholm`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Tallinn`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Tirane`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Tiraspol`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Morning `Europe/Ulyanovsk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Europe/Uzhgorod`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Vaduz`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Vatican`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Vienna`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Vilnius`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Volgograd`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `Europe/Warsaw`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Zagreb`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Europe/Zaporozhye`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `Europe/Zurich`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `GB`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `GB-Eire`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `GMT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `GMT+0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `GMT-0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `GMT0`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Greenwich`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Morning `HST`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Hongkong`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Evening `Iceland`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Indian/Antananarivo`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Indian/Chagos`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `03:56 AM` there
+### 👋 Good Morning `Indian/Christmas`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:56 AM` there
+### 👋 Good Morning `Indian/Cocos`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `04:26 AM` there
+### 👋 Good Evening `Indian/Comoro`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Indian/Kerguelen`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Indian/Mahe`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Indian/Maldives`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `02:56 AM` there
+### 👋 Good Morning `Indian/Mauritius`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Evening `Indian/Mayotte`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Morning `Indian/Reunion`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:56 AM` there
+### 👋 Good Morning `Iran`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `01:26 AM` there
+### 👋 Good Evening `Israel`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Afternoon `Jamaica`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Morning `Japan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Kwajalein`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Evening `Libya`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 PM` there
+### 👋 Good Evening `MET`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Afternoon `MST`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `MST7MDT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `Mexico/BajaNorte`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Afternoon `Mexico/BajaSur`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `Mexico/General`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Morning `NZ`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `NZ-CHAT`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `11:41 AM` there
+### 👋 Good Afternoon `Navajo`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Morning `PRC`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Afternoon `PST8PDT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Morning `Pacific/Apia`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Auckland`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Bougainville`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Chatham`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `11:41 AM` there
+### 👋 Good Morning `Pacific/Chuuk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Afternoon `Pacific/Easter`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Morning `Pacific/Efate`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Enderbury`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Fakaofo`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Fiji`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Funafuti`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Afternoon `Pacific/Galapagos`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `Pacific/Gambier`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Morning `Pacific/Guadalcanal`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Guam`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Pacific/Honolulu`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Pacific/Johnston`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Pacific/Kanton`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Kiritimati`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Pacific/Kosrae`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Kwajalein`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Majuro`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Afternoon `Pacific/Marquesas`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:26 PM` there
+### 👋 Good Morning `Pacific/Midway`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Nauru`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Niue`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Norfolk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Noumea`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Pago_Pago`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Palau`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Afternoon `Pacific/Pitcairn`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Morning `Pacific/Pohnpei`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Ponape`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `08:56 AM` there
+### 👋 Good Morning `Pacific/Port_Moresby`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Pacific/Rarotonga`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Pacific/Saipan`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Pacific/Samoa`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Tahiti`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Morning `Pacific/Tarawa`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Tongatapu`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Morning `Pacific/Truk`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Morning `Pacific/Wake`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Wallis`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `09:56 AM` there
+### 👋 Good Morning `Pacific/Yap`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `07:56 AM` there
+### 👋 Good Evening `Poland`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 PM` there
+### 👋 Good Evening `Portugal`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Morning `ROC`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Morning `ROK`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `06:56 AM` there
+### 👋 Good Morning `Singapore`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `05:56 AM` there
+### 👋 Good Evening `Turkey`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `UCT`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Afternoon `US/Alaska`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `12:56 PM` there
+### 👋 Good Morning `US/Aleutian`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Afternoon `US/Arizona`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `US/Central`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `US/East-Indiana`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `US/Eastern`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Morning `US/Hawaii`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `11:56 AM` there
+### 👋 Good Afternoon `US/Indiana-Starke`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `03:56 PM` there
+### 👋 Good Afternoon `US/Michigan`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `04:56 PM` there
+### 👋 Good Afternoon `US/Mountain`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `02:56 PM` there
+### 👋 Good Afternoon `US/Pacific`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `01:56 PM` there
+### 👋 Good Morning `US/Samoa`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `10:56 AM` there
+### 👋 Good Evening `UTC`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Universal`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `W-SU`
+#### 📅 Today is `Monday 22/January/2024`
+#### ⌚ It's `12:56 AM` there
+### 👋 Good Evening `WET`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
+### 👋 Good Evening `Zulu`
+#### 📅 Today is `Sunday 21/January/2024`
+#### ⌚ It's `09:56 PM` there
