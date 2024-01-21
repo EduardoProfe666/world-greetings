@@ -32,10 +32,3 @@ jobs:
       env:
         TOKEN: ${{ secrets.TOKEN }}
 
-    - name: Commit files
-      run: |
-        git config --global user.name 'EduardoProfe666'
-        git config --global user.email 'eduardoglez64377@gmail.com'
-        git add -u
-        git commit -m "Update .md files with current time" || echo "No changes to commit"
-        git push
