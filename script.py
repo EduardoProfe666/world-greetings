@@ -9,15 +9,28 @@ load_dotenv()
 github_token = os.getenv('GITHUB_TOKEN')
 
 repo_name = "EduardoProfe666/world-greetings"
-file_path = "greetings"
+file_path = "README.md"
 
 g = Github(github_token)
 
 repo = g.get_repo(repo_name)
+contents = repo.get_contents(file_path)
+
+file_content = \
+    """
+# World Greetings
+This is basically a `python bot` that generates greetings every 15 minutes to
+every part of the world.
+
+## 🌎 Greetings
+
+| **🎌 Part of the World/TimeZone** | **👋 Greeting** | **📅 Day** | **⌚Time** |
+|---|---|---|---|
+"""
 
 for tz in all_timezones:
     t = datetime.now(timezone(tz))
-    day = t.strftime('%I:%M %p')
+    day = t.strftime('%A %d/%B/%Y')
     time = t.strftime('%I:%M %p')
     gr = "Good Evening"
     if 1 <= t.hour < 12:
@@ -25,12 +38,7 @@ for tz in all_timezones:
     elif 12 <= t.hour < 18:
         gr = "Good Afternoon"
 
-    filename = f"greetings/{tz}.md"
-    file_content = \
-        f"""## 👋 {gr} `{tz}`
-    ### 📅 Today is `{day}`
-    ### ⌚ It's `{time}` there
-    ### 🎩 With love, EduardoProfe666 
-    """
-    repo.
-    repo.create_file(filename, "Add .md file for timezone", file_content)
+    file_content += f"| **{tz}** | {gr} | {day} | {time} |\n"
+repo.update_file(contents.path, "Update grettings for all countries", file_content, contents.sha)
+
+
