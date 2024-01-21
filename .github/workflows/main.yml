@@ -1,12 +1,8 @@
 name: Update README with Greetings
 
 on:
-  push:
-      branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
   schedule:
-    - cron: '*/15 * * * *'
+    - cron: '* * * * *'
 
 permissions:
   contents: read 
@@ -28,7 +24,7 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Update .md files
-      run: script.py
+      run: python script.py
 
     - name: Commit files
       run: |
