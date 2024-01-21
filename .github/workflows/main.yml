@@ -1,8 +1,12 @@
 name: Update README with Greetings
 
 on:
+  push:
+      branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/15 * * * *'
 
 permissions:
   contents: read 
