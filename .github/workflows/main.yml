@@ -1,0 +1,35 @@
+name: Update README with Greetings
+
+on:
+  schedule:
+    # Runs every minute
+    - cron: '*/15 * * * *'
+
+jobs:
+  update-time:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out the repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Use the version of Python you need
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Update .md files
+      run: script.py
+
+    - name: Commit files
+      run: |
+        git config --global user.name 'EduardoProfe666'
+        git config --global user.email 'eduardoglez64377@gmail.com'
+        git add -u
+        git commit -m "Update .md files with current time" || echo "No changes to commit"
+        git push
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
