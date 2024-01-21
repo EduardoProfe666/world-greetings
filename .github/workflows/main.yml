@@ -1,9 +1,15 @@
 name: Update README with Greetings
 
 on:
+  push:
+      branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
   schedule:
-    # Runs every minute
     - cron: '*/15 * * * *'
+
+permissions:
+  contents: read 
 
 jobs:
   update-time:
@@ -16,7 +22,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x' # Use the version of Python you need
+        python-version: '3.11'
 
     - name: Install dependencies
       run: pip install -r requirements.txt
