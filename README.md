@@ -5,372 +5,606 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-Esto es un `python bot` que genera cada 5 minutos aprox un mensaje de saludo para 
-cada parte del mundo en dependencia de la hora local.
+This is basically a `python bot` that generates greetings every 5 minutes to
+every part of the world.
 
-Está organizado en países y ciudades, incluyendo información general de cada uno.
+## 🌎 Greetings
 
-Si te gustó deja tu estrellita en el repo 👆😏
-
-# 🌎 Países
-
-
-Pais: CN | Ciudad: Puyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Bayan Nur | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: ZA | Ciudad: Johannesburg | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Navi Mumbai | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: JP | Ciudad: Osaka | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: MX | Ciudad: Iztapalapa | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: RU | Ciudad: Volgograd | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: ZA | Ciudad: Durban | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: MY | Ciudad: Kuala Lumpur | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Ningbo | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: MY | Ciudad: Kota Bharu | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CA | Ciudad: Calgary | Dia: Wednesday 31/January/2024 | Hora: 03:32 PM
-Pais: US | Ciudad: San Antonio | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: JP | Ciudad: Nagoya | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: IN | Ciudad: Meerut | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: ZM | Ciudad: Lusaka | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: DO | Ciudad: Santo Domingo | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: KZ | Ciudad: Almaty | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: RU | Ciudad: Kazan | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: DO | Ciudad: Santiago de los Caballeros | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: CN | Ciudad: Nanjing | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Nanchong | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Nanchang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: AU | Ciudad: Adelaide | Dia: Thursday 01/February/2024 | Hora: 09:02 AM
-Pais: SN | Ciudad: Dakar | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: MZ | Ciudad: Maputo | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: ZA | Ciudad: Cape Town | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: SO | Ciudad: Mogadishu | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: JP | Ciudad: Kyoto | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: TZ | Ciudad: Dar es Salaam | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: LB | Ciudad: Ra’s Bayrūt | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: AM | Ciudad: Yerevan | Dia: Thursday 01/February/2024 | Hora: 02:32 AM
-Pais: JP | Ciudad: Kobe | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: IQ | Ciudad: Baghdad | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Luoyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: LB | Ciudad: Beirut | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: AU | Ciudad: Sydney | Dia: Thursday 01/February/2024 | Hora: 09:32 AM
-Pais: RU | Ciudad: Ufa | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: JP | Ciudad: Kawasaki | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: MX | Ciudad: Ecatepec de Morelos | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: MX | Ciudad: Zapopan | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: ID | Ciudad: South Tangerang | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: IN | Ciudad: Chennai | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: US | Ciudad: Los Angeles | Dia: Wednesday 31/January/2024 | Hora: 02:32 PM
-Pais: ZW | Ciudad: Harare | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IQ | Ciudad: Al Mawşil al Jadīdah | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: IQ | Ciudad: Mosul | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: PE | Ciudad: Lima | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: CN | Ciudad: Guankou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CU | Ciudad: Havana | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: PH | Ciudad: Manila | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Ludhiāna | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IN | Ciudad: Lucknow | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: UY | Ciudad: Montevideo | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: IQ | Ciudad: Basrah | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: IQ | Ciudad: Al Başrah al Qadīmah | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: JP | Ciudad: Hiroshima | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: MX | Ciudad: Ciudad Nezahualcoyotl | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: MX | Ciudad: Mexico City | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: CN | Ciudad: Lanzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IR | Ciudad: Tehran | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: PH | Ciudad: Malingao | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: NG | Ciudad: Port Harcourt | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: IR | Ciudad: Tabriz | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: CA | Ciudad: Montréal | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: MX | Ciudad: Tijuana | Dia: Wednesday 31/January/2024 | Hora: 02:32 PM
-Pais: CN | Ciudad: Kunming | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IR | Ciudad: Shiraz | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: JP | Ciudad: Fukuoka | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: AU | Ciudad: Melbourne | Dia: Thursday 01/February/2024 | Hora: 09:32 AM
-Pais: UZ | Ciudad: Tashkent | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: CI | Ciudad: Abidjan | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: AO | Ciudad: Luanda | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: BE | Ciudad: Brussels | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: PK | Ciudad: Rawalpindi | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: CO | Ciudad: Medellín | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: CL | Ciudad: Santiago | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: DZ | Ciudad: Algiers | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: PK | Ciudad: Peshawar | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: IE | Ciudad: Dublin | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: CN | Ciudad: Jinan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IR | Ciudad: Mashhad | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: MX | Ciudad: Gustavo Adolfo Madero | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: NG | Ciudad: Maiduguri | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: SY | Ciudad: Aleppo | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: PK | Ciudad: Multan | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: IT | Ciudad: Milan | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: SY | Ciudad: Damascus | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: SA | Ciudad: Mecca | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: VE | Ciudad: Valencia | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: JP | Ciudad: Sendai | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: NG | Ciudad: Lagos | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: EC | Ciudad: Quito | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: SA | Ciudad: Jeddah | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: ES | Ciudad: Barcelona | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: US | Ciudad: San Diego | Dia: Wednesday 31/January/2024 | Hora: 02:32 PM
-Pais: US | Ciudad: San Jose | Dia: Wednesday 31/January/2024 | Hora: 02:32 PM
-Pais: SA | Ciudad: Riyadh | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: PK | Ciudad: Lahore | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: BF | Ciudad: Ouagadougou | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: IR | Ciudad: Karaj | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: SA | Ciudad: Medina | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: NG | Ciudad: Kano | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: EC | Ciudad: Guayaquil | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: IN | Ciudad: Kanpur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: NG | Ciudad: Kaduna | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CM | Ciudad: Yaoundé | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: PK | Ciudad: Karachi | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: IN | Ciudad: Kalyān | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: TR | Ciudad: İzmir | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: PK | Ciudad: Hyderabad | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: CN | Ciudad: Huainan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: SD | Ciudad: Omdurman | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: CA | Ciudad: Toronto | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: GB | Ciudad: London | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: PK | Ciudad: Gujranwala | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: JP | Ciudad: Sapporo | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: VE | Ciudad: Maracay | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: VE | Ciudad: Maracaibo | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: PK | Ciudad: Faisalabad | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: CM | Ciudad: Douala | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: SD | Ciudad: Khartoum | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: BG | Ciudad: Sofia | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: CN | Ciudad: Hefei | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: NG | Ciudad: Ibadan | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: RO | Ciudad: Bucharest | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: CN | Ciudad: Hangzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: HU | Ciudad: Budapest | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CN | Ciudad: Handan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: RU | Ciudad: Saint Petersburg | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: AR | Ciudad: Buenos Aires | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: RU | Ciudad: Samara | Dia: Thursday 01/February/2024 | Hora: 02:32 AM
-Pais: CN | Ciudad: Guiyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: AU | Ciudad: Brisbane | Dia: Thursday 01/February/2024 | Hora: 08:32 AM
-Pais: TR | Ciudad: Gaziantep | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Guangzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: RU | Ciudad: Rostov-na-Donu | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: VE | Ciudad: Caracas | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: IN | Ciudad: Jaipur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IR | Ciudad: Isfahan | Dia: Thursday 01/February/2024 | Hora: 02:02 AM
-Pais: IN | Ciudad: Jabalpur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: DE | Ciudad: Berlin | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: DE | Ciudad: Hamburg | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CN | Ciudad: Fuzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: LY | Ciudad: Tripoli | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Indore | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IN | Ciudad: Hyderabad | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Foshan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: NP | Ciudad: Kathmandu | Dia: Thursday 01/February/2024 | Hora: 04:17 AM
-Pais: US | Ciudad: The Bronx | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: US | Ciudad: Brooklyn | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: NG | Ciudad: Benin City | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: ID | Ciudad: Medan | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: SE | Ciudad: Stockholm | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: PL | Ciudad: Warsaw | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CZ | Ciudad: Prague | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CD | Ciudad: Lubumbashi | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: JP | Ciudad: Saitama | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: CD | Ciudad: Kinshasa | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CN | Ciudad: Ürümqi | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: DE | Ciudad: Munich | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: US | Ciudad: Philadelphia | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: EG | Ciudad: Cairo | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: VN | Ciudad: Ho Chi Minh City | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: EG | Ciudad: Giza | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Hāora | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: EG | Ciudad: Alexandria | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: UA | Ciudad: Odessa | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Visakhapatnam | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Dongguan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CG | Ciudad: Brazzaville | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: AR | Ciudad: Rosario | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: ID | Ciudad: Makassar | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: ES | Ciudad: Madrid | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: MA | Ciudad: Rabat | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: IN | Ciudad: Varanasi | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: HK | Ciudad: Kowloon | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: HK | Ciudad: Hong Kong | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Lijiang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Vadodara | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IN | Ciudad: Gorakhpur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: MX | Ciudad: Monterrey | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: IN | Ciudad: Ghāziābād | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: ID | Ciudad: Tangerang | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: CN | Ciudad: Dalian | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: GE | Ciudad: Tbilisi | Dia: Thursday 01/February/2024 | Hora: 02:32 AM
-Pais: ID | Ciudad: Surabaya | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: BR | Ciudad: Guarulhos | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: MA | Ciudad: Casablanca | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: BR | Ciudad: Goiânia | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Chongqing | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: KE | Ciudad: Nairobi | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: IN | Ciudad: Tirunelveli | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Chengdu | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: VN | Ciudad: Hanoi | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: IN | Ciudad: Faridabad | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Zhengzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Changsha | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Thāne | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: ID | Ciudad: Semarang | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: MX | Ciudad: León de los Aldama | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: FR | Ciudad: Paris | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: BO | Ciudad: Santa Cruz de la Sierra | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: IN | Ciudad: Teni | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Zibo | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Dombivli | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: TR | Ciudad: Ankara | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Kunshan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: BR | Ciudad: Curitiba | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Beijing | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: PY | Ciudad: Asunción | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: UA | Ciudad: Kyiv | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: RU | Ciudad: Yekaterinburg | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: GH | Ciudad: Kumasi | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: CN | Ciudad: Yunfu | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Sūrat | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: TR | Ciudad: Adana | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: PH | Ciudad: Davao | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: GH | Ciudad: Accra | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: US | Ciudad: Manhattan | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: AR | Ciudad: Córdoba | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Suzhou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Delhi | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: KH | Ciudad: Phnom Penh | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: CN | Ciudad: Zhongshan | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: CN | Ciudad: Dadonghai | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: BR | Ciudad: Campinas | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: IT | Ciudad: Rome | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CN | Ciudad: Yueyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: ET | Ciudad: Addis Ababa | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: ID | Ciudad: Palembang | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: US | Ciudad: New York City | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: AE | Ciudad: Dubai | Dia: Thursday 01/February/2024 | Hora: 02:32 AM
-Pais: BR | Ciudad: Brasília | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Tongshan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: RU | Ciudad: Nizhniy Novgorod | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: BR | Ciudad: Recife | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Xuchang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: GN | Ciudad: Conakry | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: GN | Ciudad: Camayenne | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: MG | Ciudad: Antananarivo | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: BR | Ciudad: Belo Horizonte | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: UA | Ciudad: Kharkiv | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: BR | Ciudad: São Paulo | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: MX | Ciudad: Guadalajara | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: AT | Ciudad: Vienna | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CN | Ciudad: Xinyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: TH | Ciudad: Bangkok | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: IN | Ciudad: Kolkata | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: RU | Ciudad: Moscow | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Shenyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: US | Ciudad: Queens | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: IN | Ciudad: Mumbai | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: BR | Ciudad: Salvador | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Xianyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: RU | Ciudad: Omsk | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: BR | Ciudad: Rio de Janeiro | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: KP | Ciudad: Pyongyang | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: RU | Ciudad: Novosibirsk | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: PH | Ciudad: Caloocan City | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Xi’an | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Xiamen | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: BR | Ciudad: Manaus | Dia: Wednesday 31/January/2024 | Hora: 06:32 PM
-Pais: SG | Ciudad: Singapore | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Wuxi | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: UA | Ciudad: Donetsk | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: UA | Ciudad: Dnipro | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Bhopal | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Wuhan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: AF | Ciudad: Kabul | Dia: Thursday 01/February/2024 | Hora: 03:02 AM
-Pais: BR | Ciudad: Porto Alegre | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: BR | Ciudad: Fortaleza | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: TR | Ciudad: Istanbul | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: AZ | Ciudad: Baku | Dia: Thursday 01/February/2024 | Hora: 02:32 AM
-Pais: CN | Ciudad: Jilin | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: YE | Ciudad: Sanaa | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: IN | Ciudad: Rājkot | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: RS | Ciudad: Belgrade | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: KR | Ciudad: Daejeon | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: KR | Ciudad: Daegu | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: MX | Ciudad: Puebla | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: KR | Ciudad: Suwon | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: KR | Ciudad: Seoul | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: ID | Ciudad: Jakarta | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: KR | Ciudad: Busan | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: CN | Ciudad: Harbin | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: KR | Ciudad: Gwangju | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: US | Ciudad: Phoenix | Dia: Wednesday 31/January/2024 | Hora: 03:32 PM
-Pais: CN | Ciudad: Fushun | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Tianshui | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Tianjin | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: US | Ciudad: Dallas | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: KR | Ciudad: Goyang-si | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: IN | Ciudad: Pune | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: ML | Ciudad: Bamako | Dia: Wednesday 31/January/2024 | Hora: 10:32 PM
-Pais: KR | Ciudad: Incheon | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: ID | Ciudad: Depok | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: BR | Ciudad: Belém | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: CN | Ciudad: Datong | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Pimpri | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Tangshan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: PH | Ciudad: Quezon City | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: BR | Ciudad: Nova Iguaçu | Dia: Wednesday 31/January/2024 | Hora: 07:32 PM
-Pais: MM | Ciudad: Yangon | Dia: Thursday 01/February/2024 | Hora: 05:02 AM
-Pais: CN | Ciudad: Changchun | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Taiyuan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: MX | Ciudad: Juárez | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: IN | Ciudad: Bengaluru | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: JO | Ciudad: Amman | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Tai’an | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: PH | Ciudad: Budta | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: MM | Ciudad: Mandalay | Dia: Thursday 01/February/2024 | Hora: 05:02 AM
-Pais: CN | Ciudad: Baotou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: KR | Ciudad: Seongnam-si | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: IN | Ciudad: Patna | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Anshan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: RU | Ciudad: Chelyabinsk | Dia: Thursday 01/February/2024 | Hora: 03:32 AM
-Pais: CN | Ciudad: Shiyan | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: TR | Ciudad: Bursa | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Changshu City | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: ID | Ciudad: Bekasi | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: CN | Ciudad: Shijiazhuang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: JP | Ciudad: Yono | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: JP | Ciudad: Yokohama | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: US | Ciudad: Houston | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: IN | Ciudad: Aurangabad | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CN | Ciudad: Shenzhen | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: ID | Ciudad: Bandung | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: BY | Ciudad: Minsk | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Shantou | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Shanghai | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: CN | Ciudad: Ordos | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Nowrangapur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IN | Ciudad: Amritsar | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CO | Ciudad: Cali | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: JP | Ciudad: Tokyo | Dia: Thursday 01/February/2024 | Hora: 07:32 AM
-Pais: ZA | Ciudad: Soweto | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: US | Ciudad: Chicago | Dia: Wednesday 31/January/2024 | Hora: 04:32 PM
-Pais: CN | Ciudad: Jieyang | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: BD | Ciudad: Dhaka | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: ZA | Ciudad: Pretoria | Dia: Thursday 01/February/2024 | Hora: 12:32 AM
-Pais: IN | Ciudad: Allahābād | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: CO | Ciudad: Bogotá | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: IN | Ciudad: Nashik | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: DK | Ciudad: Copenhagen | Dia: Wednesday 31/January/2024 | Hora: 11:32 PM
-Pais: CO | Ciudad: Barranquilla | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
-Pais: ID | Ciudad: Batam | Dia: Thursday 01/February/2024 | Hora: 05:32 AM
-Pais: BD | Ciudad: Chittagong | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: BD | Ciudad: Khulna | Dia: Thursday 01/February/2024 | Hora: 04:32 AM
-Pais: TW | Ciudad: Taipei | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: TW | Ciudad: Taichung | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Ahmedabad | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: IN | Ciudad: Agra | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: UG | Ciudad: Kampala | Dia: Thursday 01/February/2024 | Hora: 01:32 AM
-Pais: CN | Ciudad: Qingdao | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: TW | Ciudad: Kaohsiung | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: AU | Ciudad: Perth | Dia: Thursday 01/February/2024 | Hora: 06:32 AM
-Pais: IN | Ciudad: Nagpur | Dia: Thursday 01/February/2024 | Hora: 04:02 AM
-Pais: HT | Ciudad: Port-au-Prince | Dia: Wednesday 31/January/2024 | Hora: 05:32 PM
+| **🎌 Part of the World/TimeZone** | **👋 Greeting** | **📅 Day** | **⌚Time** |
+|---|---|---|---|
+| **Africa/Abidjan** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Accra** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Addis_Ababa** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Algiers** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Asmara** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Asmera** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Bamako** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Bangui** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Banjul** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Bissau** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Blantyre** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Brazzaville** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Bujumbura** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Cairo** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Casablanca** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Ceuta** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Conakry** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Dakar** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Dar_es_Salaam** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Djibouti** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Douala** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/El_Aaiun** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Freetown** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Gaborone** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Harare** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Johannesburg** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Juba** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Kampala** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Khartoum** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Kigali** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Kinshasa** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Lagos** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Libreville** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Lome** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Luanda** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Lubumbashi** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Lusaka** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Malabo** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Maputo** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Maseru** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Mbabane** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Mogadishu** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Monrovia** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Nairobi** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Africa/Ndjamena** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Niamey** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Nouakchott** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Ouagadougou** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Porto-Novo** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Sao_Tome** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Timbuktu** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Africa/Tripoli** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Africa/Tunis** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Africa/Windhoek** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **America/Adak** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **America/Anchorage** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/Anguilla** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Antigua** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Araguaina** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Buenos_Aires** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Catamarca** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/ComodRivadavia** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Cordoba** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Jujuy** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/La_Rioja** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Mendoza** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Rio_Gallegos** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Salta** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/San_Juan** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/San_Luis** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Tucuman** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Argentina/Ushuaia** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Aruba** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Asuncion** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Atikokan** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Atka** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **America/Bahia** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Bahia_Banderas** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Barbados** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Belem** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Belize** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Blanc-Sablon** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Boa_Vista** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Bogota** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Boise** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Buenos_Aires** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Cambridge_Bay** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Campo_Grande** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Cancun** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Caracas** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Catamarca** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Cayenne** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Cayman** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Chicago** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Chihuahua** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Ciudad_Juarez** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Coral_Harbour** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Cordoba** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Costa_Rica** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Creston** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Cuiaba** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Curacao** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Danmarkshavn** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **America/Dawson** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Dawson_Creek** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Denver** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Detroit** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Dominica** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Edmonton** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Eirunepe** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/El_Salvador** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Ensenada** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **America/Fort_Nelson** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Fort_Wayne** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Fortaleza** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Glace_Bay** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Godthab** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **America/Goose_Bay** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Grand_Turk** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Grenada** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Guadeloupe** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Guatemala** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Guayaquil** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Guyana** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Halifax** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Havana** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Hermosillo** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Indiana/Indianapolis** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indiana/Knox** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Indiana/Marengo** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indiana/Petersburg** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indiana/Tell_City** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Indiana/Vevay** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indiana/Vincennes** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indiana/Winamac** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Indianapolis** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Inuvik** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Iqaluit** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Jamaica** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Jujuy** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Juneau** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/Kentucky/Louisville** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Kentucky/Monticello** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Knox_IN** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Kralendijk** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/La_Paz** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Lima** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Los_Angeles** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **America/Louisville** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Lower_Princes** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Maceio** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Managua** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Manaus** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Marigot** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Martinique** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Matamoros** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Mazatlan** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Mendoza** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Menominee** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Merida** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Metlakatla** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/Mexico_City** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Miquelon** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Moncton** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Monterrey** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Montevideo** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Montreal** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Montserrat** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Nassau** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/New_York** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Nipigon** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Nome** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/Noronha** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **America/North_Dakota/Beulah** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/North_Dakota/Center** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/North_Dakota/New_Salem** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Nuuk** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **America/Ojinaga** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Panama** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Pangnirtung** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Paramaribo** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Phoenix** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Port-au-Prince** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Port_of_Spain** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Porto_Acre** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Porto_Velho** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Puerto_Rico** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Punta_Arenas** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Rainy_River** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Rankin_Inlet** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Recife** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Regina** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Resolute** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Rio_Branco** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Rosario** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Santa_Isabel** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **America/Santarem** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Santiago** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Santo_Domingo** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Sao_Paulo** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **America/Scoresbysund** | Good Evening | Wednesday 31/January/2024 | 09:34 PM |
+| **America/Shiprock** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Sitka** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/St_Barthelemy** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/St_Johns** | Good Evening | Wednesday 31/January/2024 | 07:04 PM |
+| **America/St_Kitts** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/St_Lucia** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/St_Thomas** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/St_Vincent** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Swift_Current** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Tegucigalpa** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Thule** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Thunder_Bay** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Tijuana** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **America/Toronto** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **America/Tortola** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Vancouver** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **America/Virgin** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **America/Whitehorse** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **America/Winnipeg** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **America/Yakutat** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **America/Yellowknife** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Antarctica/Casey** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Antarctica/Davis** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Antarctica/DumontDUrville** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Antarctica/Macquarie** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Antarctica/Mawson** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Antarctica/McMurdo** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Antarctica/Palmer** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Antarctica/Rothera** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Antarctica/South_Pole** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Antarctica/Syowa** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Antarctica/Troll** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Antarctica/Vostok** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Arctic/Longyearbyen** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Asia/Aden** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Almaty** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Amman** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Anadyr** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Asia/Aqtau** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Aqtobe** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Ashgabat** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Ashkhabad** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Atyrau** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Baghdad** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Bahrain** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Baku** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Asia/Bangkok** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Barnaul** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Beirut** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Bishkek** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Brunei** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Calcutta** | Good Morning | Thursday 01/February/2024 | 04:04 AM |
+| **Asia/Chita** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Choibalsan** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Chongqing** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Chungking** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Colombo** | Good Morning | Thursday 01/February/2024 | 04:04 AM |
+| **Asia/Dacca** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Damascus** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Dhaka** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Dili** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Dubai** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Asia/Dushanbe** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Famagusta** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Gaza** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Harbin** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Hebron** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Ho_Chi_Minh** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Hong_Kong** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Hovd** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Irkutsk** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Istanbul** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Jakarta** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Jayapura** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Jerusalem** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Kabul** | Good Morning | Thursday 01/February/2024 | 03:04 AM |
+| **Asia/Kamchatka** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Asia/Karachi** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Kashgar** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Kathmandu** | Good Morning | Thursday 01/February/2024 | 04:19 AM |
+| **Asia/Katmandu** | Good Morning | Thursday 01/February/2024 | 04:19 AM |
+| **Asia/Khandyga** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Kolkata** | Good Morning | Thursday 01/February/2024 | 04:04 AM |
+| **Asia/Krasnoyarsk** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Kuala_Lumpur** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Kuching** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Kuwait** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Macao** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Macau** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Magadan** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Asia/Makassar** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Manila** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Muscat** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Asia/Nicosia** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Novokuznetsk** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Novosibirsk** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Omsk** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Oral** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Phnom_Penh** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Pontianak** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Pyongyang** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Qatar** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Qostanay** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Qyzylorda** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Rangoon** | Good Morning | Thursday 01/February/2024 | 05:04 AM |
+| **Asia/Riyadh** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Asia/Saigon** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Sakhalin** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Asia/Samarkand** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Seoul** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Shanghai** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Singapore** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Srednekolymsk** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Asia/Taipei** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Tashkent** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Tbilisi** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Asia/Tehran** | Good Morning | Thursday 01/February/2024 | 02:04 AM |
+| **Asia/Tel_Aviv** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Asia/Thimbu** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Thimphu** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Tokyo** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Tomsk** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Ujung_Pandang** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Ulaanbaatar** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Ulan_Bator** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Asia/Urumqi** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Asia/Ust-Nera** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Asia/Vientiane** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Asia/Vladivostok** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Asia/Yakutsk** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Asia/Yangon** | Good Morning | Thursday 01/February/2024 | 05:04 AM |
+| **Asia/Yekaterinburg** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Asia/Yerevan** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Atlantic/Azores** | Good Evening | Wednesday 31/January/2024 | 09:34 PM |
+| **Atlantic/Bermuda** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **Atlantic/Canary** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/Cape_Verde** | Good Evening | Wednesday 31/January/2024 | 09:34 PM |
+| **Atlantic/Faeroe** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/Faroe** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/Jan_Mayen** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Atlantic/Madeira** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/Reykjavik** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/South_Georgia** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **Atlantic/St_Helena** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Atlantic/Stanley** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Australia/ACT** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Adelaide** | Good Morning | Thursday 01/February/2024 | 09:04 AM |
+| **Australia/Brisbane** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Australia/Broken_Hill** | Good Morning | Thursday 01/February/2024 | 09:04 AM |
+| **Australia/Canberra** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Currie** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Darwin** | Good Morning | Thursday 01/February/2024 | 08:04 AM |
+| **Australia/Eucla** | Good Morning | Thursday 01/February/2024 | 07:19 AM |
+| **Australia/Hobart** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/LHI** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Lindeman** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Australia/Lord_Howe** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Melbourne** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/NSW** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/North** | Good Morning | Thursday 01/February/2024 | 08:04 AM |
+| **Australia/Perth** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Australia/Queensland** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Australia/South** | Good Morning | Thursday 01/February/2024 | 09:04 AM |
+| **Australia/Sydney** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Tasmania** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/Victoria** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Australia/West** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Australia/Yancowinna** | Good Morning | Thursday 01/February/2024 | 09:04 AM |
+| **Brazil/Acre** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Brazil/DeNoronha** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **Brazil/East** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Brazil/West** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **CET** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **CST6CDT** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **Canada/Atlantic** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **Canada/Central** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **Canada/Eastern** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Canada/Mountain** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Canada/Newfoundland** | Good Evening | Wednesday 31/January/2024 | 07:04 PM |
+| **Canada/Pacific** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **Canada/Saskatchewan** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **Canada/Yukon** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Chile/Continental** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Chile/EasterIsland** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Cuba** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **EET** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **EST** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **EST5EDT** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Egypt** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Eire** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/GMT** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/GMT+0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/GMT+1** | Good Evening | Wednesday 31/January/2024 | 09:34 PM |
+| **Etc/GMT+10** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Etc/GMT+11** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **Etc/GMT+12** | Good Morning | Wednesday 31/January/2024 | 10:34 AM |
+| **Etc/GMT+2** | Good Evening | Wednesday 31/January/2024 | 08:34 PM |
+| **Etc/GMT+3** | Good Evening | Wednesday 31/January/2024 | 07:34 PM |
+| **Etc/GMT+4** | Good Evening | Wednesday 31/January/2024 | 06:34 PM |
+| **Etc/GMT+5** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Etc/GMT+6** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **Etc/GMT+7** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Etc/GMT+8** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **Etc/GMT+9** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **Etc/GMT-0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/GMT-1** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Etc/GMT-10** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Etc/GMT-11** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Etc/GMT-12** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Etc/GMT-13** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Etc/GMT-14** | Good Afternoon | Thursday 01/February/2024 | 12:34 PM |
+| **Etc/GMT-2** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Etc/GMT-3** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Etc/GMT-4** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Etc/GMT-5** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Etc/GMT-6** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Etc/GMT-7** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Etc/GMT-8** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Etc/GMT-9** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Etc/GMT0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/Greenwich** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/UCT** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/UTC** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/Universal** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Etc/Zulu** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Amsterdam** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Andorra** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Astrakhan** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Europe/Athens** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Belfast** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Belgrade** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Berlin** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Bratislava** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Brussels** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Bucharest** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Budapest** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Busingen** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Chisinau** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Copenhagen** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Dublin** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Gibraltar** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Guernsey** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Helsinki** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Isle_of_Man** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Istanbul** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Jersey** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Kaliningrad** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Kiev** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Kirov** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Kyiv** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Lisbon** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Ljubljana** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/London** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Europe/Luxembourg** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Madrid** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Malta** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Mariehamn** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Minsk** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Monaco** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Moscow** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Nicosia** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Oslo** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Paris** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Podgorica** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Prague** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Riga** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Rome** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Samara** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Europe/San_Marino** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Sarajevo** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Saratov** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Europe/Simferopol** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Skopje** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Sofia** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Stockholm** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Tallinn** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Tirane** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Tiraspol** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Ulyanovsk** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Europe/Uzhgorod** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Vaduz** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Vatican** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Vienna** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Vilnius** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Volgograd** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Europe/Warsaw** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Zagreb** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Europe/Zaporozhye** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Europe/Zurich** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **GB** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **GB-Eire** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **GMT** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **GMT+0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **GMT-0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **GMT0** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Greenwich** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **HST** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Hongkong** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Iceland** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Indian/Antananarivo** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Indian/Chagos** | Good Morning | Thursday 01/February/2024 | 04:34 AM |
+| **Indian/Christmas** | Good Morning | Thursday 01/February/2024 | 05:34 AM |
+| **Indian/Cocos** | Good Morning | Thursday 01/February/2024 | 05:04 AM |
+| **Indian/Comoro** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Indian/Kerguelen** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Indian/Mahe** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Indian/Maldives** | Good Morning | Thursday 01/February/2024 | 03:34 AM |
+| **Indian/Mauritius** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Indian/Mayotte** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **Indian/Reunion** | Good Morning | Thursday 01/February/2024 | 02:34 AM |
+| **Iran** | Good Morning | Thursday 01/February/2024 | 02:04 AM |
+| **Israel** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **Jamaica** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Japan** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Kwajalein** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Libya** | Good Evening | Thursday 01/February/2024 | 12:34 AM |
+| **MET** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **MST** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **MST7MDT** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Mexico/BajaNorte** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **Mexico/BajaSur** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **Mexico/General** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **NZ** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **NZ-CHAT** | Good Afternoon | Thursday 01/February/2024 | 12:19 PM |
+| **Navajo** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **PRC** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **PST8PDT** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **Pacific/Apia** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Auckland** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Bougainville** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Chatham** | Good Afternoon | Thursday 01/February/2024 | 12:19 PM |
+| **Pacific/Chuuk** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Pacific/Easter** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **Pacific/Efate** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Enderbury** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Fakaofo** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Fiji** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Funafuti** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Galapagos** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **Pacific/Gambier** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **Pacific/Guadalcanal** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Guam** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Pacific/Honolulu** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Pacific/Johnston** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Pacific/Kanton** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Kiritimati** | Good Afternoon | Thursday 01/February/2024 | 12:34 PM |
+| **Pacific/Kosrae** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Kwajalein** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Majuro** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Marquesas** | Good Afternoon | Wednesday 31/January/2024 | 01:04 PM |
+| **Pacific/Midway** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **Pacific/Nauru** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Niue** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **Pacific/Norfolk** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Noumea** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Pago_Pago** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **Pacific/Palau** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Pacific/Pitcairn** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **Pacific/Pohnpei** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Ponape** | Good Morning | Thursday 01/February/2024 | 09:34 AM |
+| **Pacific/Port_Moresby** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Pacific/Rarotonga** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Pacific/Saipan** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Pacific/Samoa** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **Pacific/Tahiti** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **Pacific/Tarawa** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Tongatapu** | Good Morning | Thursday 01/February/2024 | 11:34 AM |
+| **Pacific/Truk** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Pacific/Wake** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Wallis** | Good Morning | Thursday 01/February/2024 | 10:34 AM |
+| **Pacific/Yap** | Good Morning | Thursday 01/February/2024 | 08:34 AM |
+| **Poland** | Good Evening | Wednesday 31/January/2024 | 11:34 PM |
+| **Portugal** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **ROC** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **ROK** | Good Morning | Thursday 01/February/2024 | 07:34 AM |
+| **Singapore** | Good Morning | Thursday 01/February/2024 | 06:34 AM |
+| **Turkey** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **UCT** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **US/Alaska** | Good Afternoon | Wednesday 31/January/2024 | 01:34 PM |
+| **US/Aleutian** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **US/Arizona** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **US/Central** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **US/East-Indiana** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **US/Eastern** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **US/Hawaii** | Good Afternoon | Wednesday 31/January/2024 | 12:34 PM |
+| **US/Indiana-Starke** | Good Afternoon | Wednesday 31/January/2024 | 04:34 PM |
+| **US/Michigan** | Good Afternoon | Wednesday 31/January/2024 | 05:34 PM |
+| **US/Mountain** | Good Afternoon | Wednesday 31/January/2024 | 03:34 PM |
+| **US/Pacific** | Good Afternoon | Wednesday 31/January/2024 | 02:34 PM |
+| **US/Samoa** | Good Morning | Wednesday 31/January/2024 | 11:34 AM |
+| **UTC** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Universal** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **W-SU** | Good Morning | Thursday 01/February/2024 | 01:34 AM |
+| **WET** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
+| **Zulu** | Good Evening | Wednesday 31/January/2024 | 10:34 PM |
