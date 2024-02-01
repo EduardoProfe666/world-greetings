@@ -26,6 +26,9 @@ file_content = \
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+> [!NOTE]  
+> En Windows no se verán correctamente los emojis de las banderas.
+
 Esto es un `python bot` que genera cada 5 minutos aprox un mensaje de saludo para 
 cada parte del mundo en dependencia de la hora local.
 
