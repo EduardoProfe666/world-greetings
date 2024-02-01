@@ -32,7 +32,7 @@ cada parte del mundo en dependencia de la hora local.
 Está organizado en países y ciudades, incluyendo información general de cada uno.
 
 Por cuestiones de eficiencia solamente se incluyen las ciudades con una población mayor 
-que {min_population} habitantes
+que `{min_population}` habitantes
 
 Si te gustó deja tu estrellita en el repo 👆😏
 
