@@ -10771,30 +10771,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cascavel
 
-`🗺️ Latitud`: -4.13306
-
-`🗺️ Longitud`: -38.24194
-
-`🗺️ Id Geográfico`: 3402613
-
-`⏰ Zona Horaria`: America/Fortaleza
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 52357
-
-`👨‍👨‍👧‍👧 Demografía`: 31
-
-        
-### Cascavel
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 09:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cascavel
-
 `🗺️ Latitud`: -24.95583
 
 `🗺️ Longitud`: -53.45528
@@ -10808,6 +10784,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 257172
 
 `👨‍👨‍👧‍👧 Demografía`: 786
+
+        
+### Cascavel
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 09:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cascavel
+
+`🗺️ Latitud`: -4.13306
+
+`🗺️ Longitud`: -38.24194
+
+`🗺️ Id Geográfico`: 3402613
+
+`⏰ Zona Horaria`: America/Fortaleza
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 52357
+
+`👨‍👨‍👧‍👧 Demografía`: 31
 
         
 ### Castanhal
@@ -31849,30 +31849,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Thursday 01/February/2024
 
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Huazhou
-
-`🗺️ Latitud`: 32.68222
-
-`🗺️ Longitud`: 112.08194
-
-`🗺️ Id Geográfico`: 1812990
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 59338
-
-`👨‍👨‍👧‍👧 Demografía`: 119
-
-        
-### Huazhou
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
 `⌚ Hora Local`: 06:38 AM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Huazhou
@@ -31890,6 +31866,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 91701
 
 `👨‍👨‍👧‍👧 Demografía`: 35
+
+        
+### Huazhou
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Huazhou
+
+`🗺️ Latitud`: 32.68222
+
+`🗺️ Longitud`: 112.08194
+
+`🗺️ Id Geográfico`: 1812990
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 59338
+
+`👨‍👨‍👧‍👧 Demografía`: 119
 
         
 ### Huicheng
@@ -33053,30 +33053,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jining
 
-`🗺️ Latitud`: 41.0275
-
-`🗺️ Longitud`: 113.10583
-
-`🗺️ Id Geográfico`: 2036458
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 258757
-
-`👨‍👨‍👧‍👧 Demografía`: 1409
-
-        
-### Jining
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jining
-
 `🗺️ Latitud`: 35.405
 
 `🗺️ Longitud`: 116.58139
@@ -33090,6 +33066,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 450327
 
 `👨‍👨‍👧‍👧 Demografía`: 43
+
+        
+### Jining
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jining
+
+`🗺️ Latitud`: 41.0275
+
+`🗺️ Longitud`: 113.10583
+
+`🗺️ Id Geográfico`: 2036458
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 258757
+
+`👨‍👨‍👧‍👧 Demografía`: 1409
 
         
 ### Jinji
@@ -33245,30 +33245,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jinzhou
 
-`🗺️ Latitud`: 41.10778
-
-`🗺️ Longitud`: 121.14167
-
-`🗺️ Id Geográfico`: 2036427
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 604269
-
-`👨‍👨‍👧‍👧 Demografía`: 26
-
-        
-### Jinzhou
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jinzhou
-
 `🗺️ Latitud`: 39.1
 
 `🗺️ Longitud`: 121.71667
@@ -33282,6 +33258,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 215386
 
 `👨‍👨‍👧‍👧 Demografía`: 8
+
+        
+### Jinzhou
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jinzhou
+
+`🗺️ Latitud`: 41.10778
+
+`🗺️ Longitud`: 121.14167
+
+`🗺️ Id Geográfico`: 2036427
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 604269
+
+`👨‍👨‍👧‍👧 Demografía`: 26
 
         
 ### Jishu
@@ -33605,30 +33605,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kaiyuan
 
-`🗺️ Latitud`: 42.53306
-
-`🗺️ Longitud`: 124.04028
-
-`🗺️ Id Geográfico`: 2036337
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 112462
-
-`👨‍👨‍👧‍👧 Demografía`: 91
-
-        
-### Kaiyuan
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kaiyuan
-
 `🗺️ Latitud`: 23.69767
 
 `🗺️ Longitud`: 103.30372
@@ -33642,6 +33618,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 198423
 
 `👨‍👨‍👧‍👧 Demografía`: 1259
+
+        
+### Kaiyuan
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kaiyuan
+
+`🗺️ Latitud`: 42.53306
+
+`🗺️ Longitud`: 124.04028
+
+`🗺️ Id Geográfico`: 2036337
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 112462
+
+`👨‍👨‍👧‍👧 Demografía`: 91
 
         
 ### Kangding
@@ -34085,30 +34085,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lanxi
 
-`🗺️ Latitud`: 46.25785
-
-`🗺️ Longitud`: 126.28269
-
-`🗺️ Id Geográfico`: 2036226
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 72528
-
-`👨‍👨‍👧‍👧 Demografía`: 164
-
-        
-### Lanxi
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lanxi
-
 `🗺️ Latitud`: 29.21588
 
 `🗺️ Longitud`: 119.47156
@@ -34122,6 +34098,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 73706
 
 `👨‍👨‍👧‍👧 Demografía`: 38
+
+        
+### Lanxi
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lanxi
+
+`🗺️ Latitud`: 46.25785
+
+`🗺️ Longitud`: 126.28269
+
+`🗺️ Id Geográfico`: 2036226
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 72528
+
+`👨‍👨‍👧‍👧 Demografía`: 164
 
         
 ### Lanzhou
@@ -36005,30 +36005,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mingshui
 
-`🗺️ Latitud`: 47.1815
-
-`🗺️ Longitud`: 125.90027
-
-`🗺️ Id Geográfico`: 2035758
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 59369
-
-`👨‍👨‍👧‍👧 Demografía`: 249
-
-        
-### Mingshui
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mingshui
-
 `🗺️ Latitud`: 36.71667
 
 `🗺️ Longitud`: 117.5
@@ -36042,6 +36018,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 114858
 
 `👨‍👨‍👧‍👧 Demografía`: 73
+
+        
+### Mingshui
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mingshui
+
+`🗺️ Latitud`: 47.1815
+
+`🗺️ Longitud`: 125.90027
+
+`🗺️ Id Geográfico`: 2035758
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 59369
+
+`👨‍👨‍👧‍👧 Demografía`: 249
 
         
 ### Mingyue
@@ -41093,30 +41093,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Wuxi
 
-`🗺️ Latitud`: 31.56887
-
-`🗺️ Longitud`: 120.28857
-
-`🗺️ Id Geográfico`: 1790923
-
-`⏰ Zona Horaria`: Asia/Shanghai
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 3543719
-
-`👨‍👨‍👧‍👧 Demografía`: 10
-
-        
-### Wuxi
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 08:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Wuxi
-
 `🗺️ Latitud`: 26.5844
 
 `🗺️ Longitud`: 111.859
@@ -41130,6 +41106,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 66442
 
 `👨‍👨‍👧‍👧 Demografía`: 94
+
+        
+### Wuxi
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 08:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Wuxi
+
+`🗺️ Latitud`: 31.56887
+
+`🗺️ Longitud`: 120.28857
+
+`🗺️ Id Geográfico`: 1790923
+
+`⏰ Zona Horaria`: Asia/Shanghai
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3543719
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Wuxue
@@ -171412,30 +171412,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zarechnyy
 
-`🗺️ Latitud`: 53.20356
-
-`🗺️ Longitud`: 45.19227
-
-`🗺️ Id Geográfico`: 464625
-
-`⏰ Zona Horaria`: Europe/Moscow
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 63579
-
-`👨‍👨‍👧‍👧 Demografía`: 194
-
-        
-### Zarechnyy
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 03:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zarechnyy
-
 `🗺️ Latitud`: 53.13333
 
 `🗺️ Longitud`: 46.58333
@@ -171449,6 +171425,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 62139
 
 `👨‍👨‍👧‍👧 Demografía`: 221
+
+        
+### Zarechnyy
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 03:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zarechnyy
+
+`🗺️ Latitud`: 53.20356
+
+`🗺️ Longitud`: 45.19227
+
+`🗺️ Id Geográfico`: 464625
+
+`⏰ Zona Horaria`: Europe/Moscow
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 63579
+
+`👨‍👨‍👧‍👧 Demografía`: 194
 
         
 ### Zarinsk
@@ -180495,30 +180495,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Eregli
 
-`🗺️ Latitud`: 41.28261
-
-`🗺️ Longitud`: 31.41806
-
-`🗺️ Id Geográfico`: 747471
-
-`⏰ Zona Horaria`: Europe/Istanbul
-
-`⛰️ Elevación`: None
-
-`🚶‍ Población`: 88848
-
-`👨‍👨‍👧‍👧 Demografía`: 43
-
-        
-### Ereğli
-`👋 Saludo`: Buenos días 
-
-`📅 Día`: Thursday 01/February/2024
-
-`⌚ Hora Local`: 03:38 AM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Eregli
-
 `🗺️ Latitud`: 37.51333
 
 `🗺️ Longitud`: 34.04672
@@ -180532,6 +180508,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 92117
 
 `👨‍👨‍👧‍👧 Demografía`: 1053
+
+        
+### Ereğli
+`👋 Saludo`: Buenos días 
+
+`📅 Día`: Thursday 01/February/2024
+
+`⌚ Hora Local`: 03:38 AM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Eregli
+
+`🗺️ Latitud`: 41.28261
+
+`🗺️ Longitud`: 31.41806
+
+`🗺️ Id Geográfico`: 747471
+
+`⏰ Zona Horaria`: Europe/Istanbul
+
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 88848
+
+`👨‍👨‍👧‍👧 Demografía`: 43
 
         
 ### Ergani
@@ -187517,30 +187517,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Wednesday 31/January/2024
 
-`⌚ Hora Local`: 05:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Alhambra
-
-`🗺️ Latitud`: 33.49838
-
-`🗺️ Longitud`: -112.13432
-
-`🗺️ Id Geográfico`: 5551123
-
-`⏰ Zona Horaria`: America/Phoenix
-
-`⛰️ Elevación`: 342
-
-`🚶‍ Población`: 127764
-
-`👨‍👨‍👧‍👧 Demografía`: 346
-
-        
-### Alhambra
-`👋 Saludo`: Buenas tardes 
-
-`📅 Día`: Wednesday 31/January/2024
-
 `⌚ Hora Local`: 04:38 PM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Alhambra
@@ -187558,6 +187534,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 85551
 
 `👨‍👨‍👧‍👧 Demografía`: 153
+
+        
+### Alhambra
+`👋 Saludo`: Buenas tardes 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 05:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Alhambra
+
+`🗺️ Latitud`: 33.49838
+
+`🗺️ Longitud`: -112.13432
+
+`🗺️ Id Geográfico`: 5551123
+
+`⏰ Zona Horaria`: America/Phoenix
+
+`⛰️ Elevación`: 342
+
+`🚶‍ Población`: 127764
+
+`👨‍👨‍👧‍👧 Demografía`: 346
 
         
 ### Alief
@@ -187921,30 +187921,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Apple Valley
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Apple Valley
-
-`🗺️ Latitud`: 44.73191
-
-`🗺️ Longitud`: -93.21772
-
-`🗺️ Id Geográfico`: 5016494
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 291
-
-`🚶‍ Población`: 51221
-
-`👨‍👨‍👧‍👧 Demografía`: 288
-
-        
-### Apple Valley
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -187966,6 +187942,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 72174
 
 `👨‍👨‍👧‍👧 Demografía`: 902
+
+        
+### Apple Valley
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Apple Valley
+
+`🗺️ Latitud`: 44.73191
+
+`🗺️ Longitud`: -93.21772
+
+`🗺️ Id Geográfico`: 5016494
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 291
+
+`🚶‍ Población`: 51221
+
+`👨‍👨‍👧‍👧 Demografía`: 288
 
         
 ### Appleton
@@ -188305,30 +188305,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Aurora
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Aurora
-
-`🗺️ Latitud`: 41.76058
-
-`🗺️ Longitud`: -88.32007
-
-`🗺️ Id Geográfico`: 4883817
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 207
-
-`🚶‍ Población`: 200661
-
-`👨‍👨‍👧‍👧 Demografía`: 210
-
-        
-### Aurora
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -188350,6 +188326,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 359407
 
 `👨‍👨‍👧‍👧 Demografía`: 1651
+
+        
+### Aurora
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Aurora
+
+`🗺️ Latitud`: 41.76058
+
+`🗺️ Longitud`: -88.32007
+
+`🗺️ Id Geográfico`: 4883817
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 207
+
+`🚶‍ Población`: 200661
+
+`👨‍👨‍👧‍👧 Demografía`: 210
 
         
 ### Austin
@@ -190161,30 +190161,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Canton
 
-`🗺️ Latitud`: 42.30865
-
-`🗺️ Longitud`: -83.48216
-
-`🗺️ Id Geográfico`: 4987990
-
-`⏰ Zona Horaria`: America/Detroit
-
-`⛰️ Elevación`: 207
-
-`🚶‍ Población`: 86825
-
-`👨‍👨‍👧‍👧 Demografía`: 209
-
-        
-### Canton
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Canton
-
 `🗺️ Latitud`: 40.79895
 
 `🗺️ Longitud`: -81.37845
@@ -190198,6 +190174,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 71885
 
 `👨‍👨‍👧‍👧 Demografía`: 329
+
+        
+### Canton
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Canton
+
+`🗺️ Latitud`: 42.30865
+
+`🗺️ Longitud`: -83.48216
+
+`🗺️ Id Geográfico`: 4987990
+
+`⏰ Zona Horaria`: America/Detroit
+
+`⛰️ Elevación`: 207
+
+`🚶‍ Población`: 86825
+
+`👨‍👨‍👧‍👧 Demografía`: 209
 
         
 ### Cape Coral
@@ -191525,30 +191525,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Wednesday 31/January/2024
 
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Columbia
-
-`🗺️ Latitud`: 38.95171
-
-`🗺️ Longitud`: -92.33407
-
-`🗺️ Id Geográfico`: 4381982
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 215
-
-`🚶‍ Población`: 119108
-
-`👨‍👨‍👧‍👧 Demografía`: 219
-
-        
-### Columbia
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
 `⌚ Hora Local`: 07:38 PM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Columbia
@@ -191566,6 +191542,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 133803
 
 `👨‍👨‍👧‍👧 Demografía`: 97
+
+        
+### Columbia
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Columbia
+
+`🗺️ Latitud`: 38.95171
+
+`🗺️ Longitud`: -92.33407
+
+`🗺️ Id Geográfico`: 4381982
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 215
+
+`🚶‍ Población`: 119108
+
+`👨‍👨‍👧‍👧 Demografía`: 219
 
         
 ### Columbus
@@ -191665,30 +191665,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Concord
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Concord
-
-`🗺️ Latitud`: 35.40888
-
-`🗺️ Longitud`: -80.58158
-
-`🗺️ Id Geográfico`: 4461574
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 228
-
-`🚶‍ Población`: 87696
-
-`👨‍👨‍👧‍👧 Demografía`: 209
-
-        
-### Concord
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -191710,6 +191686,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 128667
 
 `👨‍👨‍👧‍👧 Demografía`: 25
+
+        
+### Concord
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Concord
+
+`🗺️ Latitud`: 35.40888
+
+`🗺️ Longitud`: -80.58158
+
+`🗺️ Id Geográfico`: 4461574
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 228
+
+`🚶‍ Población`: 87696
+
+`👨‍👨‍👧‍👧 Demografía`: 209
 
         
 ### Coney Island
@@ -192369,30 +192369,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Decatur
 
-`🗺️ Latitud`: 39.84031
-
-`🗺️ Longitud`: -88.9548
-
-`🗺️ Id Geográfico`: 4236895
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 205
-
-`🚶‍ Población`: 73254
-
-`👨‍👨‍👧‍👧 Demografía`: 206
-
-        
-### Decatur
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Decatur
-
 `🗺️ Latitud`: 34.60593
 
 `🗺️ Longitud`: -86.98334
@@ -192406,6 +192382,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 55437
 
 `👨‍👨‍👧‍👧 Demografía`: 175
+
+        
+### Decatur
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Decatur
+
+`🗺️ Latitud`: 39.84031
+
+`🗺️ Longitud`: -88.9548
+
+`🗺️ Id Geográfico`: 4236895
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 205
+
+`🚶‍ Población`: 73254
+
+`👨‍👨‍👧‍👧 Demografía`: 206
 
         
 ### Deer Valley
@@ -195125,30 +195125,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Wednesday 31/January/2024
 
-`⌚ Hora Local`: 05:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Glendale
-
-`🗺️ Latitud`: 33.53865
-
-`🗺️ Longitud`: -112.18599
-
-`🗺️ Id Geográfico`: 5295985
-
-`⏰ Zona Horaria`: America/Phoenix
-
-`⛰️ Elevación`: 351
-
-`🚶‍ Población`: 240126
-
-`👨‍👨‍👧‍👧 Demografía`: 350
-
-        
-### Glendale
-`👋 Saludo`: Buenas tardes 
-
-`📅 Día`: Wednesday 31/January/2024
-
 `⌚ Hora Local`: 04:38 PM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Glendale
@@ -195166,6 +195142,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 201020
 
 `👨‍👨‍👧‍👧 Demografía`: 161
+
+        
+### Glendale
+`👋 Saludo`: Buenas tardes 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 05:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Glendale
+
+`🗺️ Latitud`: 33.53865
+
+`🗺️ Longitud`: -112.18599
+
+`🗺️ Id Geográfico`: 5295985
+
+`⏰ Zona Horaria`: America/Phoenix
+
+`⛰️ Elevación`: 351
+
+`🚶‍ Población`: 240126
+
+`👨‍👨‍👧‍👧 Demografía`: 350
 
         
 ### Glendora
@@ -195513,30 +195513,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Greenville
 
-`🗺️ Latitud`: 35.61266
-
-`🗺️ Longitud`: -77.36635
-
-`🗺️ Id Geográfico`: 4469160
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 18
-
-`🚶‍ Población`: 90597
-
-`👨‍👨‍👧‍👧 Demografía`: 19
-
-        
-### Greenville
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Greenville
-
 `🗺️ Latitud`: 34.85262
 
 `🗺️ Longitud`: -82.39401
@@ -195550,6 +195526,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 64579
 
 `👨‍👨‍👧‍👧 Demografía`: 307
+
+        
+### Greenville
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Greenville
+
+`🗺️ Latitud`: 35.61266
+
+`🗺️ Longitud`: -77.36635
+
+`🗺️ Id Geográfico`: 4469160
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 18
+
+`🚶‍ Población`: 90597
+
+`👨‍👨‍👧‍👧 Demografía`: 19
 
         
 ### Greenwood
@@ -196225,30 +196225,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Hollywood
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hollywood
-
-`🗺️ Latitud`: 26.0112
-
-`🗺️ Longitud`: -80.14949
-
-`🗺️ Id Geográfico`: 4158928
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 3
-
-`🚶‍ Población`: 149728
-
-`👨‍👨‍👧‍👧 Demografía`: 10
-
-        
-### Hollywood
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -196270,6 +196246,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 167664
 
 `👨‍👨‍👧‍👧 Demografía`: 113
+
+        
+### Hollywood
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hollywood
+
+`🗺️ Latitud`: 26.0112
+
+`🗺️ Longitud`: -80.14949
+
+`🗺️ Id Geográfico`: 4158928
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 3
+
+`🚶‍ Población`: 149728
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Homestead
@@ -196757,30 +196757,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Wednesday 31/January/2024
 
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jackson
-
-`🗺️ Latitud`: 39.7765
-
-`🗺️ Longitud`: -74.86238
-
-`🗺️ Id Geográfico`: 4502434
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 37
-
-`🚶‍ Población`: 54856
-
-`👨‍👨‍👧‍👧 Demografía`: 40
-
-        
-### Jackson
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
 `⌚ Hora Local`: 06:38 PM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jackson
@@ -196798,6 +196774,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 66975
 
 `👨‍👨‍👧‍👧 Demografía`: 126
+
+        
+### Jackson
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jackson
+
+`🗺️ Latitud`: 39.7765
+
+`🗺️ Longitud`: -74.86238
+
+`🗺️ Id Geográfico`: 4502434
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 37
+
+`🚶‍ Población`: 54856
+
+`👨‍👨‍👧‍👧 Demografía`: 40
 
         
 ### Jackson
@@ -197145,30 +197145,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kansas City
 
-`🗺️ Latitud`: 39.09973
-
-`🗺️ Longitud`: -94.57857
-
-`🗺️ Id Geográfico`: 4393217
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 274
-
-`🚶‍ Población`: 475378
-
-`👨‍👨‍👧‍👧 Demografía`: 290
-
-        
-### Kansas City
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kansas City
-
 `🗺️ Latitud`: 39.11417
 
 `🗺️ Longitud`: -94.62746
@@ -197182,6 +197158,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 151306
 
 `👨‍👨‍👧‍👧 Demografía`: 272
+
+        
+### Kansas City
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kansas City
+
+`🗺️ Latitud`: 39.09973
+
+`🗺️ Longitud`: -94.57857
+
+`🗺️ Id Geográfico`: 4393217
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 274
+
+`🚶‍ Población`: 475378
+
+`👨‍👨‍👧‍👧 Demografía`: 290
 
         
 ### Kendale Lakes
@@ -197881,6 +197881,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Lakewood
+`👋 Saludo`: Buenas tardes 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 04:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lakewood
+
+`🗺️ Latitud`: 33.85363
+
+`🗺️ Longitud`: -118.13396
+
+`🗺️ Id Geográfico`: 5364855
+
+`⏰ Zona Horaria`: America/Los_Angeles
+
+`⛰️ Elevación`: 14
+
+`🚶‍ Población`: 81611
+
+`👨‍👨‍👧‍👧 Demografía`: 20
+
+        
+### Lakewood
 `👋 Saludo`: Buenas noches 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -197976,28 +198000,28 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `👨‍👨‍👧‍👧 Demografía`: 216
 
         
-### Lakewood
+### Lancaster
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
 
 `⌚ Hora Local`: 04:38 PM 
 
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lakewood
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lancaster
 
-`🗺️ Latitud`: 33.85363
+`🗺️ Latitud`: 34.69804
 
-`🗺️ Longitud`: -118.13396
+`🗺️ Longitud`: -118.13674
 
-`🗺️ Id Geográfico`: 5364855
+`🗺️ Id Geográfico`: 5364940
 
 `⏰ Zona Horaria`: America/Los_Angeles
 
-`⛰️ Elevación`: 14
+`⛰️ Elevación`: 719
 
-`🚶‍ Población`: 81611
+`🚶‍ Población`: 161103
 
-`👨‍👨‍👧‍👧 Demografía`: 20
+`👨‍👨‍👧‍👧 Demografía`: 718
 
         
 ### Lancaster
@@ -198022,30 +198046,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 59339
 
 `👨‍👨‍👧‍👧 Demografía`: 116
-
-        
-### Lancaster
-`👋 Saludo`: Buenas tardes 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 04:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lancaster
-
-`🗺️ Latitud`: 34.69804
-
-`🗺️ Longitud`: -118.13674
-
-`🗺️ Id Geográfico`: 5364940
-
-`⏰ Zona Horaria`: America/Los_Angeles
-
-`⛰️ Elevación`: 719
-
-`🚶‍ Población`: 161103
-
-`👨‍👨‍👧‍👧 Demografía`: 718
 
         
 ### Lansing
@@ -198441,30 +198441,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Levittown
 
-`🗺️ Latitud`: 40.15511
-
-`🗺️ Longitud`: -74.82877
-
-`🗺️ Id Geográfico`: 5197796
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 9
-
-`🚶‍ Población`: 52983
-
-`👨‍👨‍👧‍👧 Demografía`: 13
-
-        
-### Levittown
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Levittown
-
 `🗺️ Latitud`: 40.72593
 
 `🗺️ Longitud`: -73.51429
@@ -198478,6 +198454,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 51881
 
 `👨‍👨‍👧‍👧 Demografía`: 29
+
+        
+### Levittown
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Levittown
+
+`🗺️ Latitud`: 40.15511
+
+`🗺️ Longitud`: -74.82877
+
+`🗺️ Id Geográfico`: 5197796
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 9
+
+`🚶‍ Población`: 52983
+
+`👨‍👨‍👧‍👧 Demografía`: 13
 
         
 ### Lewisville
@@ -199441,30 +199441,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Medford
-`👋 Saludo`: Buenas tardes 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 04:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Medford
-
-`🗺️ Latitud`: 42.32652
-
-`🗺️ Longitud`: -122.87559
-
-`🗺️ Id Geográfico`: 5740099
-
-`⏰ Zona Horaria`: America/Los_Angeles
-
-`⛰️ Elevación`: 421
-
-`🚶‍ Población`: 79805
-
-`👨‍👨‍👧‍👧 Demografía`: 422
-
-        
-### Medford
 `👋 Saludo`: Buenas noches 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -199486,6 +199462,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 57403
 
 `👨‍👨‍👧‍👧 Demografía`: 12
+
+        
+### Medford
+`👋 Saludo`: Buenas tardes 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 04:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Medford
+
+`🗺️ Latitud`: 42.32652
+
+`🗺️ Longitud`: -122.87559
+
+`🗺️ Id Geográfico`: 5740099
+
+`⏰ Zona Horaria`: America/Los_Angeles
+
+`⛰️ Elevación`: 421
+
+`🚶‍ Población`: 79805
+
+`👨‍👨‍👧‍👧 Demografía`: 422
 
         
 ### Melbourne
@@ -201457,30 +201457,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Norwalk
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Norwalk
-
-`🗺️ Latitud`: 41.1176
-
-`🗺️ Longitud`: -73.4079
-
-`🗺️ Id Geográfico`: 4839822
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 11
-
-`🚶‍ Población`: 88485
-
-`👨‍👨‍👧‍👧 Demografía`: 18
-
-        
-### Norwalk
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -201502,6 +201478,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 107140
 
 `👨‍👨‍👧‍👧 Demografía`: 29
+
+        
+### Norwalk
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Norwalk
+
+`🗺️ Latitud`: 41.1176
+
+`🗺️ Longitud`: -73.4079
+
+`🗺️ Id Geográfico`: 4839822
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 11
+
+`🚶‍ Población`: 88485
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ### Novato
@@ -202417,30 +202417,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Pasadena
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pasadena
-
-`🗺️ Latitud`: 29.69106
-
-`🗺️ Longitud`: -95.2091
-
-`🗺️ Id Geográfico`: 4717782
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 9
-
-`🚶‍ Población`: 153784
-
-`👨‍👨‍👧‍👧 Demografía`: 12
-
-        
-### Pasadena
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -202462,6 +202438,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 142250
 
 `👨‍👨‍👧‍👧 Demografía`: 272
+
+        
+### Pasadena
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pasadena
+
+`🗺️ Latitud`: 29.69106
+
+`🗺️ Longitud`: -95.2091
+
+`🗺️ Id Geográfico`: 4717782
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 9
+
+`🚶‍ Población`: 153784
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ### Pasco
@@ -203425,30 +203425,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Portland
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Portland
-
-`🗺️ Latitud`: 43.66147
-
-`🗺️ Longitud`: -70.25533
-
-`🗺️ Id Geográfico`: 4975802
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 19
-
-`🚶‍ Población`: 66881
-
-`👨‍👨‍👧‍👧 Demografía`: 19
-
-        
-### Portland
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -203470,6 +203446,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 632309
 
 `👨‍👨‍👧‍👧 Demografía`: 15
+
+        
+### Portland
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Portland
+
+`🗺️ Latitud`: 43.66147
+
+`🗺️ Longitud`: -70.25533
+
+`🗺️ Id Geográfico`: 4975802
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 19
+
+`🚶‍ Población`: 66881
+
+`👨‍👨‍👧‍👧 Demografía`: 19
 
         
 ### Portsmouth
@@ -204145,30 +204145,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### Richmond
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Richmond
-
-`🗺️ Latitud`: 37.55376
-
-`🗺️ Longitud`: -77.46026
-
-`🗺️ Id Geográfico`: 4781708
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 64
-
-`🚶‍ Población`: 220289
-
-`👨‍👨‍👧‍👧 Demografía`: 68
-
-        
-### Richmond
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -204190,6 +204166,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 109708
 
 `👨‍👨‍👧‍👧 Demografía`: 12
+
+        
+### Richmond
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Richmond
+
+`🗺️ Latitud`: 37.55376
+
+`🗺️ Longitud`: -77.46026
+
+`🗺️ Id Geográfico`: 4781708
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 64
+
+`🚶‍ Población`: 220289
+
+`👨‍👨‍👧‍👧 Demografía`: 68
 
         
 ### Richmond Hill
@@ -205201,30 +205201,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
         
 ### San Marcos
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 06:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: San Marcos
-
-`🗺️ Latitud`: 29.88327
-
-`🗺️ Longitud`: -97.94139
-
-`🗺️ Id Geográfico`: 4726491
-
-`⏰ Zona Horaria`: America/Chicago
-
-`⛰️ Elevación`: 188
-
-`🚶‍ Población`: 60684
-
-`👨‍👨‍👧‍👧 Demografía`: 194
-
-        
-### San Marcos
 `👋 Saludo`: Buenas tardes 
 
 `📅 Día`: Wednesday 31/January/2024
@@ -205246,6 +205222,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 92931
 
 `👨‍👨‍👧‍👧 Demografía`: 177
+
+        
+### San Marcos
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
+`⌚ Hora Local`: 06:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: San Marcos
+
+`🗺️ Latitud`: 29.88327
+
+`🗺️ Longitud`: -97.94139
+
+`🗺️ Id Geográfico`: 4726491
+
+`⏰ Zona Horaria`: America/Chicago
+
+`⛰️ Elevación`: 188
+
+`🚶‍ Población`: 60684
+
+`👨‍👨‍👧‍👧 Demografía`: 194
 
         
 ### San Mateo
@@ -206693,6 +206693,30 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 `📅 Día`: Wednesday 31/January/2024
 
+`⌚ Hora Local`: 07:38 PM 
+
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Springfield
+
+`🗺️ Latitud`: 42.10148
+
+`🗺️ Longitud`: -72.58981
+
+`🗺️ Id Geográfico`: 4951788
+
+`⏰ Zona Horaria`: America/New_York
+
+`⛰️ Elevación`: 25
+
+`🚶‍ Población`: 154341
+
+`👨‍👨‍👧‍👧 Demografía`: 49
+
+        
+### Springfield
+`👋 Saludo`: Buenas noches 
+
+`📅 Día`: Wednesday 31/January/2024
+
 `⌚ Hora Local`: 06:38 PM 
 
 `ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Springfield
@@ -206782,30 +206806,6 @@ Si te gustó deja tu estrellita en el repo 👆😏
 `🚶‍ Población`: 166810
 
 `👨‍👨‍👧‍👧 Demografía`: 399
-
-        
-### Springfield
-`👋 Saludo`: Buenas noches 
-
-`📅 Día`: Wednesday 31/January/2024
-
-`⌚ Hora Local`: 07:38 PM 
-
-`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Springfield
-
-`🗺️ Latitud`: 42.10148
-
-`🗺️ Longitud`: -72.58981
-
-`🗺️ Id Geográfico`: 4951788
-
-`⏰ Zona Horaria`: America/New_York
-
-`⛰️ Elevación`: 25
-
-`🚶‍ Población`: 154341
-
-`👨‍👨‍👧‍👧 Demografía`: 49
 
         
 ### St. Louis
