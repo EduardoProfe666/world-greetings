@@ -10,6 +10,9 @@ cada parte del mundo en dependencia de la hora local.
 
 Está organizado en países y ciudades, incluyendo información general de cada uno.
 
+Por cuestiones de eficiencia solamente se incluyen las ciudades con una población mayor 
+que 1000000 habitantes
+
 Si te gustó deja tu estrellita en el repo 👆😏
 
 # 🌎 Países
@@ -18,8226 +21,9662 @@ Si te gustó deja tu estrellita en el repo 👆😏
 
 ## 🇦🇪 United Arab Emirates
 
-`Nombre Oficial`: United Arab Emirates
+`⚜ Nombre Oficial`: United Arab Emirates
 
-`Código Alfa-2`: AE
+`🆔 Código Alfa-2`: AE
 
-`Código Alfa-3`: ARE
+`🆔 Código Alfa-3`: ARE
 
-`Código numérico`: 784
+`🆔 Código numérico`: 784
 
     
 ### Dubai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dubai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.0657
+`⌚ Hora Local`: 04:12 AM 
 
-`Longitud`: 55.17128
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dubai
 
-`Id geográfico`: 292223
+`🗺️ Latitud`: 25.0657
 
-`Zona Horaria`: Asia/Dubai
+`🗺️ Longitud`: 55.17128
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 292223
 
-`Población`: 1137347
+`⏰ Zona Horaria`: Asia/Dubai
 
-`Demografía`: 3
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1137347
+
+`👨‍👨‍👧‍👧 Demografía`: 3
 
         
 ## 🇦🇫 Afghanistan
 
-`Nombre Oficial`: Islamic Republic of Afghanistan
+`⚜ Nombre Oficial`: Islamic Republic of Afghanistan
 
-`Código Alfa-2`: AF
+`🆔 Código Alfa-2`: AF
 
-`Código Alfa-3`: AFG
+`🆔 Código Alfa-3`: AFG
 
-`Código numérico`: 004
+`🆔 Código numérico`: 004
 
     
 ### Kabul
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kabul
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.52813
+`⌚ Hora Local`: 04:42 AM 
 
-`Longitud`: 69.17233
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kabul
 
-`Id geográfico`: 1138958
+`🗺️ Latitud`: 34.52813
 
-`Zona Horaria`: Asia/Kabul
+`🗺️ Longitud`: 69.17233
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1138958
 
-`Población`: 3043532
+`⏰ Zona Horaria`: Asia/Kabul
 
-`Demografía`: 1798
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3043532
+
+`👨‍👨‍👧‍👧 Demografía`: 1798
 
         
 ## 🇦🇲 Armenia
 
-`Nombre Oficial`: Republic of Armenia
+`⚜ Nombre Oficial`: Republic of Armenia
 
-`Código Alfa-2`: AM
+`🆔 Código Alfa-2`: AM
 
-`Código Alfa-3`: ARM
+`🆔 Código Alfa-3`: ARM
 
-`Código numérico`: 051
+`🆔 Código numérico`: 051
 
     
 ### Yerevan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yerevan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.18111
+`⌚ Hora Local`: 04:12 AM 
 
-`Longitud`: 44.51361
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yerevan
 
-`Id geográfico`: 616052
+`🗺️ Latitud`: 40.18111
 
-`Zona Horaria`: Asia/Yerevan
+`🗺️ Longitud`: 44.51361
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 616052
 
-`Población`: 1093485
+`⏰ Zona Horaria`: Asia/Yerevan
 
-`Demografía`: 994
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1093485
+
+`👨‍👨‍👧‍👧 Demografía`: 994
 
         
 ## 🇦🇴 Angola
 
-`Nombre Oficial`: Republic of Angola
+`⚜ Nombre Oficial`: Republic of Angola
 
-`Código Alfa-2`: AO
+`🆔 Código Alfa-2`: AO
 
-`Código Alfa-3`: AGO
+`🆔 Código Alfa-3`: AGO
 
-`Código numérico`: 024
+`🆔 Código numérico`: 024
 
     
 ### Luanda
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Luanda
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -8.83682
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 13.23432
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Luanda
 
-`Id geográfico`: 2240449
+`🗺️ Latitud`: -8.83682
 
-`Zona Horaria`: Africa/Luanda
+`🗺️ Longitud`: 13.23432
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2240449
 
-`Población`: 2776168
+`⏰ Zona Horaria`: Africa/Luanda
 
-`Demografía`: 73
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2776168
+
+`👨‍👨‍👧‍👧 Demografía`: 73
 
         
 ## 🇦🇷 Argentina
 
-`Nombre Oficial`: Argentine Republic
+`⚜ Nombre Oficial`: Argentine Republic
 
-`Código Alfa-2`: AR
+`🆔 Código Alfa-2`: AR
 
-`Código Alfa-3`: ARG
+`🆔 Código Alfa-3`: ARG
 
-`Código numérico`: 032
+`🆔 Código numérico`: 032
 
     
 ### Buenos Aires
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Buenos Aires
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -34.61315
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -58.37723
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Buenos Aires
 
-`Id geográfico`: 3435910
+`🗺️ Latitud`: -34.61315
 
-`Zona Horaria`: America/Argentina/Buenos_Aires
+`🗺️ Longitud`: -58.37723
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3435910
 
-`Población`: 13076300
+`⏰ Zona Horaria`: America/Argentina/Buenos_Aires
 
-`Demografía`: 31
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 13076300
+
+`👨‍👨‍👧‍👧 Demografía`: 31
 
         
 ### Córdoba
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Cordoba
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -31.4135
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -64.18105
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cordoba
 
-`Id geográfico`: 3860259
+`🗺️ Latitud`: -31.4135
 
-`Zona Horaria`: America/Argentina/Cordoba
+`🗺️ Longitud`: -64.18105
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3860259
 
-`Población`: 1428214
+`⏰ Zona Horaria`: America/Argentina/Cordoba
 
-`Demografía`: 395
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1428214
+
+`👨‍👨‍👧‍👧 Demografía`: 395
 
         
 ### Rosario
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Rosario
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -32.94682
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -60.63932
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rosario
 
-`Id geográfico`: 3838583
+`🗺️ Latitud`: -32.94682
 
-`Zona Horaria`: America/Argentina/Cordoba
+`🗺️ Longitud`: -60.63932
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3838583
 
-`Población`: 1173533
+`⏰ Zona Horaria`: America/Argentina/Cordoba
 
-`Demografía`: 38
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1173533
+
+`👨‍👨‍👧‍👧 Demografía`: 38
 
         
 ## 🇦🇹 Austria
 
-`Nombre Oficial`: Republic of Austria
+`⚜ Nombre Oficial`: Republic of Austria
 
-`Código Alfa-2`: AT
+`🆔 Código Alfa-2`: AT
 
-`Código Alfa-3`: AUT
+`🆔 Código Alfa-3`: AUT
 
-`Código numérico`: 040
+`🆔 Código numérico`: 040
 
     
 ### Vienna
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Vienna
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.20849
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 16.37208
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Vienna
 
-`Id geográfico`: 2761369
+`🗺️ Latitud`: 48.20849
 
-`Zona Horaria`: Europe/Vienna
+`🗺️ Longitud`: 16.37208
 
-`Elevación`: 171
+`🗺️ Id Geográfico`: 2761369
 
-`Población`: 1691468
+`⏰ Zona Horaria`: Europe/Vienna
 
-`Demografía`: 193
+`⛰️ Elevación`: 171
+
+`🚶‍ Población`: 1691468
+
+`👨‍👨‍👧‍👧 Demografía`: 193
 
         
 ## 🇦🇺 Australia
 
-`Nombre Oficial`: Australia
+`⚜ Nombre Oficial`: Australia
 
-`Código Alfa-2`: AU
+`🆔 Código Alfa-2`: AU
 
-`Código Alfa-3`: AUS
+`🆔 Código Alfa-3`: AUS
 
-`Código numérico`: 036
+`🆔 Código numérico`: 036
 
     
 ### Adelaide
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 10:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Adelaide
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -34.92866
+`⌚ Hora Local`: 10:42 AM 
 
-`Longitud`: 138.59863
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Adelaide
 
-`Id geográfico`: 2078025
+`🗺️ Latitud`: -34.92866
 
-`Zona Horaria`: Australia/Adelaide
+`🗺️ Longitud`: 138.59863
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2078025
 
-`Población`: 1225235
+`⏰ Zona Horaria`: Australia/Adelaide
 
-`Demografía`: 59
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1225235
+
+`👨‍👨‍👧‍👧 Demografía`: 59
 
         
 ### Brisbane
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 10:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Brisbane
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -27.46794
+`⌚ Hora Local`: 10:12 AM 
 
-`Longitud`: 153.02809
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Brisbane
 
-`Id geográfico`: 2174003
+`🗺️ Latitud`: -27.46794
 
-`Zona Horaria`: Australia/Brisbane
+`🗺️ Longitud`: 153.02809
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2174003
 
-`Población`: 2189878
+`⏰ Zona Horaria`: Australia/Brisbane
 
-`Demografía`: 27
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2189878
+
+`👨‍👨‍👧‍👧 Demografía`: 27
 
         
 ### Melbourne
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 11:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Melbourne
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -37.814
+`⌚ Hora Local`: 11:12 AM 
 
-`Longitud`: 144.96332
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Melbourne
 
-`Id geográfico`: 2158177
+`🗺️ Latitud`: -37.814
 
-`Zona Horaria`: Australia/Melbourne
+`🗺️ Longitud`: 144.96332
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2158177
 
-`Población`: 4246375
+`⏰ Zona Horaria`: Australia/Melbourne
 
-`Demografía`: 25
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4246375
+
+`👨‍👨‍👧‍👧 Demografía`: 25
 
         
 ### Perth
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Perth
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -31.95224
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 115.8614
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Perth
 
-`Id geográfico`: 2063523
+`🗺️ Latitud`: -31.95224
 
-`Zona Horaria`: Australia/Perth
+`🗺️ Longitud`: 115.8614
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2063523
 
-`Población`: 1896548
+`⏰ Zona Horaria`: Australia/Perth
 
-`Demografía`: 34
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1896548
+
+`👨‍👨‍👧‍👧 Demografía`: 34
 
         
 ### Sydney
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 11:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Sydney
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -33.86785
+`⌚ Hora Local`: 11:12 AM 
 
-`Longitud`: 151.20732
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sydney
 
-`Id geográfico`: 2147714
+`🗺️ Latitud`: -33.86785
 
-`Zona Horaria`: Australia/Sydney
+`🗺️ Longitud`: 151.20732
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2147714
 
-`Población`: 4627345
+`⏰ Zona Horaria`: Australia/Sydney
 
-`Demografía`: 58
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4627345
+
+`👨‍👨‍👧‍👧 Demografía`: 58
 
         
 ## 🇦🇿 Azerbaijan
 
-`Nombre Oficial`: Republic of Azerbaijan
+`⚜ Nombre Oficial`: Republic of Azerbaijan
 
-`Código Alfa-2`: AZ
+`🆔 Código Alfa-2`: AZ
 
-`Código Alfa-3`: AZE
+`🆔 Código Alfa-3`: AZE
 
-`Código numérico`: 031
+`🆔 Código numérico`: 031
 
     
 ### Baku
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Baku
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.37767
+`⌚ Hora Local`: 04:12 AM 
 
-`Longitud`: 49.89201
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Baku
 
-`Id geográfico`: 587084
+`🗺️ Latitud`: 40.37767
 
-`Zona Horaria`: Asia/Baku
+`🗺️ Longitud`: 49.89201
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 587084
 
-`Población`: 1116513
+`⏰ Zona Horaria`: Asia/Baku
 
-`Demografía`: -23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1116513
+
+`👨‍👨‍👧‍👧 Demografía`: -23
 
         
 ## 🇧🇩 Bangladesh
 
-`Nombre Oficial`: People's Republic of Bangladesh
+`⚜ Nombre Oficial`: People's Republic of Bangladesh
 
-`Código Alfa-2`: BD
+`🆔 Código Alfa-2`: BD
 
-`Código Alfa-3`: BGD
+`🆔 Código Alfa-3`: BGD
 
-`Código numérico`: 050
+`🆔 Código numérico`: 050
 
     
 ### Chittagong
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Chittagong
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.3384
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 91.83168
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chittagong
 
-`Id geográfico`: 1205733
+`🗺️ Latitud`: 22.3384
 
-`Zona Horaria`: Asia/Dhaka
+`🗺️ Longitud`: 91.83168
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1205733
 
-`Población`: 3920222
+`⏰ Zona Horaria`: Asia/Dhaka
 
-`Demografía`: 15
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3920222
+
+`👨‍👨‍👧‍👧 Demografía`: 15
 
         
 ### Dhaka
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dhaka
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.7104
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 90.40744
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dhaka
 
-`Id geográfico`: 1185241
+`🗺️ Latitud`: 23.7104
 
-`Zona Horaria`: Asia/Dhaka
+`🗺️ Longitud`: 90.40744
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1185241
 
-`Población`: 10356500
+`⏰ Zona Horaria`: Asia/Dhaka
 
-`Demografía`: 23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10356500
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ### Khulna
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Khulna
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.80979
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 89.56439
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Khulna
 
-`Id geográfico`: 1336135
+`🗺️ Latitud`: 22.80979
 
-`Zona Horaria`: Asia/Dhaka
+`🗺️ Longitud`: 89.56439
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1336135
 
-`Población`: 1342339
+`⏰ Zona Horaria`: Asia/Dhaka
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1342339
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ## 🇧🇪 Belgium
 
-`Nombre Oficial`: Kingdom of Belgium
+`⚜ Nombre Oficial`: Kingdom of Belgium
 
-`Código Alfa-2`: BE
+`🆔 Código Alfa-2`: BE
 
-`Código Alfa-3`: BEL
+`🆔 Código Alfa-3`: BEL
 
-`Código numérico`: 056
+`🆔 Código numérico`: 056
 
     
 ### Brussels
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Brussels
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 50.85045
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 4.34878
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Brussels
 
-`Id geográfico`: 2800866
+`🗺️ Latitud`: 50.85045
 
-`Zona Horaria`: Europe/Brussels
+`🗺️ Longitud`: 4.34878
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2800866
 
-`Población`: 1019022
+`⏰ Zona Horaria`: Europe/Brussels
 
-`Demografía`: 28
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1019022
+
+`👨‍👨‍👧‍👧 Demografía`: 28
 
         
 ## 🇧🇫 Burkina Faso
 
-`Nombre Oficial`: Burkina Faso
+`⚜ Nombre Oficial`: Burkina Faso
 
-`Código Alfa-2`: BF
+`🆔 Código Alfa-2`: BF
 
-`Código Alfa-3`: BFA
+`🆔 Código Alfa-3`: BFA
 
-`Código numérico`: 854
+`🆔 Código numérico`: 854
 
     
 ### Ouagadougou
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Ouagadougou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 12.36566
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -1.53388
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ouagadougou
 
-`Id geográfico`: 2357048
+`🗺️ Latitud`: 12.36566
 
-`Zona Horaria`: Africa/Ouagadougou
+`🗺️ Longitud`: -1.53388
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2357048
 
-`Población`: 1086505
+`⏰ Zona Horaria`: Africa/Ouagadougou
 
-`Demografía`: 299
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1086505
+
+`👨‍👨‍👧‍👧 Demografía`: 299
 
         
 ## 🇧🇬 Bulgaria
 
-`Nombre Oficial`: Republic of Bulgaria
+`⚜ Nombre Oficial`: Republic of Bulgaria
 
-`Código Alfa-2`: BG
+`🆔 Código Alfa-2`: BG
 
-`Código Alfa-3`: BGR
+`🆔 Código Alfa-3`: BGR
 
-`Código numérico`: 100
+`🆔 Código numérico`: 100
 
     
 ### Sofia
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Sofia
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 42.69751
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 23.32415
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sofia
 
-`Id geográfico`: 727011
+`🗺️ Latitud`: 42.69751
 
-`Zona Horaria`: Europe/Sofia
+`🗺️ Longitud`: 23.32415
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 727011
 
-`Población`: 1152556
+`⏰ Zona Horaria`: Europe/Sofia
 
-`Demografía`: 562
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1152556
+
+`👨‍👨‍👧‍👧 Demografía`: 562
 
         
 ## 🇧🇴 Bolivia, Plurinational State of
 
-`Nombre Oficial`: Plurinational State of Bolivia
+`⚜ Nombre Oficial`: Plurinational State of Bolivia
 
-`Código Alfa-2`: BO
+`🆔 Código Alfa-2`: BO
 
-`Código Alfa-3`: BOL
+`🆔 Código Alfa-3`: BOL
 
-`Código numérico`: 068
+`🆔 Código numérico`: 068
 
     
 ### Santa Cruz de la Sierra
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Santa Cruz de la Sierra
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -17.78629
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -63.18117
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Santa Cruz de la Sierra
 
-`Id geográfico`: 3904906
+`🗺️ Latitud`: -17.78629
 
-`Zona Horaria`: America/La_Paz
+`🗺️ Longitud`: -63.18117
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3904906
 
-`Población`: 1364389
+`⏰ Zona Horaria`: America/La_Paz
 
-`Demografía`: 433
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1364389
+
+`👨‍👨‍👧‍👧 Demografía`: 433
 
         
 ## 🇧🇷 Brazil
 
-`Nombre Oficial`: Federative Republic of Brazil
+`⚜ Nombre Oficial`: Federative Republic of Brazil
 
-`Código Alfa-2`: BR
+`🆔 Código Alfa-2`: BR
 
-`Código Alfa-3`: BRA
+`🆔 Código Alfa-3`: BRA
 
-`Código numérico`: 076
+`🆔 Código numérico`: 076
 
     
 ### Belo Horizonte
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Belo Horizonte
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -19.92083
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -43.93778
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Belo Horizonte
 
-`Id geográfico`: 3470127
+`🗺️ Latitud`: -19.92083
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -43.93778
 
-`Elevación`: 888
+`🗺️ Id Geográfico`: 3470127
 
-`Población`: 2373224
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 872
+`⛰️ Elevación`: 888
+
+`🚶‍ Población`: 2373224
+
+`👨‍👨‍👧‍👧 Demografía`: 872
 
         
 ### Belém
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Belem
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -1.45583
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -48.50444
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Belem
 
-`Id geográfico`: 3405870
+`🗺️ Latitud`: -1.45583
 
-`Zona Horaria`: America/Belem
+`🗺️ Longitud`: -48.50444
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3405870
 
-`Población`: 1407737
+`⏰ Zona Horaria`: America/Belem
 
-`Demografía`: 15
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1407737
+
+`👨‍👨‍👧‍👧 Demografía`: 15
 
         
 ### Brasília
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Brasilia
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -15.77972
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -47.92972
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Brasilia
 
-`Id geográfico`: 3469058
+`🗺️ Latitud`: -15.77972
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -47.92972
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3469058
 
-`Población`: 2207718
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 1136
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2207718
+
+`👨‍👨‍👧‍👧 Demografía`: 1136
 
         
 ### Campinas
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Campinas
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -22.90556
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -47.06083
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Campinas
 
-`Id geográfico`: 3467865
+`🗺️ Latitud`: -22.90556
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -47.06083
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3467865
 
-`Población`: 1031554
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 686
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1031554
+
+`👨‍👨‍👧‍👧 Demografía`: 686
 
         
 ### Curitiba
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Curitiba
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -25.42778
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -49.27306
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Curitiba
 
-`Id geográfico`: 3464975
+`🗺️ Latitud`: -25.42778
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -49.27306
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3464975
 
-`Población`: 1718421
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 924
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1718421
+
+`👨‍👨‍👧‍👧 Demografía`: 924
 
         
 ### Fortaleza
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Fortaleza
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -3.71722
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -38.54306
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Fortaleza
 
-`Id geográfico`: 3399415
+`🗺️ Latitud`: -3.71722
 
-`Zona Horaria`: America/Fortaleza
+`🗺️ Longitud`: -38.54306
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3399415
 
-`Población`: 2400000
+`⏰ Zona Horaria`: America/Fortaleza
 
-`Demografía`: 18
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2400000
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ### Goiânia
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Goiania
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -16.67861
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -49.25389
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Goiania
 
-`Id geográfico`: 3462377
+`🗺️ Latitud`: -16.67861
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -49.25389
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3462377
 
-`Población`: 1171195
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 766
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1171195
+
+`👨‍👨‍👧‍👧 Demografía`: 766
 
         
 ### Guarulhos
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Guarulhos
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -23.46278
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -46.53333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guarulhos
 
-`Id geográfico`: 3461786
+`🗺️ Latitud`: -23.46278
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -46.53333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3461786
 
-`Población`: 1169577
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 774
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1169577
+
+`👨‍👨‍👧‍👧 Demografía`: 774
 
         
 ### Manaus
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Manaus
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -3.10194
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -60.025
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Manaus
 
-`Id geográfico`: 3663517
+`🗺️ Latitud`: -3.10194
 
-`Zona Horaria`: America/Manaus
+`🗺️ Longitud`: -60.025
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3663517
 
-`Población`: 1598210
+`⏰ Zona Horaria`: America/Manaus
 
-`Demografía`: 20
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1598210
+
+`👨‍👨‍👧‍👧 Demografía`: 20
 
         
 ### Nova Iguaçu
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Nova Iguacu
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -22.75917
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -43.45111
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nova Iguacu
 
-`Id geográfico`: 3456160
+`🗺️ Latitud`: -22.75917
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -43.45111
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3456160
 
-`Población`: 1002118
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 36
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1002118
+
+`👨‍👨‍👧‍👧 Demografía`: 36
 
         
 ### Porto Alegre
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Porto Alegre
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -30.03283
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -51.23019
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Porto Alegre
 
-`Id geográfico`: 3452925
+`🗺️ Latitud`: -30.03283
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -51.23019
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3452925
 
-`Población`: 1372741
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 1
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1372741
+
+`👨‍👨‍👧‍👧 Demografía`: 1
 
         
 ### Recife
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Recife
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -8.05389
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -34.88111
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Recife
 
-`Id geográfico`: 3390760
+`🗺️ Latitud`: -8.05389
 
-`Zona Horaria`: America/Recife
+`🗺️ Longitud`: -34.88111
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3390760
 
-`Población`: 1478098
+`⏰ Zona Horaria`: America/Recife
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1478098
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Rio de Janeiro
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Rio de Janeiro
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -22.90642
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -43.18223
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rio de Janeiro
 
-`Id geográfico`: 3451190
+`🗺️ Latitud`: -22.90642
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -43.18223
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3451190
 
-`Población`: 6023699
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 6
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 6023699
+
+`👨‍👨‍👧‍👧 Demografía`: 6
 
         
 ### Salvador
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Salvador
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -12.97111
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -38.51083
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Salvador
 
-`Id geográfico`: 3450554
+`🗺️ Latitud`: -12.97111
 
-`Zona Horaria`: America/Bahia
+`🗺️ Longitud`: -38.51083
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3450554
 
-`Población`: 2711840
+`⏰ Zona Horaria`: America/Bahia
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2711840
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### São Paulo
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Sao Paulo
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -23.5475
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -46.63611
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sao Paulo
 
-`Id geográfico`: 3448439
+`🗺️ Latitud`: -23.5475
 
-`Zona Horaria`: America/Sao_Paulo
+`🗺️ Longitud`: -46.63611
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3448439
 
-`Población`: 10021295
+`⏰ Zona Horaria`: America/Sao_Paulo
 
-`Demografía`: 769
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10021295
+
+`👨‍👨‍👧‍👧 Demografía`: 769
 
         
 ## 🇧🇾 Belarus
 
-`Nombre Oficial`: Republic of Belarus
+`⚜ Nombre Oficial`: Republic of Belarus
 
-`Código Alfa-2`: BY
+`🆔 Código Alfa-2`: BY
 
-`Código Alfa-3`: BLR
+`🆔 Código Alfa-3`: BLR
 
-`Código numérico`: 112
+`🆔 Código numérico`: 112
 
     
 ### Minsk
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Minsk
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 53.9
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 27.56667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Minsk
 
-`Id geográfico`: 625144
+`🗺️ Latitud`: 53.9
 
-`Zona Horaria`: Europe/Minsk
+`🗺️ Longitud`: 27.56667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 625144
 
-`Población`: 1742124
+`⏰ Zona Horaria`: Europe/Minsk
 
-`Demografía`: 222
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1742124
+
+`👨‍👨‍👧‍👧 Demografía`: 222
 
         
 ## 🇨🇦 Canada
 
-`Nombre Oficial`: Canada
+`⚜ Nombre Oficial`: Canada
 
-`Código Alfa-2`: CA
+`🆔 Código Alfa-2`: CA
 
-`Código Alfa-3`: CAN
+`🆔 Código Alfa-3`: CAN
 
-`Código numérico`: 124
+`🆔 Código numérico`: 124
 
     
 ### Calgary
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 05:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: Calgary
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 51.05011
+`⌚ Hora Local`: 05:12 PM 
 
-`Longitud`: -114.08529
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Calgary
 
-`Id geográfico`: 5913490
+`🗺️ Latitud`: 51.05011
 
-`Zona Horaria`: America/Edmonton
+`🗺️ Longitud`: -114.08529
 
-`Elevación`: 1048
+`🗺️ Id Geográfico`: 5913490
 
-`Población`: 1019942
+`⏰ Zona Horaria`: America/Edmonton
 
-`Demografía`: 1042
+`⛰️ Elevación`: 1048
+
+`🚶‍ Población`: 1019942
+
+`👨‍👨‍👧‍👧 Demografía`: 1042
 
         
 ### Montréal
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Montreal
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 45.50884
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -73.58781
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Montreal
 
-`Id geográfico`: 6077243
+`🗺️ Latitud`: 45.50884
 
-`Zona Horaria`: America/Toronto
+`🗺️ Longitud`: -73.58781
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 6077243
 
-`Población`: 1600000
+`⏰ Zona Horaria`: America/Toronto
 
-`Demografía`: 216
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1600000
+
+`👨‍👨‍👧‍👧 Demografía`: 216
 
         
 ### Toronto
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Toronto
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 43.70011
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -79.4163
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Toronto
 
-`Id geográfico`: 6167865
+`🗺️ Latitud`: 43.70011
 
-`Zona Horaria`: America/Toronto
+`🗺️ Longitud`: -79.4163
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 6167865
 
-`Población`: 2600000
+`⏰ Zona Horaria`: America/Toronto
 
-`Demografía`: 175
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2600000
+
+`👨‍👨‍👧‍👧 Demografía`: 175
 
         
 ## 🇨🇩 Congo, The Democratic Republic of the
 
-`Nombre Oficial`: Congo, The Democratic Republic of the
+`⚜ Nombre Oficial`: Congo, The Democratic Republic of the
 
-`Código Alfa-2`: CD
+`🆔 Código Alfa-2`: CD
 
-`Código Alfa-3`: COD
+`🆔 Código Alfa-3`: COD
 
-`Código numérico`: 180
+`🆔 Código numérico`: 180
 
     
 ### Kinshasa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kinshasa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -4.32758
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 15.31357
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kinshasa
 
-`Id geográfico`: 2314302
+`🗺️ Latitud`: -4.32758
 
-`Zona Horaria`: Africa/Kinshasa
+`🗺️ Longitud`: 15.31357
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2314302
 
-`Población`: 7785965
+`⏰ Zona Horaria`: Africa/Kinshasa
 
-`Demografía`: 281
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7785965
+
+`👨‍👨‍👧‍👧 Demografía`: 281
 
         
 ### Lubumbashi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lubumbashi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -11.66089
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 27.47938
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lubumbashi
 
-`Id geográfico`: 922704
+`🗺️ Latitud`: -11.66089
 
-`Zona Horaria`: Africa/Lubumbashi
+`🗺️ Longitud`: 27.47938
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 922704
 
-`Población`: 1373770
+`⏰ Zona Horaria`: Africa/Lubumbashi
 
-`Demografía`: 1260
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1373770
+
+`👨‍👨‍👧‍👧 Demografía`: 1260
 
         
 ## 🇨🇬 Congo
 
-`Nombre Oficial`: Republic of the Congo
+`⚜ Nombre Oficial`: Republic of the Congo
 
-`Código Alfa-2`: CG
+`🆔 Código Alfa-2`: CG
 
-`Código Alfa-3`: COG
+`🆔 Código Alfa-3`: COG
 
-`Código numérico`: 178
+`🆔 Código numérico`: 178
 
     
 ### Brazzaville
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Brazzaville
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -4.26613
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 15.28318
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Brazzaville
 
-`Id geográfico`: 2260535
+`🗺️ Latitud`: -4.26613
 
-`Zona Horaria`: Africa/Brazzaville
+`🗺️ Longitud`: 15.28318
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2260535
 
-`Población`: 1284609
+`⏰ Zona Horaria`: Africa/Brazzaville
 
-`Demografía`: 284
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1284609
+
+`👨‍👨‍👧‍👧 Demografía`: 284
 
         
 ## 🇨🇮 Côte d'Ivoire
 
-`Nombre Oficial`: Republic of Côte d'Ivoire
+`⚜ Nombre Oficial`: Republic of Côte d'Ivoire
 
-`Código Alfa-2`: CI
+`🆔 Código Alfa-2`: CI
 
-`Código Alfa-3`: CIV
+`🆔 Código Alfa-3`: CIV
 
-`Código numérico`: 384
+`🆔 Código numérico`: 384
 
     
 ### Abidjan
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Abidjan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 5.30966
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -4.01266
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Abidjan
 
-`Id geográfico`: 2293538
+`🗺️ Latitud`: 5.30966
 
-`Zona Horaria`: Africa/Abidjan
+`🗺️ Longitud`: -4.01266
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2293538
 
-`Población`: 3677115
+`⏰ Zona Horaria`: Africa/Abidjan
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3677115
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ## 🇨🇱 Chile
 
-`Nombre Oficial`: Republic of Chile
+`⚜ Nombre Oficial`: Republic of Chile
 
-`Código Alfa-2`: CL
+`🆔 Código Alfa-2`: CL
 
-`Código Alfa-3`: CHL
+`🆔 Código Alfa-3`: CHL
 
-`Código numérico`: 152
+`🆔 Código numérico`: 152
 
     
 ### Santiago
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Santiago
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -33.45694
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -70.64827
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Santiago
 
-`Id geográfico`: 3871336
+`🗺️ Latitud`: -33.45694
 
-`Zona Horaria`: America/Santiago
+`🗺️ Longitud`: -70.64827
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3871336
 
-`Población`: 4837295
+`⏰ Zona Horaria`: America/Santiago
 
-`Demografía`: 556
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4837295
+
+`👨‍👨‍👧‍👧 Demografía`: 556
 
         
 ## 🇨🇲 Cameroon
 
-`Nombre Oficial`: Republic of Cameroon
+`⚜ Nombre Oficial`: Republic of Cameroon
 
-`Código Alfa-2`: CM
+`🆔 Código Alfa-2`: CM
 
-`Código Alfa-3`: CMR
+`🆔 Código Alfa-3`: CMR
 
-`Código numérico`: 120
+`🆔 Código numérico`: 120
 
     
 ### Douala
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Douala
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 4.04827
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 9.70428
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Douala
 
-`Id geográfico`: 2232593
+`🗺️ Latitud`: 4.04827
 
-`Zona Horaria`: Africa/Douala
+`🗺️ Longitud`: 9.70428
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2232593
 
-`Población`: 1338082
+`⏰ Zona Horaria`: Africa/Douala
 
-`Demografía`: 19
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1338082
+
+`👨‍👨‍👧‍👧 Demografía`: 19
 
         
 ### Yaoundé
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yaounde
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 3.86667
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 11.51667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yaounde
 
-`Id geográfico`: 2220957
+`🗺️ Latitud`: 3.86667
 
-`Zona Horaria`: Africa/Douala
+`🗺️ Longitud`: 11.51667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2220957
 
-`Población`: 1299369
+`⏰ Zona Horaria`: Africa/Douala
 
-`Demografía`: 726
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1299369
+
+`👨‍👨‍👧‍👧 Demografía`: 726
 
         
 ## 🇨🇳 China
 
-`Nombre Oficial`: People's Republic of China
+`⚜ Nombre Oficial`: People's Republic of China
 
-`Código Alfa-2`: CN
+`🆔 Código Alfa-2`: CN
 
-`Código Alfa-3`: CHN
+`🆔 Código Alfa-3`: CHN
 
-`Código numérico`: 156
+`🆔 Código numérico`: 156
 
     
 ### Anshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Anshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.12361
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 122.99
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Anshan
 
-`Id geográfico`: 2038632
+`🗺️ Latitud`: 41.12361
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 122.99
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2038632
 
-`Población`: 1199275
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 55
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1199275
+
+`👨‍👨‍👧‍👧 Demografía`: 55
 
         
 ### Baotou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Baotou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.65222
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 109.82222
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Baotou
 
-`Id geográfico`: 2038432
+`🗺️ Latitud`: 40.65222
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 109.82222
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2038432
 
-`Población`: 1301768
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1066
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1301768
+
+`👨‍👨‍👧‍👧 Demografía`: 1066
 
         
 ### Bayan Nur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bayan Nur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.74143
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 107.38599
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bayan Nur
 
-`Id geográfico`: 11838258
+`🗺️ Latitud`: 40.74143
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 107.38599
 
-`Elevación`: 1050
+`🗺️ Id Geográfico`: 11838258
 
-`Población`: 1760000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1050
+`⛰️ Elevación`: 1050
+
+`🚶‍ Población`: 1760000
+
+`👨‍👨‍👧‍👧 Demografía`: 1050
 
         
 ### Beijing
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Beijing
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.9075
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 116.39723
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Beijing
 
-`Id geográfico`: 1816670
+`🗺️ Latitud`: 39.9075
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 116.39723
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1816670
 
-`Población`: 11716620
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 49
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 11716620
+
+`👨‍👨‍👧‍👧 Demografía`: 49
 
         
 ### Changchun
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Changchun
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 43.88
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 125.32278
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Changchun
 
-`Id geográfico`: 2038180
+`🗺️ Latitud`: 43.88
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 125.32278
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2038180
 
-`Población`: 4193073
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 206
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4193073
+
+`👨‍👨‍👧‍👧 Demografía`: 206
 
         
 ### Changsha
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Changsha
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.19874
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 112.97087
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Changsha
 
-`Id geográfico`: 1815577
+`🗺️ Latitud`: 28.19874
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 112.97087
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1815577
 
-`Población`: 3093980
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 67
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3093980
+
+`👨‍👨‍👧‍👧 Demografía`: 67
 
         
 ### Changshu City
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Changshu City
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.64615
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.74221
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Changshu City
 
-`Id geográfico`: 7283386
+`🗺️ Latitud`: 31.64615
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.74221
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 7283386
 
-`Población`: 1047700
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 9
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1047700
+
+`👨‍👨‍👧‍👧 Demografía`: 9
 
         
 ### Chengdu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Chengdu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.66667
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 104.06667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chengdu
 
-`Id geográfico`: 1815286
+`🗺️ Latitud`: 30.66667
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 104.06667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1815286
 
-`Población`: 7415590
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 499
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7415590
+
+`👨‍👨‍👧‍👧 Demografía`: 499
 
         
 ### Chongqing
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Chongqing
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.56278
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 106.55278
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chongqing
 
-`Id geográfico`: 1814906
+`🗺️ Latitud`: 29.56278
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 106.55278
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1814906
 
-`Población`: 7457600
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 225
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7457600
+
+`👨‍👨‍👧‍👧 Demografía`: 225
 
         
 ### Dadonghai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dadonghai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 18.22056
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 109.51028
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dadonghai
 
-`Id geográfico`: 1917790
+`🗺️ Latitud`: 18.22056
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 109.51028
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1917790
 
-`Población`: 2000000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2000000
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ### Dalian
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dalian
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 38.91222
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 121.60222
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dalian
 
-`Id geográfico`: 1814087
+`🗺️ Latitud`: 38.91222
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 121.60222
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1814087
 
-`Población`: 4087733
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 33
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4087733
+
+`👨‍👨‍👧‍👧 Demografía`: 33
 
         
 ### Datong
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Datong
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.09361
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.29139
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Datong
 
-`Id geográfico`: 2037799
+`🗺️ Latitud`: 40.09361
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.29139
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2037799
 
-`Población`: 1052678
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1054
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1052678
+
+`👨‍👨‍👧‍👧 Demografía`: 1054
 
         
 ### Dongguan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dongguan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.01797
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.74866
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dongguan
 
-`Id geográfico`: 1812545
+`🗺️ Latitud`: 23.01797
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.74866
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1812545
 
-`Población`: 8000000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 8000000
+
+`👨‍👨‍👧‍👧 Demografía`: 1
 
         
 ### Foshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Foshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.02677
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.13148
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Foshan
 
-`Id geográfico`: 1811103
+`🗺️ Latitud`: 23.02677
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.13148
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1811103
 
-`Población`: 3600000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 5
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3600000
+
+`👨‍👨‍👧‍👧 Demografía`: 5
 
         
 ### Fushun
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Fushun
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.88669
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 123.94363
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Fushun
 
-`Id geográfico`: 2037355
+`🗺️ Latitud`: 41.88669
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 123.94363
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2037355
 
-`Población`: 1400646
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 83
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1400646
+
+`👨‍👨‍👧‍👧 Demografía`: 83
 
         
 ### Fuzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Fuzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.06139
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 119.30611
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Fuzhou
 
-`Id geográfico`: 1810821
+`🗺️ Latitud`: 26.06139
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 119.30611
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1810821
 
-`Población`: 1179720
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1179720
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ### Guangzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Guangzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.11667
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.25
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guangzhou
 
-`Id geográfico`: 1809858
+`🗺️ Latitud`: 23.11667
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.25
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1809858
 
-`Población`: 11071424
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 15
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 11071424
+
+`👨‍👨‍👧‍👧 Demografía`: 15
 
         
 ### Guankou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Guankou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.15861
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.62709
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guankou
 
-`Id geográfico`: 1802875
+`🗺️ Latitud`: 28.15861
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.62709
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1802875
 
-`Población`: 1380000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 79
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1380000
+
+`👨‍👨‍👧‍👧 Demografía`: 79
 
         
 ### Guiyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Guiyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.58333
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 106.71667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guiyang
 
-`Id geográfico`: 1809461
+`🗺️ Latitud`: 26.58333
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 106.71667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1809461
 
-`Población`: 1171633
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1087
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1171633
+
+`👨‍👨‍👧‍👧 Demografía`: 1087
 
         
 ### Handan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Handan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.60056
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.46778
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Handan
 
-`Id geográfico`: 1808963
+`🗺️ Latitud`: 36.60056
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 114.46778
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1808963
 
-`Población`: 1358318
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 66
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1358318
+
+`👨‍👨‍👧‍👧 Demografía`: 66
 
         
 ### Hangzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hangzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.29365
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.16142
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hangzhou
 
-`Id geográfico`: 1808926
+`🗺️ Latitud`: 30.29365
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.16142
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1808926
 
-`Población`: 6241971
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 6241971
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ### Harbin
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Harbin
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 45.75
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 126.65
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Harbin
 
-`Id geográfico`: 2037013
+`🗺️ Latitud`: 45.75
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 126.65
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2037013
 
-`Población`: 5878939
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 140
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5878939
+
+`👨‍👨‍👧‍👧 Demografía`: 140
 
         
 ### Hefei
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hefei
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.86389
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 117.28083
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hefei
 
-`Id geográfico`: 1808722
+`🗺️ Latitud`: 31.86389
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 117.28083
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1808722
 
-`Población`: 3310268
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 24
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3310268
+
+`👨‍👨‍👧‍👧 Demografía`: 24
 
         
 ### Huainan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Huainan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.62639
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 116.99694
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Huainan
 
-`Id geográfico`: 1807681
+`🗺️ Latitud`: 32.62639
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 116.99694
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1807681
 
-`Población`: 1027655
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 47
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1027655
+
+`👨‍👨‍👧‍👧 Demografía`: 47
 
         
 ### Jieyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jieyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.5418
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 116.36581
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jieyang
 
-`Id geográfico`: 1797121
+`🗺️ Latitud`: 23.5418
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 116.36581
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1797121
 
-`Población`: 1001985
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 7
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1001985
+
+`👨‍👨‍👧‍👧 Demografía`: 7
 
         
 ### Jilin
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jilin
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 43.85083
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 126.56028
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jilin
 
-`Id geográfico`: 2036502
+`🗺️ Latitud`: 43.85083
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 126.56028
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2036502
 
-`Población`: 1881977
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 196
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1881977
+
+`👨‍👨‍👧‍👧 Demografía`: 196
 
         
 ### Jinan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jinan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.66833
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 116.99722
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jinan
 
-`Id geográfico`: 1805753
+`🗺️ Latitud`: 36.66833
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 116.99722
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1805753
 
-`Población`: 4335989
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 32
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4335989
+
+`👨‍👨‍👧‍👧 Demografía`: 32
 
         
 ### Kunming
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kunming
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.03889
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 102.71833
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kunming
 
-`Id geográfico`: 1804651
+`🗺️ Latitud`: 25.03889
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 102.71833
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1804651
 
-`Población`: 3855346
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1895
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3855346
+
+`👨‍👨‍👧‍👧 Demografía`: 1895
 
         
 ### Kunshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kunshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.37762
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.95431
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kunshan
 
-`Id geográfico`: 1785623
+`🗺️ Latitud`: 31.37762
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.95431
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1785623
 
-`Población`: 1600000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1600000
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Lanzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lanzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.05701
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 103.83987
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lanzhou
 
-`Id geográfico`: 1804430
+`🗺️ Latitud`: 36.05701
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 103.83987
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1804430
 
-`Población`: 2628426
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1521
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2628426
+
+`👨‍👨‍👧‍👧 Demografía`: 1521
 
         
 ### Lijiang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lijiang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.86879
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 100.22072
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lijiang
 
-`Id geográfico`: 1813253
+`🗺️ Latitud`: 26.86879
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 100.22072
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1813253
 
-`Población`: 1137600
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 2397
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1137600
+
+`👨‍👨‍👧‍👧 Demografía`: 2397
 
         
 ### Luoyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Luoyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.68361
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 112.45361
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Luoyang
 
-`Id geográfico`: 1801792
+`🗺️ Latitud`: 34.68361
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 112.45361
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1801792
 
-`Población`: 1390581
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 149
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1390581
+
+`👨‍👨‍👧‍👧 Demografía`: 149
 
         
 ### Nanchang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nanchang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.68396
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 115.85306
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nanchang
 
-`Id geográfico`: 1800163
+`🗺️ Latitud`: 28.68396
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 115.85306
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1800163
 
-`Población`: 2357839
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 20
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2357839
+
+`👨‍👨‍👧‍👧 Demografía`: 20
 
         
 ### Nanchong
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nanchong
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.79508
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 106.08473
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nanchong
 
-`Id geográfico`: 1800146
+`🗺️ Latitud`: 30.79508
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 106.08473
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1800146
 
-`Población`: 7150000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 287
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7150000
+
+`👨‍👨‍👧‍👧 Demografía`: 287
 
         
 ### Nanjing
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nanjing
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.06167
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 118.77778
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nanjing
 
-`Id geográfico`: 1799962
+`🗺️ Latitud`: 32.06167
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 118.77778
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1799962
 
-`Población`: 7165292
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 22
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7165292
+
+`👨‍👨‍👧‍👧 Demografía`: 22
 
         
 ### Ningbo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ningbo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.87819
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 121.54945
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ningbo
 
-`Id geográfico`: 1799397
+`🗺️ Latitud`: 29.87819
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 121.54945
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1799397
 
-`Población`: 3491597
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 15
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3491597
+
+`👨‍👨‍👧‍👧 Demografía`: 15
 
         
 ### Ordos
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ordos
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.6086
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 109.78157
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ordos
 
-`Id geográfico`: 8347664
+`🗺️ Latitud`: 39.6086
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 109.78157
 
-`Elevación`: 2149
+`🗺️ Id Geográfico`: 8347664
 
-`Población`: 1940653
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1310
+`⛰️ Elevación`: 2149
+
+`🚶‍ Población`: 1940653
+
+`👨‍👨‍👧‍👧 Demografía`: 1310
 
         
 ### Puyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Puyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.45679
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 119.88872
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Puyang
 
-`Id geográfico`: 1798425
+`🗺️ Latitud`: 29.45679
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 119.88872
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1798425
 
-`Población`: 3590000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 76
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3590000
+
+`👨‍👨‍👧‍👧 Demografía`: 76
 
         
 ### Qingdao
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Qingdao
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.06488
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.38042
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Qingdao
 
-`Id geográfico`: 1797929
+`🗺️ Latitud`: 36.06488
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.38042
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1797929
 
-`Población`: 3718835
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 16
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3718835
+
+`👨‍👨‍👧‍👧 Demografía`: 16
 
         
 ### Shanghai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shanghai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.22222
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 121.45806
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shanghai
 
-`Id geográfico`: 1796236
+`🗺️ Latitud`: 31.22222
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 121.45806
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1796236
 
-`Población`: 22315474
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 22315474
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ### Shantou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shantou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.36814
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 116.71479
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shantou
 
-`Id geográfico`: 1795940
+`🗺️ Latitud`: 23.36814
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 116.71479
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1795940
 
-`Población`: 5329024
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 17
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5329024
+
+`👨‍👨‍👧‍👧 Demografía`: 17
 
         
 ### Shenyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shenyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.79222
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 123.43278
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shenyang
 
-`Id geográfico`: 2034937
+`🗺️ Latitud`: 41.79222
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 123.43278
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2034937
 
-`Población`: 6255921
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 53
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 6255921
+
+`👨‍👨‍👧‍👧 Demografía`: 53
 
         
 ### Shenzhen
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shenzhen
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.54554
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.0683
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shenzhen
 
-`Id geográfico`: 1795565
+`🗺️ Latitud`: 22.54554
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 114.0683
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1795565
 
-`Población`: 10358381
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 4
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10358381
+
+`👨‍👨‍👧‍👧 Demografía`: 4
 
         
 ### Shijiazhuang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shijiazhuang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 38.04139
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.47861
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shijiazhuang
 
-`Id geográfico`: 1795270
+`🗺️ Latitud`: 38.04139
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 114.47861
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1795270
 
-`Población`: 2834942
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 77
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2834942
+
+`👨‍👨‍👧‍👧 Demografía`: 77
 
         
 ### Shiyan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shiyan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.6475
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 110.77806
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shiyan
 
-`Id geográfico`: 1794903
+`🗺️ Latitud`: 32.6475
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 110.77806
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1794903
 
-`Población`: 3460000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 247
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3460000
+
+`👨‍👨‍👧‍👧 Demografía`: 247
 
         
 ### Suzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Suzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.30408
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.59538
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Suzhou
 
-`Id geográfico`: 1886760
+`🗺️ Latitud`: 31.30408
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.59538
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1886760
 
-`Población`: 5345961
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5345961
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Taiyuan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Taiyuan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.86944
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 112.56028
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Taiyuan
 
-`Id geográfico`: 1793511
+`🗺️ Latitud`: 37.86944
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 112.56028
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1793511
 
-`Población`: 3426519
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 795
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3426519
+
+`👨‍👨‍👧‍👧 Demografía`: 795
 
         
 ### Tai’an
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tai'an
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.18528
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 117.12
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tai'an
 
-`Id geográfico`: 1793724
+`🗺️ Latitud`: 36.18528
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 117.12
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1793724
 
-`Población`: 5499000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 143
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5499000
+
+`👨‍👨‍👧‍👧 Demografía`: 143
 
         
 ### Tangshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tangshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.63333
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 118.18333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tangshan
 
-`Id geográfico`: 1793346
+`🗺️ Latitud`: 39.63333
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 118.18333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1793346
 
-`Población`: 3372102
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 36
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3372102
+
+`👨‍👨‍👧‍👧 Demografía`: 36
 
         
 ### Tianjin
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tianjin
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.14222
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 117.17667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tianjin
 
-`Id geográfico`: 1792947
+`🗺️ Latitud`: 39.14222
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 117.17667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1792947
 
-`Población`: 11090314
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 11
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 11090314
+
+`👨‍👨‍👧‍👧 Demografía`: 11
 
         
 ### Tianshui
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tianshui
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.57952
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 105.74238
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tianshui
 
-`Id geográfico`: 1792892
+`🗺️ Latitud`: 34.57952
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 105.74238
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1792892
 
-`Población`: 3500000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 1153
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3500000
+
+`👨‍👨‍👧‍👧 Demografía`: 1153
 
         
 ### Tongshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tongshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.18045
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 117.15707
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tongshan
 
-`Id geográfico`: 1787824
+`🗺️ Latitud`: 34.18045
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 117.15707
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1787824
 
-`Población`: 1199193
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 37
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1199193
+
+`👨‍👨‍👧‍👧 Demografía`: 37
 
         
 ### Wuhan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Wuhan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.58333
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.26667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Wuhan
 
-`Id geográfico`: 1791247
+`🗺️ Latitud`: 30.58333
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 114.26667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1791247
 
-`Población`: 9785388
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 20
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 9785388
+
+`👨‍👨‍👧‍👧 Demografía`: 20
 
         
 ### Wuxi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Wuxi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.56887
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.28857
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Wuxi
 
-`Id geográfico`: 1790923
+`🗺️ Latitud`: 31.56887
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 120.28857
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1790923
 
-`Población`: 3543719
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3543719
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Xiamen
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Xiamen
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 24.47979
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 118.08187
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Xiamen
 
-`Id geográfico`: 1790645
+`🗺️ Latitud`: 24.47979
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 118.08187
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1790645
 
-`Población`: 3531347
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3531347
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ### Xianyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Xianyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.33778
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 108.70261
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Xianyang
 
-`Id geográfico`: 1790353
+`🗺️ Latitud`: 34.33778
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 108.70261
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1790353
 
-`Población`: 1034081
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 387
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1034081
+
+`👨‍👨‍👧‍👧 Demografía`: 387
 
         
 ### Xinyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Xinyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.12278
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.06556
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Xinyang
 
-`Id geográfico`: 1788534
+`🗺️ Latitud`: 32.12278
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 114.06556
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1788534
 
-`Población`: 1590668
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 89
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1590668
+
+`👨‍👨‍👧‍👧 Demografía`: 89
 
         
 ### Xi’an
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Xi'an
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.25833
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 108.92861
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Xi'an
 
-`Id geográfico`: 1790630
+`🗺️ Latitud`: 34.25833
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 108.92861
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1790630
 
-`Población`: 6501190
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 416
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 6501190
+
+`👨‍👨‍👧‍👧 Demografía`: 416
 
         
 ### Xuchang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Xuchang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.03189
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.86299
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Xuchang
 
-`Id geográfico`: 1788046
+`🗺️ Latitud`: 34.03189
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.86299
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1788046
 
-`Población`: 1265536
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 71
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1265536
+
+`👨‍👨‍👧‍👧 Demografía`: 71
 
         
 ### Yueyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yueyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.37455
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.09481
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yueyang
 
-`Id geográfico`: 1927639
+`🗺️ Latitud`: 29.37455
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.09481
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1927639
 
-`Población`: 1200000
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 43
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1200000
+
+`👨‍👨‍👧‍👧 Demografía`: 43
 
         
 ### Yunfu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yunfu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.92833
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 112.03954
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yunfu
 
-`Id geográfico`: 1785725
+`🗺️ Latitud`: 22.92833
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 112.03954
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1785725
 
-`Población`: 2612800
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 76
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2612800
+
+`👨‍👨‍👧‍👧 Demografía`: 76
 
         
 ### Zhengzhou
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Zhengzhou
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.75778
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 113.64861
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zhengzhou
 
-`Id geográfico`: 1784658
+`🗺️ Latitud`: 34.75778
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 113.64861
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1784658
 
-`Población`: 4253913
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 104
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4253913
+
+`👨‍👨‍👧‍👧 Demografía`: 104
 
         
 ### Zhongshan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Zhongshan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.31992
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 110.5723
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zhongshan
 
-`Id geográfico`: 1915223
+`🗺️ Latitud`: 21.31992
 
-`Zona Horaria`: Asia/Urumqi
+`🗺️ Longitud`: 110.5723
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1915223
 
-`Población`: 3121275
+`⏰ Zona Horaria`: Asia/Urumqi
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3121275
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ### Zibo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Zibo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.79056
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 118.06333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zibo
 
-`Id geográfico`: 1785286
+`🗺️ Latitud`: 36.79056
 
-`Zona Horaria`: Asia/Shanghai
+`🗺️ Longitud`: 118.06333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1785286
 
-`Población`: 3129228
+`⏰ Zona Horaria`: Asia/Shanghai
 
-`Demografía`: 51
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3129228
+
+`👨‍👨‍👧‍👧 Demografía`: 51
 
         
 ### Ürümqi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Urumqi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 43.80096
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 87.60046
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Urumqi
 
-`Id geográfico`: 1529102
+`🗺️ Latitud`: 43.80096
 
-`Zona Horaria`: Asia/Urumqi
+`🗺️ Longitud`: 87.60046
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1529102
 
-`Población`: 3029372
+`⏰ Zona Horaria`: Asia/Urumqi
 
-`Demografía`: 862
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3029372
+
+`👨‍👨‍👧‍👧 Demografía`: 862
 
         
 ## 🇨🇴 Colombia
 
-`Nombre Oficial`: Republic of Colombia
+`⚜ Nombre Oficial`: Republic of Colombia
 
-`Código Alfa-2`: CO
+`🆔 Código Alfa-2`: CO
 
-`Código Alfa-3`: COL
+`🆔 Código Alfa-3`: COL
 
-`Código numérico`: 170
+`🆔 Código numérico`: 170
 
     
 ### Barranquilla
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Barranquilla
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 10.96854
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -74.78132
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Barranquilla
 
-`Id geográfico`: 3689147
+`🗺️ Latitud`: 10.96854
 
-`Zona Horaria`: America/Bogota
+`🗺️ Longitud`: -74.78132
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3689147
 
-`Población`: 1380425
+`⏰ Zona Horaria`: America/Bogota
 
-`Demografía`: 24
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1380425
+
+`👨‍👨‍👧‍👧 Demografía`: 24
 
         
 ### Bogotá
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Bogota
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 4.60971
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -74.08175
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bogota
 
-`Id geográfico`: 3688689
+`🗺️ Latitud`: 4.60971
 
-`Zona Horaria`: America/Bogota
+`🗺️ Longitud`: -74.08175
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3688689
 
-`Población`: 7674366
+`⏰ Zona Horaria`: America/Bogota
 
-`Demografía`: 2582
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7674366
+
+`👨‍👨‍👧‍👧 Demografía`: 2582
 
         
 ### Cali
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Cali
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 3.43722
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -76.5225
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cali
 
-`Id geográfico`: 3687925
+`🗺️ Latitud`: 3.43722
 
-`Zona Horaria`: America/Bogota
+`🗺️ Longitud`: -76.5225
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3687925
 
-`Población`: 2392877
+`⏰ Zona Horaria`: America/Bogota
 
-`Demografía`: 967
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2392877
+
+`👨‍👨‍👧‍👧 Demografía`: 967
 
         
 ### Medellín
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Medellin
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 6.25184
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -75.56359
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Medellin
 
-`Id geográfico`: 3674962
+`🗺️ Latitud`: 6.25184
 
-`Zona Horaria`: America/Bogota
+`🗺️ Longitud`: -75.56359
 
-`Elevación`: 1405
+`🗺️ Id Geográfico`: 3674962
 
-`Población`: 1999979
+`⏰ Zona Horaria`: America/Bogota
 
-`Demografía`: 1500
+`⛰️ Elevación`: 1405
+
+`🚶‍ Población`: 1999979
+
+`👨‍👨‍👧‍👧 Demografía`: 1500
 
         
 ## 🇨🇺 Cuba
 
-`Nombre Oficial`: Republic of Cuba
+`⚜ Nombre Oficial`: Republic of Cuba
 
-`Código Alfa-2`: CU
+`🆔 Código Alfa-2`: CU
 
-`Código Alfa-3`: CUB
+`🆔 Código Alfa-3`: CUB
 
-`Código numérico`: 192
+`🆔 Código numérico`: 192
 
     
 ### Havana
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Havana
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 23.13302
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -82.38304
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Havana
 
-`Id geográfico`: 3553478
+`🗺️ Latitud`: 23.13302
 
-`Zona Horaria`: America/Havana
+`🗺️ Longitud`: -82.38304
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3553478
 
-`Población`: 2163824
+`⏰ Zona Horaria`: America/Havana
 
-`Demografía`: 41
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2163824
+
+`👨‍👨‍👧‍👧 Demografía`: 41
 
         
 ## 🇨🇿 Czechia
 
-`Nombre Oficial`: Czech Republic
+`⚜ Nombre Oficial`: Czech Republic
 
-`Código Alfa-2`: CZ
+`🆔 Código Alfa-2`: CZ
 
-`Código Alfa-3`: CZE
+`🆔 Código Alfa-3`: CZE
 
-`Código numérico`: 203
+`🆔 Código numérico`: 203
 
     
 ### Prague
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Prague
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 50.08804
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 14.42076
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Prague
 
-`Id geográfico`: 3067696
+`🗺️ Latitud`: 50.08804
 
-`Zona Horaria`: Europe/Prague
+`🗺️ Longitud`: 14.42076
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3067696
 
-`Población`: 1165581
+`⏰ Zona Horaria`: Europe/Prague
 
-`Demografía`: 202
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1165581
+
+`👨‍👨‍👧‍👧 Demografía`: 202
 
         
 ## 🇩🇪 Germany
 
-`Nombre Oficial`: Federal Republic of Germany
+`⚜ Nombre Oficial`: Federal Republic of Germany
 
-`Código Alfa-2`: DE
+`🆔 Código Alfa-2`: DE
 
-`Código Alfa-3`: DEU
+`🆔 Código Alfa-3`: DEU
 
-`Código numérico`: 276
+`🆔 Código numérico`: 276
 
     
 ### Berlin
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Berlin
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 52.52437
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 13.41053
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Berlin
 
-`Id geográfico`: 2950159
+`🗺️ Latitud`: 52.52437
 
-`Zona Horaria`: Europe/Berlin
+`🗺️ Longitud`: 13.41053
 
-`Elevación`: 74
+`🗺️ Id Geográfico`: 2950159
 
-`Población`: 3426354
+`⏰ Zona Horaria`: Europe/Berlin
 
-`Demografía`: 43
+`⛰️ Elevación`: 74
+
+`🚶‍ Población`: 3426354
+
+`👨‍👨‍👧‍👧 Demografía`: 43
 
         
 ### Hamburg
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hamburg
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 53.57532
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 10.01534
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hamburg
 
-`Id geográfico`: 2911298
+`🗺️ Latitud`: 53.57532
 
-`Zona Horaria`: Europe/Berlin
+`🗺️ Longitud`: 10.01534
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2911298
 
-`Población`: 1739117
+`⏰ Zona Horaria`: Europe/Berlin
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1739117
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Munich
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Munich
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.13743
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 11.57549
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Munich
 
-`Id geográfico`: 2867714
+`🗺️ Latitud`: 48.13743
 
-`Zona Horaria`: Europe/Berlin
+`🗺️ Longitud`: 11.57549
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2867714
 
-`Población`: 1260391
+`⏰ Zona Horaria`: Europe/Berlin
 
-`Demografía`: 524
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1260391
+
+`👨‍👨‍👧‍👧 Demografía`: 524
 
         
 ## 🇩🇰 Denmark
 
-`Nombre Oficial`: Kingdom of Denmark
+`⚜ Nombre Oficial`: Kingdom of Denmark
 
-`Código Alfa-2`: DK
+`🆔 Código Alfa-2`: DK
 
-`Código Alfa-3`: DNK
+`🆔 Código Alfa-3`: DNK
 
-`Código numérico`: 208
+`🆔 Código numérico`: 208
 
     
 ### Copenhagen
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Copenhagen
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 55.67594
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 12.56553
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Copenhagen
 
-`Id geográfico`: 2618425
+`🗺️ Latitud`: 55.67594
 
-`Zona Horaria`: Europe/Copenhagen
+`🗺️ Longitud`: 12.56553
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2618425
 
-`Población`: 1153615
+`⏰ Zona Horaria`: Europe/Copenhagen
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1153615
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ## 🇩🇴 Dominican Republic
 
-`Nombre Oficial`: Dominican Republic
+`⚜ Nombre Oficial`: Dominican Republic
 
-`Código Alfa-2`: DO
+`🆔 Código Alfa-2`: DO
 
-`Código Alfa-3`: DOM
+`🆔 Código Alfa-3`: DOM
 
-`Código numérico`: 214
+`🆔 Código numérico`: 214
 
     
 ### Santiago de los Caballeros
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Santiago de los Caballeros
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.4517
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -70.69703
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Santiago de los Caballeros
 
-`Id geográfico`: 3492914
+`🗺️ Latitud`: 19.4517
 
-`Zona Horaria`: America/Santo_Domingo
+`🗺️ Longitud`: -70.69703
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3492914
 
-`Población`: 1200000
+`⏰ Zona Horaria`: America/Santo_Domingo
 
-`Demografía`: 199
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1200000
+
+`👨‍👨‍👧‍👧 Demografía`: 199
 
         
 ### Santo Domingo
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Santo Domingo
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 18.47186
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -69.89232
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Santo Domingo
 
-`Id geográfico`: 3492908
+`🗺️ Latitud`: 18.47186
 
-`Zona Horaria`: America/Santo_Domingo
+`🗺️ Longitud`: -69.89232
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3492908
 
-`Población`: 2201941
+`⏰ Zona Horaria`: America/Santo_Domingo
 
-`Demografía`: 9
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2201941
+
+`👨‍👨‍👧‍👧 Demografía`: 9
 
         
 ## 🇩🇿 Algeria
 
-`Nombre Oficial`: People's Democratic Republic of Algeria
+`⚜ Nombre Oficial`: People's Democratic Republic of Algeria
 
-`Código Alfa-2`: DZ
+`🆔 Código Alfa-2`: DZ
 
-`Código Alfa-3`: DZA
+`🆔 Código Alfa-3`: DZA
 
-`Código numérico`: 012
+`🆔 Código numérico`: 012
 
     
 ### Algiers
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Algiers
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.73225
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 3.08746
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Algiers
 
-`Id geográfico`: 2507480
+`🗺️ Latitud`: 36.73225
 
-`Zona Horaria`: Africa/Algiers
+`🗺️ Longitud`: 3.08746
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2507480
 
-`Población`: 1977663
+`⏰ Zona Horaria`: Africa/Algiers
 
-`Demografía`: 113
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1977663
+
+`👨‍👨‍👧‍👧 Demografía`: 113
 
         
 ## 🇪🇨 Ecuador
 
-`Nombre Oficial`: Republic of Ecuador
+`⚜ Nombre Oficial`: Republic of Ecuador
 
-`Código Alfa-2`: EC
+`🆔 Código Alfa-2`: EC
 
-`Código Alfa-3`: ECU
+`🆔 Código Alfa-3`: ECU
 
-`Código numérico`: 218
+`🆔 Código numérico`: 218
 
     
 ### Guayaquil
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Guayaquil
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -2.19616
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -79.88621
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guayaquil
 
-`Id geográfico`: 3657509
+`🗺️ Latitud`: -2.19616
 
-`Zona Horaria`: America/Guayaquil
+`🗺️ Longitud`: -79.88621
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3657509
 
-`Población`: 1952029
+`⏰ Zona Horaria`: America/Guayaquil
 
-`Demografía`: 1
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1952029
+
+`👨‍👨‍👧‍👧 Demografía`: 1
 
         
 ### Quito
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Quito
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -0.22985
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -78.52495
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Quito
 
-`Id geográfico`: 3652462
+`🗺️ Latitud`: -0.22985
 
-`Zona Horaria`: America/Guayaquil
+`🗺️ Longitud`: -78.52495
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3652462
 
-`Población`: 1399814
+`⏰ Zona Horaria`: America/Guayaquil
 
-`Demografía`: 2854
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1399814
+
+`👨‍👨‍👧‍👧 Demografía`: 2854
 
         
 ## 🇪🇬 Egypt
 
-`Nombre Oficial`: Arab Republic of Egypt
+`⚜ Nombre Oficial`: Arab Republic of Egypt
 
-`Código Alfa-2`: EG
+`🆔 Código Alfa-2`: EG
 
-`Código Alfa-3`: EGY
+`🆔 Código Alfa-3`: EGY
 
-`Código numérico`: 818
+`🆔 Código numérico`: 818
 
     
 ### Alexandria
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Alexandria
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.20176
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 29.91582
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Alexandria
 
-`Id geográfico`: 361058
+`🗺️ Latitud`: 31.20176
 
-`Zona Horaria`: Africa/Cairo
+`🗺️ Longitud`: 29.91582
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 361058
 
-`Población`: 3811516
+`⏰ Zona Horaria`: Africa/Cairo
 
-`Demografía`: 9
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3811516
+
+`👨‍👨‍👧‍👧 Demografía`: 9
 
         
 ### Cairo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Cairo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.06263
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 31.24967
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cairo
 
-`Id geográfico`: 360630
+`🗺️ Latitud`: 30.06263
 
-`Zona Horaria`: Africa/Cairo
+`🗺️ Longitud`: 31.24967
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 360630
 
-`Población`: 7734614
+`⏰ Zona Horaria`: Africa/Cairo
 
-`Demografía`: 23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7734614
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ### Giza
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Giza
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.00808
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 31.21093
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Giza
 
-`Id geográfico`: 360995
+`🗺️ Latitud`: 30.00808
 
-`Zona Horaria`: Africa/Cairo
+`🗺️ Longitud`: 31.21093
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 360995
 
-`Población`: 2443203
+`⏰ Zona Horaria`: Africa/Cairo
 
-`Demografía`: 30
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2443203
+
+`👨‍👨‍👧‍👧 Demografía`: 30
 
         
 ## 🇪🇸 Spain
 
-`Nombre Oficial`: Kingdom of Spain
+`⚜ Nombre Oficial`: Kingdom of Spain
 
-`Código Alfa-2`: ES
+`🆔 Código Alfa-2`: ES
 
-`Código Alfa-3`: ESP
+`🆔 Código Alfa-3`: ESP
 
-`Código numérico`: 724
+`🆔 Código numérico`: 724
 
     
 ### Barcelona
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Barcelona
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.38879
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 2.15899
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Barcelona
 
-`Id geográfico`: 3128760
+`🗺️ Latitud`: 41.38879
 
-`Zona Horaria`: Europe/Madrid
+`🗺️ Longitud`: 2.15899
 
-`Elevación`: 15
+`🗺️ Id Geográfico`: 3128760
 
-`Población`: 1621537
+`⏰ Zona Horaria`: Europe/Madrid
 
-`Demografía`: 47
+`⛰️ Elevación`: 15
+
+`🚶‍ Población`: 1621537
+
+`👨‍👨‍👧‍👧 Demografía`: 47
 
         
 ### Madrid
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Madrid
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.4165
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: -3.70256
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Madrid
 
-`Id geográfico`: 3117735
+`🗺️ Latitud`: 40.4165
 
-`Zona Horaria`: Europe/Madrid
+`🗺️ Longitud`: -3.70256
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3117735
 
-`Población`: 3255944
+`⏰ Zona Horaria`: Europe/Madrid
 
-`Demografía`: 665
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3255944
+
+`👨‍👨‍👧‍👧 Demografía`: 665
 
         
 ## 🇪🇹 Ethiopia
 
-`Nombre Oficial`: Federal Democratic Republic of Ethiopia
+`⚜ Nombre Oficial`: Federal Democratic Republic of Ethiopia
 
-`Código Alfa-2`: ET
+`🆔 Código Alfa-2`: ET
 
-`Código Alfa-3`: ETH
+`🆔 Código Alfa-3`: ETH
 
-`Código numérico`: 231
+`🆔 Código numérico`: 231
 
     
 ### Addis Ababa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Addis Ababa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 9.02497
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 38.74689
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Addis Ababa
 
-`Id geográfico`: 344979
+`🗺️ Latitud`: 9.02497
 
-`Zona Horaria`: Africa/Addis_Ababa
+`🗺️ Longitud`: 38.74689
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 344979
 
-`Población`: 2757729
+`⏰ Zona Horaria`: Africa/Addis_Ababa
 
-`Demografía`: 2405
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2757729
+
+`👨‍👨‍👧‍👧 Demografía`: 2405
 
         
 ## 🇫🇷 France
 
-`Nombre Oficial`: French Republic
+`⚜ Nombre Oficial`: French Republic
 
-`Código Alfa-2`: FR
+`🆔 Código Alfa-2`: FR
 
-`Código Alfa-3`: FRA
+`🆔 Código Alfa-3`: FRA
 
-`Código numérico`: 250
+`🆔 Código numérico`: 250
 
     
 ### Paris
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Paris
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.85341
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 2.3488
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Paris
 
-`Id geográfico`: 2988507
+`🗺️ Latitud`: 48.85341
 
-`Zona Horaria`: Europe/Paris
+`🗺️ Longitud`: 2.3488
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2988507
 
-`Población`: 2138551
+`⏰ Zona Horaria`: Europe/Paris
 
-`Demografía`: 42
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2138551
+
+`👨‍👨‍👧‍👧 Demografía`: 42
 
         
 ## 🇬🇧 United Kingdom
 
-`Nombre Oficial`: United Kingdom of Great Britain and Northern Ireland
+`⚜ Nombre Oficial`: United Kingdom of Great Britain and Northern Ireland
 
-`Código Alfa-2`: GB
+`🆔 Código Alfa-2`: GB
 
-`Código Alfa-3`: GBR
+`🆔 Código Alfa-3`: GBR
 
-`Código numérico`: 826
+`🆔 Código numérico`: 826
 
     
 ### London
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: London
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 51.50853
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -0.12574
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: London
 
-`Id geográfico`: 2643743
+`🗺️ Latitud`: 51.50853
 
-`Zona Horaria`: Europe/London
+`🗺️ Longitud`: -0.12574
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2643743
 
-`Población`: 7556900
+`⏰ Zona Horaria`: Europe/London
 
-`Demografía`: 25
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7556900
+
+`👨‍👨‍👧‍👧 Demografía`: 25
 
         
 ## 🇬🇪 Georgia
 
-`Nombre Oficial`: Georgia
+`⚜ Nombre Oficial`: Georgia
 
-`Código Alfa-2`: GE
+`🆔 Código Alfa-2`: GE
 
-`Código Alfa-3`: GEO
+`🆔 Código Alfa-3`: GEO
 
-`Código numérico`: 268
+`🆔 Código numérico`: 268
 
     
 ### Tbilisi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tbilisi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.69411
+`⌚ Hora Local`: 04:12 AM 
 
-`Longitud`: 44.83368
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tbilisi
 
-`Id geográfico`: 611717
+`🗺️ Latitud`: 41.69411
 
-`Zona Horaria`: Asia/Tbilisi
+`🗺️ Longitud`: 44.83368
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 611717
 
-`Población`: 1049498
+`⏰ Zona Horaria`: Asia/Tbilisi
 
-`Demografía`: 491
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1049498
+
+`👨‍👨‍👧‍👧 Demografía`: 491
 
         
 ## 🇬🇭 Ghana
 
-`Nombre Oficial`: Republic of Ghana
+`⚜ Nombre Oficial`: Republic of Ghana
 
-`Código Alfa-2`: GH
+`🆔 Código Alfa-2`: GH
 
-`Código Alfa-3`: GHA
+`🆔 Código Alfa-3`: GHA
 
-`Código numérico`: 288
+`🆔 Código numérico`: 288
 
     
 ### Accra
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Accra
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 5.55602
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -0.1969
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Accra
 
-`Id geográfico`: 2306104
+`🗺️ Latitud`: 5.55602
 
-`Zona Horaria`: Africa/Accra
+`🗺️ Longitud`: -0.1969
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2306104
 
-`Población`: 1963264
+`⏰ Zona Horaria`: Africa/Accra
 
-`Demografía`: 33
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1963264
+
+`👨‍👨‍👧‍👧 Demografía`: 33
 
         
 ### Kumasi
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Kumasi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 6.68848
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -1.62443
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kumasi
 
-`Id geográfico`: 2298890
+`🗺️ Latitud`: 6.68848
 
-`Zona Horaria`: Africa/Accra
+`🗺️ Longitud`: -1.62443
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2298890
 
-`Población`: 1468609
+`⏰ Zona Horaria`: Africa/Accra
 
-`Demografía`: 270
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1468609
+
+`👨‍👨‍👧‍👧 Demografía`: 270
 
         
 ## 🇬🇳 Guinea
 
-`Nombre Oficial`: Republic of Guinea
+`⚜ Nombre Oficial`: Republic of Guinea
 
-`Código Alfa-2`: GN
+`🆔 Código Alfa-2`: GN
 
-`Código Alfa-3`: GIN
+`🆔 Código Alfa-3`: GIN
 
-`Código numérico`: 324
+`🆔 Código numérico`: 324
 
     
 ### Camayenne
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Camayenne
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 9.535
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -13.68778
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Camayenne
 
-`Id geográfico`: 2422488
+`🗺️ Latitud`: 9.535
 
-`Zona Horaria`: Africa/Conakry
+`🗺️ Longitud`: -13.68778
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2422488
 
-`Población`: 1871242
+`⏰ Zona Horaria`: Africa/Conakry
 
-`Demografía`: 6
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1871242
+
+`👨‍👨‍👧‍👧 Demografía`: 6
 
         
 ### Conakry
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Conakry
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 9.53795
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -13.67729
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Conakry
 
-`Id geográfico`: 2422465
+`🗺️ Latitud`: 9.53795
 
-`Zona Horaria`: Africa/Conakry
+`🗺️ Longitud`: -13.67729
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2422465
 
-`Población`: 1767200
+`⏰ Zona Horaria`: Africa/Conakry
 
-`Demografía`: 13
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1767200
+
+`👨‍👨‍👧‍👧 Demografía`: 13
 
         
 ## 🇭🇰 Hong Kong
 
-`Nombre Oficial`: Hong Kong Special Administrative Region of China
+`⚜ Nombre Oficial`: Hong Kong Special Administrative Region of China
 
-`Código Alfa-2`: HK
+`🆔 Código Alfa-2`: HK
 
-`Código Alfa-3`: HKG
+`🆔 Código Alfa-3`: HKG
 
-`Código numérico`: 344
+`🆔 Código numérico`: 344
 
     
 ### Hong Kong
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hong Kong
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.27832
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.17469
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hong Kong
 
-`Id geográfico`: 1819729
+`🗺️ Latitud`: 22.27832
 
-`Zona Horaria`: Asia/Hong_Kong
+`🗺️ Longitud`: 114.17469
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1819729
 
-`Población`: 7012738
+`⏰ Zona Horaria`: Asia/Hong_Kong
 
-`Demografía`: 60
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7012738
+
+`👨‍👨‍👧‍👧 Demografía`: 60
 
         
 ### Kowloon
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kowloon
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.31667
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 114.18333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kowloon
 
-`Id geográfico`: 1819609
+`🗺️ Latitud`: 22.31667
 
-`Zona Horaria`: Asia/Hong_Kong
+`🗺️ Longitud`: 114.18333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1819609
 
-`Población`: 2019533
+`⏰ Zona Horaria`: Asia/Hong_Kong
 
-`Demografía`: 92
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2019533
+
+`👨‍👨‍👧‍👧 Demografía`: 92
 
         
 ## 🇭🇹 Haiti
 
-`Nombre Oficial`: Republic of Haiti
+`⚜ Nombre Oficial`: Republic of Haiti
 
-`Código Alfa-2`: HT
+`🆔 Código Alfa-2`: HT
 
-`Código Alfa-3`: HTI
+`🆔 Código Alfa-3`: HTI
 
-`Código numérico`: 332
+`🆔 Código numérico`: 332
 
     
 ### Port-au-Prince
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Port-au-Prince
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 18.54349
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -72.33881
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Port-au-Prince
 
-`Id geográfico`: 3718426
+`🗺️ Latitud`: 18.54349
 
-`Zona Horaria`: America/Port-au-Prince
+`🗺️ Longitud`: -72.33881
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3718426
 
-`Población`: 1234742
+`⏰ Zona Horaria`: America/Port-au-Prince
 
-`Demografía`: 53
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1234742
+
+`👨‍👨‍👧‍👧 Demografía`: 53
 
         
 ## 🇭🇺 Hungary
 
-`Nombre Oficial`: Hungary
+`⚜ Nombre Oficial`: Hungary
 
-`Código Alfa-2`: HU
+`🆔 Código Alfa-2`: HU
 
-`Código Alfa-3`: HUN
+`🆔 Código Alfa-3`: HUN
 
-`Código numérico`: 348
+`🆔 Código numérico`: 348
 
     
 ### Budapest
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Budapest
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 47.49801
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 19.03991
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Budapest
 
-`Id geográfico`: 3054643
+`🗺️ Latitud`: 47.49801
 
-`Zona Horaria`: Europe/Budapest
+`🗺️ Longitud`: 19.03991
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3054643
 
-`Población`: 1741041
+`⏰ Zona Horaria`: Europe/Budapest
 
-`Demografía`: 111
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1741041
+
+`👨‍👨‍👧‍👧 Demografía`: 111
 
         
 ## 🇮🇩 Indonesia
 
-`Nombre Oficial`: Republic of Indonesia
+`⚜ Nombre Oficial`: Republic of Indonesia
 
-`Código Alfa-2`: ID
+`🆔 Código Alfa-2`: ID
 
-`Código Alfa-3`: IDN
+`🆔 Código Alfa-3`: IDN
 
-`Código numérico`: 360
+`🆔 Código numérico`: 360
 
     
 ### Bandung
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bandung
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.92222
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 107.60694
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bandung
 
-`Id geográfico`: 1650357
+`🗺️ Latitud`: -6.92222
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 107.60694
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1650357
 
-`Población`: 1699719
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 714
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1699719
+
+`👨‍👨‍👧‍👧 Demografía`: 714
 
         
 ### Batam
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Batam
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 1.14937
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 104.02491
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Batam
 
-`Id geográfico`: 6295587
+`🗺️ Latitud`: 1.14937
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 104.02491
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 6295587
 
-`Población`: 1164352
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 38
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1164352
+
+`👨‍👨‍👧‍👧 Demografía`: 38
 
         
 ### Bekasi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bekasi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.2349
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.9896
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bekasi
 
-`Id geográfico`: 1649378
+`🗺️ Latitud`: -6.2349
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 106.9896
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1649378
 
-`Población`: 1520119
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 18
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1520119
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ### Depok
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Depok
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.4
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.81861
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Depok
 
-`Id geográfico`: 1645524
+`🗺️ Latitud`: -6.4
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 106.81861
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1645524
 
-`Población`: 1198129
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 92
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1198129
+
+`👨‍👨‍👧‍👧 Demografía`: 92
 
         
 ### Jakarta
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jakarta
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.21462
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.84513
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jakarta
 
-`Id geográfico`: 1642911
+`🗺️ Latitud`: -6.21462
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 106.84513
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1642911
 
-`Población`: 8540121
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 16
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 8540121
+
+`👨‍👨‍👧‍👧 Demografía`: 16
 
         
 ### Makassar
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Makassar
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -5.14861
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 119.43194
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Makassar
 
-`Id geográfico`: 1622786
+`🗺️ Latitud`: -5.14861
 
-`Zona Horaria`: Asia/Makassar
+`🗺️ Longitud`: 119.43194
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1622786
 
-`Población`: 1321717
+`⏰ Zona Horaria`: Asia/Makassar
 
-`Demografía`: 6
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1321717
+
+`👨‍👨‍👧‍👧 Demografía`: 6
 
         
 ### Medan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Medan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 3.58333
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 98.66667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Medan
 
-`Id geográfico`: 1214520
+`🗺️ Latitud`: 3.58333
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 98.66667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1214520
 
-`Población`: 1750971
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 26
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1750971
+
+`👨‍👨‍👧‍👧 Demografía`: 26
 
         
 ### Palembang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Palembang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -2.91673
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 104.7458
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Palembang
 
-`Id geográfico`: 1633070
+`🗺️ Latitud`: -2.91673
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 104.7458
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1633070
 
-`Población`: 1441500
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 5
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1441500
+
+`👨‍👨‍👧‍👧 Demografía`: 5
 
         
 ### Semarang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Semarang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.99306
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 110.42083
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Semarang
 
-`Id geográfico`: 1627896
+`🗺️ Latitud`: -6.99306
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 110.42083
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1627896
 
-`Población`: 1288084
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 18
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1288084
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ### South Tangerang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: South Tangerang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.28862
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.71789
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: South Tangerang
 
-`Id geográfico`: 8581443
+`🗺️ Latitud`: -6.28862
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 106.71789
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 8581443
 
-`Población`: 1303569
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 39
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1303569
+
+`👨‍👨‍👧‍👧 Demografía`: 39
 
         
 ### Surabaya
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Surabaya
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -7.24917
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 112.75083
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Surabaya
 
-`Id geográfico`: 1625822
+`🗺️ Latitud`: -7.24917
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 112.75083
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1625822
 
-`Población`: 2374658
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2374658
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Tangerang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tangerang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.17806
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.63
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tangerang
 
-`Id geográfico`: 1625084
+`🗺️ Latitud`: -6.17806
 
-`Zona Horaria`: Asia/Jakarta
+`🗺️ Longitud`: 106.63
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1625084
 
-`Población`: 1372124
+`⏰ Zona Horaria`: Asia/Jakarta
 
-`Demografía`: 18
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1372124
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ## 🇮🇪 Ireland
 
-`Nombre Oficial`: Ireland
+`⚜ Nombre Oficial`: Ireland
 
-`Código Alfa-2`: IE
+`🆔 Código Alfa-2`: IE
 
-`Código Alfa-3`: IRL
+`🆔 Código Alfa-3`: IRL
 
-`Código numérico`: 372
+`🆔 Código numérico`: 372
 
     
 ### Dublin
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Dublin
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 53.33306
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -6.24889
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dublin
 
-`Id geográfico`: 2964574
+`🗺️ Latitud`: 53.33306
 
-`Zona Horaria`: Europe/Dublin
+`🗺️ Longitud`: -6.24889
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2964574
 
-`Población`: 1024027
+`⏰ Zona Horaria`: Europe/Dublin
 
-`Demografía`: 17
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1024027
+
+`👨‍👨‍👧‍👧 Demografía`: 17
 
         
 ## 🇮🇳 India
 
-`Nombre Oficial`: Republic of India
+`⚜ Nombre Oficial`: Republic of India
 
-`Código Alfa-2`: IN
+`🆔 Código Alfa-2`: IN
 
-`Código Alfa-3`: IND
+`🆔 Código Alfa-3`: IND
 
-`Código numérico`: 356
+`🆔 Código numérico`: 356
 
     
 ### Agra
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Agra
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 27.18333
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 78.01667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Agra
 
-`Id geográfico`: 1279259
+`🗺️ Latitud`: 27.18333
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 78.01667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1279259
 
-`Población`: 1430055
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 166
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1430055
+
+`👨‍👨‍👧‍👧 Demografía`: 166
 
         
 ### Ahmedabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ahmedabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.02579
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 72.58727
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ahmedabad
 
-`Id geográfico`: 1279233
+`🗺️ Latitud`: 23.02579
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 72.58727
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1279233
 
-`Población`: 3719710
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 56
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3719710
+
+`👨‍👨‍👧‍👧 Demografía`: 56
 
         
 ### Allahābād
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Allahabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.44478
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 81.84322
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Allahabad
 
-`Id geográfico`: 1278994
+`🗺️ Latitud`: 25.44478
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 81.84322
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1278994
 
-`Población`: 1073438
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 99
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1073438
+
+`👨‍👨‍👧‍👧 Demografía`: 99
 
         
 ### Amritsar
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Amritsar
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.62234
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 74.87534
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Amritsar
 
-`Id geográfico`: 1278710
+`🗺️ Latitud`: 31.62234
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 74.87534
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1278710
 
-`Población`: 1092450
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 244
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1092450
+
+`👨‍👨‍👧‍👧 Demografía`: 244
 
         
 ### Aurangabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Aurangabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.87757
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 75.34226
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Aurangabad
 
-`Id geográfico`: 1278149
+`🗺️ Latitud`: 19.87757
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 75.34226
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1278149
 
-`Población`: 1016441
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 588
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1016441
+
+`👨‍👨‍👧‍👧 Demografía`: 588
 
         
 ### Bengaluru
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bengaluru
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 12.97194
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.59369
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bengaluru
 
-`Id geográfico`: 1277333
+`🗺️ Latitud`: 12.97194
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.59369
 
-`Elevación`: 920
+`🗺️ Id Geográfico`: 1277333
 
-`Población`: 5104047
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 914
+`⛰️ Elevación`: 920
+
+`🚶‍ Población`: 5104047
+
+`👨‍👨‍👧‍👧 Demografía`: 914
 
         
 ### Bhopal
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bhopal
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.25469
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.40289
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bhopal
 
-`Id geográfico`: 1275841
+`🗺️ Latitud`: 23.25469
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.40289
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1275841
 
-`Población`: 1599914
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 523
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1599914
+
+`👨‍👨‍👧‍👧 Demografía`: 523
 
         
 ### Chennai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Chennai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 13.08784
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 80.27847
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chennai
 
-`Id geográfico`: 1264527
+`🗺️ Latitud`: 13.08784
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 80.27847
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1264527
 
-`Población`: 4328063
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4328063
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ### Delhi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Delhi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.65195
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.23149
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Delhi
 
-`Id geográfico`: 1273294
+`🗺️ Latitud`: 28.65195
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.23149
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1273294
 
-`Población`: 10927986
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 227
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10927986
+
+`👨‍👨‍👧‍👧 Demografía`: 227
 
         
 ### Dombivli
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dombivli
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.21667
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.08333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dombivli
 
-`Id geográfico`: 1272423
+`🗺️ Latitud`: 19.21667
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.08333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1272423
 
-`Población`: 1193000
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 11
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1193000
+
+`👨‍👨‍👧‍👧 Demografía`: 11
 
         
 ### Faridabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Faridabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.41124
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.31316
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Faridabad
 
-`Id geográfico`: 1271951
+`🗺️ Latitud`: 28.41124
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.31316
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1271951
 
-`Población`: 1220229
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 209
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1220229
+
+`👨‍👨‍👧‍👧 Demografía`: 209
 
         
 ### Ghāziābād
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ghaziabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.66535
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.43915
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ghaziabad
 
-`Id geográfico`: 1271308
+`🗺️ Latitud`: 28.66535
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.43915
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1271308
 
-`Población`: 1199191
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 214
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1199191
+
+`👨‍👨‍👧‍👧 Demografía`: 214
 
         
 ### Gorakhpur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Gorakhpur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.44768
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 75.67206
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Gorakhpur
 
-`Id geográfico`: 1270926
+`🗺️ Latitud`: 29.44768
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 75.67206
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1270926
 
-`Población`: 1324570
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 218
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1324570
+
+`👨‍👨‍👧‍👧 Demografía`: 218
 
         
 ### Hyderabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hyderabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 17.38405
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 78.45636
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hyderabad
 
-`Id geográfico`: 1269843
+`🗺️ Latitud`: 17.38405
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 78.45636
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1269843
 
-`Población`: 3597816
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 515
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3597816
+
+`👨‍👨‍👧‍👧 Demografía`: 515
 
         
 ### Hāora
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Haora
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.57688
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 88.31857
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Haora
 
-`Id geográfico`: 1270396
+`🗺️ Latitud`: 22.57688
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 88.31857
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1270396
 
-`Población`: 1027672
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1027672
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Indore
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Indore
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.71792
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 75.8333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Indore
 
-`Id geográfico`: 1269743
+`🗺️ Latitud`: 22.71792
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 75.8333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1269743
 
-`Población`: 1837041
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 550
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1837041
+
+`👨‍👨‍👧‍👧 Demografía`: 550
 
         
 ### Jabalpur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jabalpur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 23.16697
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 79.95006
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jabalpur
 
-`Id geográfico`: 1269633
+`🗺️ Latitud`: 23.16697
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 79.95006
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1269633
 
-`Población`: 1030168
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 416
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1030168
+
+`👨‍👨‍👧‍👧 Demografía`: 416
 
         
 ### Jaipur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jaipur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.91962
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 75.78781
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jaipur
 
-`Id geográfico`: 1269515
+`🗺️ Latitud`: 26.91962
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 75.78781
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1269515
 
-`Población`: 2711758
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 435
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2711758
+
+`👨‍👨‍👧‍👧 Demografía`: 435
 
         
 ### Kalyān
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kalyan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.2437
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.13554
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kalyan
 
-`Id geográfico`: 1268295
+`🗺️ Latitud`: 19.2437
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.13554
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1268295
 
-`Población`: 1262255
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1262255
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Kanpur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kanpur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.46523
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 80.34975
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kanpur
 
-`Id geográfico`: 1267995
+`🗺️ Latitud`: 26.46523
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 80.34975
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1267995
 
-`Población`: 2823249
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 137
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2823249
+
+`👨‍👨‍👧‍👧 Demografía`: 137
 
         
 ### Kolkata
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kolkata
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.56263
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 88.36304
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kolkata
 
-`Id geográfico`: 1275004
+`🗺️ Latitud`: 22.56263
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 88.36304
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1275004
 
-`Población`: 4631392
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 11
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4631392
+
+`👨‍👨‍👧‍👧 Demografía`: 11
 
         
 ### Lucknow
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lucknow
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 26.83928
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 80.92313
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lucknow
 
-`Id geográfico`: 1264733
+`🗺️ Latitud`: 26.83928
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 80.92313
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1264733
 
-`Población`: 2472011
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 126
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2472011
+
+`👨‍👨‍👧‍👧 Demografía`: 126
 
         
 ### Ludhiāna
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ludhiana
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.91204
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 75.85379
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ludhiana
 
-`Id geográfico`: 1264728
+`🗺️ Latitud`: 30.91204
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 75.85379
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1264728
 
-`Población`: 1545368
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 256
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1545368
+
+`👨‍👨‍👧‍👧 Demografía`: 256
 
         
 ### Meerut
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Meerut
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 28.98002
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.70636
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Meerut
 
-`Id geográfico`: 1263214
+`🗺️ Latitud`: 28.98002
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.70636
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1263214
 
-`Población`: 1223184
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 228
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1223184
+
+`👨‍👨‍👧‍👧 Demografía`: 228
 
         
 ### Mumbai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mumbai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.07283
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 72.88261
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mumbai
 
-`Id geográfico`: 1275339
+`🗺️ Latitud`: 19.07283
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 72.88261
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1275339
 
-`Población`: 12691836
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 12691836
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Nagpur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nagpur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.14631
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 79.08491
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nagpur
 
-`Id geográfico`: 1262180
+`🗺️ Latitud`: 21.14631
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 79.08491
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1262180
 
-`Población`: 2228018
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 319
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2228018
+
+`👨‍👨‍👧‍👧 Demografía`: 319
 
         
 ### Nashik
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nashik
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.99727
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.79096
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nashik
 
-`Id geográfico`: 1261731
+`🗺️ Latitud`: 19.99727
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.79096
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1261731
 
-`Población`: 1289497
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 584
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1289497
+
+`👨‍👨‍👧‍👧 Demografía`: 584
 
         
 ### Navi Mumbai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Navi Mumbai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.03681
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.01582
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Navi Mumbai
 
-`Id geográfico`: 6619347
+`🗺️ Latitud`: 19.03681
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.01582
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 6619347
 
-`Población`: 2600000
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2600000
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ### Nowrangapur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nowrangapur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.23114
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 82.54826
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nowrangapur
 
-`Id geográfico`: 1261162
+`🗺️ Latitud`: 19.23114
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 82.54826
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1261162
 
-`Población`: 1220946
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 578
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1220946
+
+`👨‍👨‍👧‍👧 Demografía`: 578
 
         
 ### Patna
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Patna
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.59408
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 85.13563
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Patna
 
-`Id geográfico`: 1260086
+`🗺️ Latitud`: 25.59408
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 85.13563
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1260086
 
-`Población`: 1599920
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 53
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1599920
+
+`👨‍👨‍👧‍👧 Demografía`: 53
 
         
 ### Pimpri
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Pimpri
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 18.62292
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.80696
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pimpri
 
-`Id geográfico`: 1259652
+`🗺️ Latitud`: 18.62292
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.80696
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1259652
 
-`Población`: 1284606
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 571
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1284606
+
+`👨‍👨‍👧‍👧 Demografía`: 571
 
         
 ### Pune
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Pune
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 18.51957
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.85535
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pune
 
-`Id geográfico`: 1259229
+`🗺️ Latitud`: 18.51957
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.85535
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1259229
 
-`Población`: 2935744
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 554
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2935744
+
+`👨‍👨‍👧‍👧 Demografía`: 554
 
         
 ### Rājkot
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Rajkot
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.29161
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 70.79322
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rajkot
 
-`Id geográfico`: 1258847
+`🗺️ Latitud`: 22.29161
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 70.79322
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1258847
 
-`Población`: 1177362
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 140
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1177362
+
+`👨‍👨‍👧‍👧 Demografía`: 140
 
         
 ### Sūrat
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Surat
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.19594
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 72.83023
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Surat
 
-`Id geográfico`: 1255364
+`🗺️ Latitud`: 21.19594
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 72.83023
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1255364
 
-`Población`: 2894504
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 20
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2894504
+
+`👨‍👨‍👧‍👧 Demografía`: 20
 
         
 ### Teni
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Teni
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 10.01115
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.47772
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Teni
 
-`Id geográfico`: 1254745
+`🗺️ Latitud`: 10.01115
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.47772
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1254745
 
-`Población`: 1034724
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 300
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1034724
+
+`👨‍👨‍👧‍👧 Demografía`: 300
 
         
 ### Thāne
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Thane
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 19.19704
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 72.96355
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Thane
 
-`Id geográfico`: 1254661
+`🗺️ Latitud`: 19.19704
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 72.96355
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1254661
 
-`Población`: 1261517
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1261517
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ### Tirunelveli
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tirunelveli
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 8.72742
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 77.6838
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tirunelveli
 
-`Id geográfico`: 1254361
+`🗺️ Latitud`: 8.72742
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 77.6838
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1254361
 
-`Población`: 1435844
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 49
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1435844
+
+`👨‍👨‍👧‍👧 Demografía`: 49
 
         
 ### Vadodara
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Vadodara
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.29941
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 73.20812
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Vadodara
 
-`Id geográfico`: 1253573
+`🗺️ Latitud`: 22.29941
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 73.20812
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1253573
 
-`Población`: 1409476
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 46
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1409476
+
+`👨‍👨‍👧‍👧 Demografía`: 46
 
         
 ### Varanasi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Varanasi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.31668
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 83.01041
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Varanasi
 
-`Id geográfico`: 1253405
+`🗺️ Latitud`: 25.31668
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 83.01041
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1253405
 
-`Población`: 1164404
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 86
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1164404
+
+`👨‍👨‍👧‍👧 Demografía`: 86
 
         
 ### Visakhapatnam
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Visakhapatnam
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 17.68009
+`⌚ Hora Local`: 05:42 AM 
 
-`Longitud`: 83.20161
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Visakhapatnam
 
-`Id geográfico`: 1253102
+`🗺️ Latitud`: 17.68009
 
-`Zona Horaria`: Asia/Kolkata
+`🗺️ Longitud`: 83.20161
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1253102
 
-`Población`: 1063178
+`⏰ Zona Horaria`: Asia/Kolkata
 
-`Demografía`: 24
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1063178
+
+`👨‍👨‍👧‍👧 Demografía`: 24
 
         
 ## 🇮🇶 Iraq
 
-`Nombre Oficial`: Republic of Iraq
+`⚜ Nombre Oficial`: Republic of Iraq
 
-`Código Alfa-2`: IQ
+`🆔 Código Alfa-2`: IQ
 
-`Código Alfa-3`: IRQ
+`🆔 Código Alfa-3`: IRQ
 
-`Código numérico`: 368
+`🆔 Código numérico`: 368
 
     
 ### Al Başrah al Qadīmah
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Al Basrah al Qadimah
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.50316
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 47.81507
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Al Basrah al Qadimah
 
-`Id geográfico`: 388349
+`🗺️ Latitud`: 30.50316
 
-`Zona Horaria`: Asia/Baghdad
+`🗺️ Longitud`: 47.81507
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 388349
 
-`Población`: 2015483
+`⏰ Zona Horaria`: Asia/Baghdad
 
-`Demografía`: 7
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2015483
+
+`👨‍👨‍👧‍👧 Demografía`: 7
 
         
 ### Al Mawşil al Jadīdah
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Al Mawsil al Jadidah
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.33271
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 43.10555
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Al Mawsil al Jadidah
 
-`Id geográfico`: 99071
+`🗺️ Latitud`: 36.33271
 
-`Zona Horaria`: Asia/Baghdad
+`🗺️ Longitud`: 43.10555
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 99071
 
-`Población`: 2065597
+`⏰ Zona Horaria`: Asia/Baghdad
 
-`Demografía`: 239
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2065597
+
+`👨‍👨‍👧‍👧 Demografía`: 239
 
         
 ### Baghdad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Baghdad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.34058
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 44.40088
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Baghdad
 
-`Id geográfico`: 98182
+`🗺️ Latitud`: 33.34058
 
-`Zona Horaria`: Asia/Baghdad
+`🗺️ Longitud`: 44.40088
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 98182
 
-`Población`: 7216000
+`⏰ Zona Horaria`: Asia/Baghdad
 
-`Demografía`: 41
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7216000
+
+`👨‍👨‍👧‍👧 Demografía`: 41
 
         
 ### Basrah
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Basrah
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.50852
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 47.7804
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Basrah
 
-`Id geográfico`: 99532
+`🗺️ Latitud`: 30.50852
 
-`Zona Horaria`: Asia/Baghdad
+`🗺️ Longitud`: 47.7804
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 99532
 
-`Población`: 2600000
+`⏰ Zona Horaria`: Asia/Baghdad
 
-`Demografía`: 4
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2600000
+
+`👨‍👨‍👧‍👧 Demografía`: 4
 
         
 ### Mosul
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mosul
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.335
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 43.11889
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mosul
 
-`Id geográfico`: 99072
+`🗺️ Latitud`: 36.335
 
-`Zona Horaria`: Asia/Baghdad
+`🗺️ Longitud`: 43.11889
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 99072
 
-`Población`: 1739800
+`⏰ Zona Horaria`: Asia/Baghdad
 
-`Demografía`: 228
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1739800
+
+`👨‍👨‍👧‍👧 Demografía`: 228
 
         
 ## 🇮🇷 Iran, Islamic Republic of
 
-`Nombre Oficial`: Islamic Republic of Iran
+`⚜ Nombre Oficial`: Islamic Republic of Iran
 
-`Código Alfa-2`: IR
+`🆔 Código Alfa-2`: IR
 
-`Código Alfa-3`: IRN
+`🆔 Código Alfa-3`: IRN
 
-`Código numérico`: 364
+`🆔 Código numérico`: 364
 
     
 ### Isfahan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Isfahan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.65246
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 51.67462
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Isfahan
 
-`Id geográfico`: 418863
+`🗺️ Latitud`: 32.65246
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 51.67462
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 418863
 
-`Población`: 1547164
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1578
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1547164
+
+`👨‍👨‍👧‍👧 Demografía`: 1578
 
         
 ### Karaj
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Karaj
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.83266
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 50.99155
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Karaj
 
-`Id geográfico`: 128747
+`🗺️ Latitud`: 35.83266
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 50.99155
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 128747
 
-`Población`: 1448075
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1341
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1448075
+
+`👨‍👨‍👧‍👧 Demografía`: 1341
 
         
 ### Mashhad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mashhad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.31559
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 59.56796
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mashhad
 
-`Id geográfico`: 124665
+`🗺️ Latitud`: 36.31559
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 59.56796
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 124665
 
-`Población`: 2307177
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1003
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2307177
+
+`👨‍👨‍👧‍👧 Demografía`: 1003
 
         
 ### Shiraz
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Shiraz
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 29.61031
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 52.53113
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Shiraz
 
-`Id geográfico`: 115019
+`🗺️ Latitud`: 29.61031
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 52.53113
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 115019
 
-`Población`: 1249942
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1545
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1249942
+
+`👨‍👨‍👧‍👧 Demografía`: 1545
 
         
 ### Tabriz
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tabriz
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 38.08
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 46.2919
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tabriz
 
-`Id geográfico`: 113646
+`🗺️ Latitud`: 38.08
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 46.2919
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 113646
 
-`Población`: 1424641
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1396
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1424641
+
+`👨‍👨‍👧‍👧 Demografía`: 1396
 
         
 ### Tehran
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tehran
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.69439
+`⌚ Hora Local`: 03:42 AM 
 
-`Longitud`: 51.42151
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tehran
 
-`Id geográfico`: 112931
+`🗺️ Latitud`: 35.69439
 
-`Zona Horaria`: Asia/Tehran
+`🗺️ Longitud`: 51.42151
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 112931
 
-`Población`: 7153309
+`⏰ Zona Horaria`: Asia/Tehran
 
-`Demografía`: 1178
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7153309
+
+`👨‍👨‍👧‍👧 Demografía`: 1178
 
         
 ## 🇮🇹 Italy
 
-`Nombre Oficial`: Italian Republic
+`⚜ Nombre Oficial`: Italian Republic
 
-`Código Alfa-2`: IT
+`🆔 Código Alfa-2`: IT
 
-`Código Alfa-3`: ITA
+`🆔 Código Alfa-3`: ITA
 
-`Código numérico`: 380
+`🆔 Código numérico`: 380
 
     
 ### Milan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Milan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 45.46427
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 9.18951
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Milan
 
-`Id geográfico`: 3173435
+`🗺️ Latitud`: 45.46427
 
-`Zona Horaria`: Europe/Rome
+`🗺️ Longitud`: 9.18951
 
-`Elevación`: 122
+`🗺️ Id Geográfico`: 3173435
 
-`Población`: 1236837
+`⏰ Zona Horaria`: Europe/Rome
 
-`Demografía`: 127
+`⛰️ Elevación`: 122
+
+`🚶‍ Población`: 1236837
+
+`👨‍👨‍👧‍👧 Demografía`: 127
 
         
 ### Rome
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Rome
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.89193
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 12.51133
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rome
 
-`Id geográfico`: 3169070
+`🗺️ Latitud`: 41.89193
 
-`Zona Horaria`: Europe/Rome
+`🗺️ Longitud`: 12.51133
 
-`Elevación`: 20
+`🗺️ Id Geográfico`: 3169070
 
-`Población`: 2318895
+`⏰ Zona Horaria`: Europe/Rome
 
-`Demografía`: 52
+`⛰️ Elevación`: 20
+
+`🚶‍ Población`: 2318895
+
+`👨‍👨‍👧‍👧 Demografía`: 52
 
         
 ## 🇯🇴 Jordan
 
-`Nombre Oficial`: Hashemite Kingdom of Jordan
+`⚜ Nombre Oficial`: Hashemite Kingdom of Jordan
 
-`Código Alfa-2`: JO
+`🆔 Código Alfa-2`: JO
 
-`Código Alfa-3`: JOR
+`🆔 Código Alfa-3`: JOR
 
-`Código numérico`: 400
+`🆔 Código numérico`: 400
 
     
 ### Amman
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Amman
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.95522
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 35.94503
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Amman
 
-`Id geográfico`: 250441
+`🗺️ Latitud`: 31.95522
 
-`Zona Horaria`: Asia/Amman
+`🗺️ Longitud`: 35.94503
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 250441
 
-`Población`: 1275857
+`⏰ Zona Horaria`: Asia/Amman
 
-`Demografía`: 757
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1275857
+
+`👨‍👨‍👧‍👧 Demografía`: 757
 
         
 ## 🇯🇵 Japan
 
-`Nombre Oficial`: Japan
+`⚜ Nombre Oficial`: Japan
 
-`Código Alfa-2`: JP
+`🆔 Código Alfa-2`: JP
 
-`Código Alfa-3`: JPN
+`🆔 Código Alfa-3`: JPN
 
-`Código numérico`: 392
+`🆔 Código numérico`: 392
 
     
 ### Fukuoka
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Fukuoka
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.6
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 130.41667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Fukuoka
 
-`Id geográfico`: 1863967
+`🗺️ Latitud`: 33.6
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 130.41667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1863967
 
-`Población`: 1392289
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 3
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1392289
+
+`👨‍👨‍👧‍👧 Demografía`: 3
 
         
 ### Hiroshima
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hiroshima
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.4
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 132.45
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hiroshima
 
-`Id geográfico`: 1862415
+`🗺️ Latitud`: 34.4
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 132.45
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1862415
 
-`Población`: 1143841
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 16
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1143841
+
+`👨‍👨‍👧‍👧 Demografía`: 16
 
         
 ### Kawasaki
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kawasaki
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.52056
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 139.71722
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kawasaki
 
-`Id geográfico`: 1859642
+`🗺️ Latitud`: 35.52056
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 139.71722
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1859642
 
-`Población`: 1306785
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 1
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1306785
+
+`👨‍👨‍👧‍👧 Demografía`: 1
 
         
 ### Kobe
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kobe
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.6913
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 135.183
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kobe
 
-`Id geográfico`: 1859171
+`🗺️ Latitud`: 34.6913
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 135.183
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1859171
 
-`Población`: 1528478
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 35
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1528478
+
+`👨‍👨‍👧‍👧 Demografía`: 35
 
         
 ### Kyoto
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kyoto
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.02107
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 135.75385
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kyoto
 
-`Id geográfico`: 1857910
+`🗺️ Latitud`: 35.02107
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 135.75385
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1857910
 
-`Población`: 1459640
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 50
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1459640
+
+`👨‍👨‍👧‍👧 Demografía`: 50
 
         
 ### Nagoya
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nagoya
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.18147
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 136.90641
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nagoya
 
-`Id geográfico`: 1856057
+`🗺️ Latitud`: 35.18147
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 136.90641
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1856057
 
-`Población`: 2191279
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2191279
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ### Osaka
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Osaka
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.69374
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 135.50218
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Osaka
 
-`Id geográfico`: 1853909
+`🗺️ Latitud`: 34.69374
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 135.50218
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1853909
 
-`Población`: 2592413
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 24
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2592413
+
+`👨‍👨‍👧‍👧 Demografía`: 24
 
         
 ### Saitama
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Saitama
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.90807
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 139.65657
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Saitama
 
-`Id geográfico`: 6940394
+`🗺️ Latitud`: 35.90807
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 139.65657
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 6940394
 
-`Población`: 1193350
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 16
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1193350
+
+`👨‍👨‍👧‍👧 Demografía`: 16
 
         
 ### Sapporo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Sapporo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 43.06667
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 141.35
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sapporo
 
-`Id geográfico`: 2128295
+`🗺️ Latitud`: 43.06667
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 141.35
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2128295
 
-`Población`: 1883027
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 26
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1883027
+
+`👨‍👨‍👧‍👧 Demografía`: 26
 
         
 ### Sendai
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Sendai
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 38.26667
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 140.86667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sendai
 
-`Id geográfico`: 2111149
+`🗺️ Latitud`: 38.26667
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 140.86667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2111149
 
-`Población`: 1063103
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 53
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1063103
+
+`👨‍👨‍👧‍👧 Demografía`: 53
 
         
 ### Tokyo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tokyo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.6895
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 139.69171
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tokyo
 
-`Id geográfico`: 1850147
+`🗺️ Latitud`: 35.6895
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 139.69171
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1850147
 
-`Población`: 8336599
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 44
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 8336599
+
+`👨‍👨‍👧‍👧 Demografía`: 44
 
         
 ### Yokohama
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yokohama
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.43333
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 139.65
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yokohama
 
-`Id geográfico`: 1848354
+`🗺️ Latitud`: 35.43333
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 139.65
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1848354
 
-`Población`: 3574443
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 21
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3574443
+
+`👨‍👨‍👧‍👧 Demografía`: 21
 
         
 ### Yono
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yono
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.88333
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 139.63333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yono
 
-`Id geográfico`: 1848254
+`🗺️ Latitud`: 35.88333
 
-`Zona Horaria`: Asia/Tokyo
+`🗺️ Longitud`: 139.63333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1848254
 
-`Población`: 1077730
+`⏰ Zona Horaria`: Asia/Tokyo
 
-`Demografía`: 14
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1077730
+
+`👨‍👨‍👧‍👧 Demografía`: 14
 
         
 ## 🇰🇪 Kenya
 
-`Nombre Oficial`: Republic of Kenya
+`⚜ Nombre Oficial`: Republic of Kenya
 
-`Código Alfa-2`: KE
+`🆔 Código Alfa-2`: KE
 
-`Código Alfa-3`: KEN
+`🆔 Código Alfa-3`: KEN
 
-`Código numérico`: 404
+`🆔 Código numérico`: 404
 
     
 ### Nairobi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nairobi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -1.28333
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 36.81667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nairobi
 
-`Id geográfico`: 184745
+`🗺️ Latitud`: -1.28333
 
-`Zona Horaria`: Africa/Nairobi
+`🗺️ Longitud`: 36.81667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 184745
 
-`Población`: 2750547
+`⏰ Zona Horaria`: Africa/Nairobi
 
-`Demografía`: 1684
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2750547
+
+`👨‍👨‍👧‍👧 Demografía`: 1684
 
         
 ## 🇰🇭 Cambodia
 
-`Nombre Oficial`: Kingdom of Cambodia
+`⚜ Nombre Oficial`: Kingdom of Cambodia
 
-`Código Alfa-2`: KH
+`🆔 Código Alfa-2`: KH
 
-`Código Alfa-3`: KHM
+`🆔 Código Alfa-3`: KHM
 
-`Código numérico`: 116
+`🆔 Código numérico`: 116
 
     
 ### Phnom Penh
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Phnom Penh
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 11.56245
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 104.91601
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Phnom Penh
 
-`Id geográfico`: 1821306
+`🗺️ Latitud`: 11.56245
 
-`Zona Horaria`: Asia/Phnom_Penh
+`🗺️ Longitud`: 104.91601
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1821306
 
-`Población`: 1573544
+`⏰ Zona Horaria`: Asia/Phnom_Penh
 
-`Demografía`: 20
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1573544
+
+`👨‍👨‍👧‍👧 Demografía`: 20
 
         
 ## 🇰🇵 Korea, Democratic People's Republic of
 
-`Nombre Oficial`: Democratic People's Republic of Korea
+`⚜ Nombre Oficial`: Democratic People's Republic of Korea
 
-`Código Alfa-2`: KP
+`🆔 Código Alfa-2`: KP
 
-`Código Alfa-3`: PRK
+`🆔 Código Alfa-3`: PRK
 
-`Código numérico`: 408
+`🆔 Código numérico`: 408
 
     
 ### Pyongyang
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Pyongyang
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.03385
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 125.75432
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pyongyang
 
-`Id geográfico`: 1871859
+`🗺️ Latitud`: 39.03385
 
-`Zona Horaria`: Asia/Pyongyang
+`🗺️ Longitud`: 125.75432
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1871859
 
-`Población`: 3222000
+`⏰ Zona Horaria`: Asia/Pyongyang
 
-`Demografía`: 43
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3222000
+
+`👨‍👨‍👧‍👧 Demografía`: 43
 
         
 ## 🇰🇷 Korea, Republic of
 
-`Nombre Oficial`: Korea, Republic of
+`⚜ Nombre Oficial`: Korea, Republic of
 
-`Código Alfa-2`: KR
+`🆔 Código Alfa-2`: KR
 
-`Código Alfa-3`: KOR
+`🆔 Código Alfa-3`: KOR
 
-`Código numérico`: 410
+`🆔 Código numérico`: 410
 
     
 ### Busan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Busan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.10278
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 129.04028
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Busan
 
-`Id geográfico`: 1838524
+`🗺️ Latitud`: 35.10278
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 129.04028
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1838524
 
-`Población`: 3678555
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 2
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3678555
+
+`👨‍👨‍👧‍👧 Demografía`: 2
 
         
 ### Daegu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Daegu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.87028
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 128.59111
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Daegu
 
-`Id geográfico`: 1835329
+`🗺️ Latitud`: 35.87028
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 128.59111
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1835329
 
-`Población`: 2566540
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 45
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2566540
+
+`👨‍👨‍👧‍👧 Demografía`: 45
 
         
 ### Daejeon
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Daejeon
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.32139
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 127.41972
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Daejeon
 
-`Id geográfico`: 1835235
+`🗺️ Latitud`: 36.32139
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 127.41972
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1835235
 
-`Población`: 1475221
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 71
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1475221
+
+`👨‍👨‍👧‍👧 Demografía`: 71
 
         
 ### Goyang-si
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Goyang-si
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.65639
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 126.835
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Goyang-si
 
-`Id geográfico`: 1842485
+`🗺️ Latitud`: 37.65639
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 126.835
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1842485
 
-`Población`: 1073069
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 19
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1073069
+
+`👨‍👨‍👧‍👧 Demografía`: 19
 
         
 ### Gwangju
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Gwangju
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 35.15472
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 126.91556
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Gwangju
 
-`Id geográfico`: 1841811
+`🗺️ Latitud`: 35.15472
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 126.91556
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1841811
 
-`Población`: 1416938
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 47
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1416938
+
+`👨‍👨‍👧‍👧 Demografía`: 47
 
         
 ### Incheon
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Incheon
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.45646
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 126.70515
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Incheon
 
-`Id geográfico`: 1843564
+`🗺️ Latitud`: 37.45646
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 126.70515
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1843564
 
-`Población`: 2628000
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 43
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2628000
+
+`👨‍👨‍👧‍👧 Demografía`: 43
 
         
 ### Seongnam-si
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Seongnam-si
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.43861
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 127.13778
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Seongnam-si
 
-`Id geográfico`: 1897000
+`🗺️ Latitud`: 37.43861
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 127.13778
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1897000
 
-`Población`: 1031935
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 80
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1031935
+
+`👨‍👨‍👧‍👧 Demografía`: 80
 
         
 ### Seoul
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Seoul
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.566
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 126.9784
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Seoul
 
-`Id geográfico`: 1835848
+`🗺️ Latitud`: 37.566
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 126.9784
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1835848
 
-`Población`: 10349312
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 38
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10349312
+
+`👨‍👨‍👧‍👧 Demografía`: 38
 
         
 ### Suwon
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 09:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Suwon
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.29111
+`⌚ Hora Local`: 09:12 AM 
 
-`Longitud`: 127.00889
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Suwon
 
-`Id geográfico`: 1835553
+`🗺️ Latitud`: 37.29111
 
-`Zona Horaria`: Asia/Seoul
+`🗺️ Longitud`: 127.00889
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1835553
 
-`Población`: 1242724
+`⏰ Zona Horaria`: Asia/Seoul
 
-`Demografía`: 58
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1242724
+
+`👨‍👨‍👧‍👧 Demografía`: 58
 
         
 ## 🇰🇿 Kazakhstan
 
-`Nombre Oficial`: Republic of Kazakhstan
+`⚜ Nombre Oficial`: Republic of Kazakhstan
 
-`Código Alfa-2`: KZ
+`🆔 Código Alfa-2`: KZ
 
-`Código Alfa-3`: KAZ
+`🆔 Código Alfa-3`: KAZ
 
-`Código numérico`: 398
+`🆔 Código numérico`: 398
 
     
 ### Almaty
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Almaty
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 43.25667
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 76.92861
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Almaty
 
-`Id geográfico`: 1526384
+`🗺️ Latitud`: 43.25667
 
-`Zona Horaria`: Asia/Almaty
+`🗺️ Longitud`: 76.92861
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1526384
 
-`Población`: 2000900
+`⏰ Zona Horaria`: Asia/Almaty
 
-`Demografía`: 787
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2000900
+
+`👨‍👨‍👧‍👧 Demografía`: 787
 
         
 ## 🇱🇧 Lebanon
 
-`Nombre Oficial`: Lebanese Republic
+`⚜ Nombre Oficial`: Lebanese Republic
 
-`Código Alfa-2`: LB
+`🆔 Código Alfa-2`: LB
 
-`Código Alfa-3`: LBN
+`🆔 Código Alfa-3`: LBN
 
-`Código numérico`: 422
+`🆔 Código numérico`: 422
 
     
 ### Beirut
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Beirut
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.89332
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 35.50157
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Beirut
 
-`Id geográfico`: 276781
+`🗺️ Latitud`: 33.89332
 
-`Zona Horaria`: Asia/Beirut
+`🗺️ Longitud`: 35.50157
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 276781
 
-`Población`: 1916100
+`⏰ Zona Horaria`: Asia/Beirut
 
-`Demografía`: 40
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1916100
+
+`👨‍👨‍👧‍👧 Demografía`: 40
 
         
 ### Ra’s Bayrūt
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ra's Bayrut
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.9
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 35.48333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ra's Bayrut
 
-`Id geográfico`: 268743
+`🗺️ Latitud`: 33.9
 
-`Zona Horaria`: Asia/Beirut
+`🗺️ Longitud`: 35.48333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 268743
 
-`Población`: 1251739
+`⏰ Zona Horaria`: Asia/Beirut
 
-`Demografía`: 35
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1251739
+
+`👨‍👨‍👧‍👧 Demografía`: 35
 
         
 ## 🇱🇾 Libya
 
-`Nombre Oficial`: Libya
+`⚜ Nombre Oficial`: Libya
 
-`Código Alfa-2`: LY
+`🆔 Código Alfa-2`: LY
 
-`Código Alfa-3`: LBY
+`🆔 Código Alfa-3`: LBY
 
-`Código numérico`: 434
+`🆔 Código numérico`: 434
 
     
 ### Tripoli
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tripoli
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.88743
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 13.18733
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tripoli
 
-`Id geográfico`: 2210247
+`🗺️ Latitud`: 32.88743
 
-`Zona Horaria`: Africa/Tripoli
+`🗺️ Longitud`: 13.18733
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2210247
 
-`Población`: 1150989
+`⏰ Zona Horaria`: Africa/Tripoli
 
-`Demografía`: 7
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1150989
+
+`👨‍👨‍👧‍👧 Demografía`: 7
 
         
 ## 🇲🇦 Morocco
 
-`Nombre Oficial`: Kingdom of Morocco
+`⚜ Nombre Oficial`: Kingdom of Morocco
 
-`Código Alfa-2`: MA
+`🆔 Código Alfa-2`: MA
 
-`Código Alfa-3`: MAR
+`🆔 Código Alfa-3`: MAR
 
-`Código numérico`: 504
+`🆔 Código numérico`: 504
 
     
 ### Casablanca
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Casablanca
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.58831
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: -7.61138
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Casablanca
 
-`Id geográfico`: 2553604
+`🗺️ Latitud`: 33.58831
 
-`Zona Horaria`: Africa/Casablanca
+`🗺️ Longitud`: -7.61138
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2553604
 
-`Población`: 3144909
+`⏰ Zona Horaria`: Africa/Casablanca
 
-`Demografía`: 27
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3144909
+
+`👨‍👨‍👧‍👧 Demografía`: 27
 
         
 ### Rabat
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Rabat
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.01325
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: -6.83255
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rabat
 
-`Id geográfico`: 2538475
+`🗺️ Latitud`: 34.01325
 
-`Zona Horaria`: Africa/Casablanca
+`🗺️ Longitud`: -6.83255
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2538475
 
-`Población`: 1655753
+`⏰ Zona Horaria`: Africa/Casablanca
 
-`Demografía`: 46
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1655753
+
+`👨‍👨‍👧‍👧 Demografía`: 46
 
         
 ## 🇲🇬 Madagascar
 
-`Nombre Oficial`: Republic of Madagascar
+`⚜ Nombre Oficial`: Republic of Madagascar
 
-`Código Alfa-2`: MG
+`🆔 Código Alfa-2`: MG
 
-`Código Alfa-3`: MDG
+`🆔 Código Alfa-3`: MDG
 
-`Código numérico`: 450
+`🆔 Código numérico`: 450
 
     
 ### Antananarivo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Antananarivo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -18.91368
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 47.53613
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Antananarivo
 
-`Id geográfico`: 1070940
+`🗺️ Latitud`: -18.91368
 
-`Zona Horaria`: Indian/Antananarivo
+`🗺️ Longitud`: 47.53613
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1070940
 
-`Población`: 1391433
+`⏰ Zona Horaria`: Indian/Antananarivo
 
-`Demografía`: 1274
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1391433
+
+`👨‍👨‍👧‍👧 Demografía`: 1274
 
         
 ## 🇲🇱 Mali
 
-`Nombre Oficial`: Republic of Mali
+`⚜ Nombre Oficial`: Republic of Mali
 
-`Código Alfa-2`: ML
+`🆔 Código Alfa-2`: ML
 
-`Código Alfa-3`: MLI
+`🆔 Código Alfa-3`: MLI
 
-`Código numérico`: 466
+`🆔 Código numérico`: 466
 
     
 ### Bamako
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Bamako
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 12.65
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -8.0
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bamako
 
-`Id geográfico`: 2460596
+`🗺️ Latitud`: 12.65
 
-`Zona Horaria`: Africa/Bamako
+`🗺️ Longitud`: -8.0
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2460596
 
-`Población`: 1297281
+`⏰ Zona Horaria`: Africa/Bamako
 
-`Demografía`: 338
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1297281
+
+`👨‍👨‍👧‍👧 Demografía`: 338
 
         
 ## 🇲🇲 Myanmar
 
-`Nombre Oficial`: Republic of Myanmar
+`⚜ Nombre Oficial`: Republic of Myanmar
 
-`Código Alfa-2`: MM
+`🆔 Código Alfa-2`: MM
 
-`Código Alfa-3`: MMR
+`🆔 Código Alfa-3`: MMR
 
-`Código numérico`: 104
+`🆔 Código numérico`: 104
 
     
 ### Mandalay
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mandalay
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.97473
+`⌚ Hora Local`: 06:42 AM 
 
-`Longitud`: 96.08359
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mandalay
 
-`Id geográfico`: 1311874
+`🗺️ Latitud`: 21.97473
 
-`Zona Horaria`: Asia/Yangon
+`🗺️ Longitud`: 96.08359
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1311874
 
-`Población`: 1208099
+`⏰ Zona Horaria`: Asia/Yangon
 
-`Demografía`: 83
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1208099
+
+`👨‍👨‍👧‍👧 Demografía`: 83
 
         
 ### Yangon
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:32 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yangon
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 16.80528
+`⌚ Hora Local`: 06:42 AM 
 
-`Longitud`: 96.15611
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yangon
 
-`Id geográfico`: 1298824
+`🗺️ Latitud`: 16.80528
 
-`Zona Horaria`: Asia/Yangon
+`🗺️ Longitud`: 96.15611
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1298824
 
-`Población`: 4477638
+`⏰ Zona Horaria`: Asia/Yangon
 
-`Demografía`: 30
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4477638
+
+`👨‍👨‍👧‍👧 Demografía`: 30
 
         
 ## 🇲🇽 Mexico
 
-`Nombre Oficial`: United Mexican States
+`⚜ Nombre Oficial`: United Mexican States
 
-`Código Alfa-2`: MX
+`🆔 Código Alfa-2`: MX
 
-`Código Alfa-3`: MEX
+`🆔 Código Alfa-3`: MEX
 
-`Código numérico`: 484
+`🆔 Código numérico`: 484
 
     
 ### Ciudad Nezahualcoyotl
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Ciudad Nezahualcoyotl
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.40061
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -99.01483
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ciudad Nezahualcoyotl
 
-`Id geográfico`: 3530589
+`🗺️ Latitud`: 19.40061
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -99.01483
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3530589
 
-`Población`: 1104585
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2235
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1104585
+
+`👨‍👨‍👧‍👧 Demografía`: 2235
 
         
 ### Ecatepec de Morelos
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Ecatepec de Morelos
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.60492
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -99.06064
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ecatepec de Morelos
 
-`Id geográfico`: 3529612
+`🗺️ Latitud`: 19.60492
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -99.06064
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3529612
 
-`Población`: 1655015
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2306
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1655015
+
+`👨‍👨‍👧‍👧 Demografía`: 2306
 
         
 ### Guadalajara
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Guadalajara
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 20.66682
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -103.39182
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Guadalajara
 
-`Id geográfico`: 4005539
+`🗺️ Latitud`: 20.66682
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -103.39182
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 4005539
 
-`Población`: 1495182
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 1598
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1495182
+
+`👨‍👨‍👧‍👧 Demografía`: 1598
 
         
 ### Gustavo Adolfo Madero
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Gustavo Adolfo Madero
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.49392
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -99.11075
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Gustavo Adolfo Madero
 
-`Id geográfico`: 3514674
+`🗺️ Latitud`: 19.49392
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -99.11075
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3514674
 
-`Población`: 1185772
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2284
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1185772
+
+`👨‍👨‍👧‍👧 Demografía`: 2284
 
         
 ### Iztapalapa
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Iztapalapa
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.35529
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -99.06224
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Iztapalapa
 
-`Id geográfico`: 3526683
+`🗺️ Latitud`: 19.35529
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -99.06224
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3526683
 
-`Población`: 1815786
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2238
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1815786
+
+`👨‍👨‍👧‍👧 Demografía`: 2238
 
         
 ### Juárez
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Juarez
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 31.72024
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -106.46084
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Juarez
 
-`Id geográfico`: 4013708
+`🗺️ Latitud`: 31.72024
 
-`Zona Horaria`: America/Ojinaga
+`🗺️ Longitud`: -106.46084
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 4013708
 
-`Población`: 1321004
+`⏰ Zona Horaria`: America/Ojinaga
 
-`Demografía`: 1124
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1321004
+
+`👨‍👨‍👧‍👧 Demografía`: 1124
 
         
 ### León de los Aldama
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Leon de los Aldama
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 21.12908
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -101.67374
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Leon de los Aldama
 
-`Id geográfico`: 3998655
+`🗺️ Latitud`: 21.12908
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -101.67374
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3998655
 
-`Población`: 1238962
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 1806
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1238962
+
+`👨‍👨‍👧‍👧 Demografía`: 1806
 
         
 ### Mexico City
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Mexico City
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.42847
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -99.12766
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mexico City
 
-`Id geográfico`: 3530597
+`🗺️ Latitud`: 19.42847
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -99.12766
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3530597
 
-`Población`: 12294193
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2240
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 12294193
+
+`👨‍👨‍👧‍👧 Demografía`: 2240
 
         
 ### Monterrey
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Monterrey
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 25.67507
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -100.31847
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Monterrey
 
-`Id geográfico`: 3995465
+`🗺️ Latitud`: 25.67507
 
-`Zona Horaria`: America/Monterrey
+`🗺️ Longitud`: -100.31847
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3995465
 
-`Población`: 1135512
+`⏰ Zona Horaria`: America/Monterrey
 
-`Demografía`: 543
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1135512
+
+`👨‍👨‍👧‍👧 Demografía`: 543
 
         
 ### Puebla
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Puebla
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 19.03793
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -98.20346
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Puebla
 
-`Id geográfico`: 3521081
+`🗺️ Latitud`: 19.03793
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -98.20346
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3521081
 
-`Población`: 1434062
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 2143
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1434062
+
+`👨‍👨‍👧‍👧 Demografía`: 2143
 
         
 ### Tijuana
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 04:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: Tijuana
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 32.5027
+`⌚ Hora Local`: 04:12 PM 
 
-`Longitud`: -117.00371
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tijuana
 
-`Id geográfico`: 3981609
+`🗺️ Latitud`: 32.5027
 
-`Zona Horaria`: America/Tijuana
+`🗺️ Longitud`: -117.00371
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3981609
 
-`Población`: 1300983
+`⏰ Zona Horaria`: America/Tijuana
 
-`Demografía`: 97
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1300983
+
+`👨‍👨‍👧‍👧 Demografía`: 97
 
         
 ### Zapopan
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Zapopan
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 20.72356
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -103.38479
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Zapopan
 
-`Id geográfico`: 3979770
+`🗺️ Latitud`: 20.72356
 
-`Zona Horaria`: America/Mexico_City
+`🗺️ Longitud`: -103.38479
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3979770
 
-`Población`: 1142483
+`⏰ Zona Horaria`: America/Mexico_City
 
-`Demografía`: 1568
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1142483
+
+`👨‍👨‍👧‍👧 Demografía`: 1568
 
         
 ## 🇲🇾 Malaysia
 
-`Nombre Oficial`: Malaysia
+`⚜ Nombre Oficial`: Malaysia
 
-`Código Alfa-2`: MY
+`🆔 Código Alfa-2`: MY
 
-`Código Alfa-3`: MYS
+`🆔 Código Alfa-3`: MYS
 
-`Código numérico`: 458
+`🆔 Código numérico`: 458
 
     
 ### Kota Bharu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kota Bharu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 6.13328
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 102.2386
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kota Bharu
 
-`Id geográfico`: 1736376
+`🗺️ Latitud`: 6.13328
 
-`Zona Horaria`: Asia/Kuala_Lumpur
+`🗺️ Longitud`: 102.2386
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1736376
 
-`Población`: 1459994
+`⏰ Zona Horaria`: Asia/Kuala_Lumpur
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1459994
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Kuala Lumpur
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kuala Lumpur
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 3.1412
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 101.68653
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kuala Lumpur
 
-`Id geográfico`: 1735161
+`🗺️ Latitud`: 3.1412
 
-`Zona Horaria`: Asia/Kuala_Lumpur
+`🗺️ Longitud`: 101.68653
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1735161
 
-`Población`: 1453975
+`⏰ Zona Horaria`: Asia/Kuala_Lumpur
 
-`Demografía`: 56
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1453975
+
+`👨‍👨‍👧‍👧 Demografía`: 56
 
         
 ## 🇲🇿 Mozambique
 
-`Nombre Oficial`: Republic of Mozambique
+`⚜ Nombre Oficial`: Republic of Mozambique
 
-`Código Alfa-2`: MZ
+`🆔 Código Alfa-2`: MZ
 
-`Código Alfa-3`: MOZ
+`🆔 Código Alfa-3`: MOZ
 
-`Código numérico`: 508
+`🆔 Código numérico`: 508
 
     
 ### Maputo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Maputo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -25.96553
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 32.58322
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Maputo
 
-`Id geográfico`: 1040652
+`🗺️ Latitud`: -25.96553
 
-`Zona Horaria`: Africa/Maputo
+`🗺️ Longitud`: 32.58322
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1040652
 
-`Población`: 1191613
+`⏰ Zona Horaria`: Africa/Maputo
 
-`Demografía`: 70
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1191613
+
+`👨‍👨‍👧‍👧 Demografía`: 70
 
         
 ## 🇳🇬 Nigeria
 
-`Nombre Oficial`: Federal Republic of Nigeria
+`⚜ Nombre Oficial`: Federal Republic of Nigeria
 
-`Código Alfa-2`: NG
+`🆔 Código Alfa-2`: NG
 
-`Código Alfa-3`: NGA
+`🆔 Código Alfa-3`: NGA
 
-`Código numérico`: 566
+`🆔 Código numérico`: 566
 
     
 ### Benin City
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Benin City
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 6.33815
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 5.62575
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Benin City
 
-`Id geográfico`: 2347283
+`🗺️ Latitud`: 6.33815
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 5.62575
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2347283
 
-`Población`: 1125058
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 88
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1125058
+
+`👨‍👨‍👧‍👧 Demografía`: 88
 
         
 ### Ibadan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ibadan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 7.37756
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 3.90591
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ibadan
 
-`Id geográfico`: 2339354
+`🗺️ Latitud`: 7.37756
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 3.90591
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2339354
 
-`Población`: 3565108
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 181
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3565108
+
+`👨‍👨‍👧‍👧 Demografía`: 181
 
         
 ### Kaduna
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kaduna
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 10.52641
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 7.43879
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kaduna
 
-`Id geográfico`: 2335727
+`🗺️ Latitud`: 10.52641
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 7.43879
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2335727
 
-`Población`: 1582102
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 626
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1582102
+
+`👨‍👨‍👧‍👧 Demografía`: 626
 
         
 ### Kano
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kano
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 12.00012
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 8.51672
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kano
 
-`Id geográfico`: 2335204
+`🗺️ Latitud`: 12.00012
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 8.51672
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2335204
 
-`Población`: 3626068
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 484
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3626068
+
+`👨‍👨‍👧‍👧 Demografía`: 484
 
         
 ### Lagos
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lagos
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 6.45407
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 3.39467
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lagos
 
-`Id geográfico`: 2332459
+`🗺️ Latitud`: 6.45407
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 3.39467
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2332459
 
-`Población`: 9000000
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 11
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 9000000
+
+`👨‍👨‍👧‍👧 Demografía`: 11
 
         
 ### Maiduguri
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Maiduguri
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 11.84692
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 13.15712
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Maiduguri
 
-`Id geográfico`: 2331447
+`🗺️ Latitud`: 11.84692
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 13.15712
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2331447
 
-`Población`: 1112449
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 325
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1112449
+
+`👨‍👨‍👧‍👧 Demografía`: 325
 
         
 ### Port Harcourt
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Port Harcourt
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 4.77742
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 7.0134
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Port Harcourt
 
-`Id geográfico`: 2324774
+`🗺️ Latitud`: 4.77742
 
-`Zona Horaria`: Africa/Lagos
+`🗺️ Longitud`: 7.0134
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2324774
 
-`Población`: 1148665
+`⏰ Zona Horaria`: Africa/Lagos
 
-`Demografía`: 16
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1148665
+
+`👨‍👨‍👧‍👧 Demografía`: 16
 
         
 ## 🇳🇵 Nepal
 
-`Nombre Oficial`: Federal Democratic Republic of Nepal
+`⚜ Nombre Oficial`: Federal Democratic Republic of Nepal
 
-`Código Alfa-2`: NP
+`🆔 Código Alfa-2`: NP
 
-`Código Alfa-3`: NPL
+`🆔 Código Alfa-3`: NPL
 
-`Código numérico`: 524
+`🆔 Código numérico`: 524
 
     
 ### Kathmandu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:47 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kathmandu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 27.70169
+`⌚ Hora Local`: 05:57 AM 
 
-`Longitud`: 85.3206
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kathmandu
 
-`Id geográfico`: 1283240
+`🗺️ Latitud`: 27.70169
 
-`Zona Horaria`: Asia/Kathmandu
+`🗺️ Longitud`: 85.3206
 
-`Elevación`: 1317
+`🗺️ Id Geográfico`: 1283240
 
-`Población`: 1442271
+`⏰ Zona Horaria`: Asia/Kathmandu
 
-`Demografía`: 1296
+`⛰️ Elevación`: 1317
+
+`🚶‍ Población`: 1442271
+
+`👨‍👨‍👧‍👧 Demografía`: 1296
 
         
 ## 🇵🇪 Peru
 
-`Nombre Oficial`: Republic of Peru
+`⚜ Nombre Oficial`: Republic of Peru
 
-`Código Alfa-2`: PE
+`🆔 Código Alfa-2`: PE
 
-`Código Alfa-3`: PER
+`🆔 Código Alfa-3`: PER
 
-`Código numérico`: 604
+`🆔 Código numérico`: 604
 
     
 ### Lima
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Lima
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -12.04318
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -77.02824
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lima
 
-`Id geográfico`: 3936456
+`🗺️ Latitud`: -12.04318
 
-`Zona Horaria`: America/Lima
+`🗺️ Longitud`: -77.02824
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3936456
 
-`Población`: 7737002
+`⏰ Zona Horaria`: America/Lima
 
-`Demografía`: 152
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7737002
+
+`👨‍👨‍👧‍👧 Demografía`: 152
 
         
 ## 🇵🇭 Philippines
 
-`Nombre Oficial`: Republic of the Philippines
+`⚜ Nombre Oficial`: Republic of the Philippines
 
-`Código Alfa-2`: PH
+`🆔 Código Alfa-2`: PH
 
-`Código Alfa-3`: PHL
+`🆔 Código Alfa-3`: PHL
 
-`Código numérico`: 608
+`🆔 Código numérico`: 608
 
     
 ### Budta
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Budta
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 7.20417
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 124.43972
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Budta
 
-`Id geográfico`: 1723510
+`🗺️ Latitud`: 7.20417
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 124.43972
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1723510
 
-`Población`: 1273715
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 4
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1273715
+
+`👨‍👨‍👧‍👧 Demografía`: 4
 
         
 ### Caloocan City
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Caloocan City
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 14.64953
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.96788
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Caloocan City
 
-`Id geográfico`: 1720151
+`🗺️ Latitud`: 14.64953
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 120.96788
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1720151
 
-`Población`: 1500000
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 6
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1500000
+
+`👨‍👨‍👧‍👧 Demografía`: 6
 
         
 ### Davao
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Davao
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 7.07306
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 125.61278
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Davao
 
-`Id geográfico`: 1715348
+`🗺️ Latitud`: 7.07306
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 125.61278
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1715348
 
-`Población`: 1212504
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 13
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1212504
+
+`👨‍👨‍👧‍👧 Demografía`: 13
 
         
 ### Malingao
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Malingao
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 7.16083
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 124.475
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Malingao
 
-`Id geográfico`: 1978681
+`🗺️ Latitud`: 7.16083
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 124.475
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1978681
 
-`Población`: 1121974
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 5
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1121974
+
+`👨‍👨‍👧‍👧 Demografía`: 5
 
         
 ### Manila
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Manila
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 14.6042
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.9822
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Manila
 
-`Id geográfico`: 1701668
+`🗺️ Latitud`: 14.6042
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 120.9822
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1701668
 
-`Población`: 1600000
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 13
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1600000
+
+`👨‍👨‍👧‍👧 Demografía`: 13
 
         
 ### Quezon City
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Quezon City
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 14.6488
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 121.0509
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Quezon City
 
-`Id geográfico`: 1692192
+`🗺️ Latitud`: 14.6488
 
-`Zona Horaria`: Asia/Manila
+`🗺️ Longitud`: 121.0509
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1692192
 
-`Población`: 2761720
+`⏰ Zona Horaria`: Asia/Manila
 
-`Demografía`: 49
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2761720
+
+`👨‍👨‍👧‍👧 Demografía`: 49
 
         
 ## 🇵🇰 Pakistan
 
-`Nombre Oficial`: Islamic Republic of Pakistan
+`⚜ Nombre Oficial`: Islamic Republic of Pakistan
 
-`Código Alfa-2`: PK
+`🆔 Código Alfa-2`: PK
 
-`Código Alfa-3`: PAK
+`🆔 Código Alfa-3`: PAK
 
-`Código numérico`: 586
+`🆔 Código numérico`: 586
 
     
 ### Faisalabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Faisalabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.41554
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 73.08969
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Faisalabad
 
-`Id geográfico`: 1179400
+`🗺️ Latitud`: 31.41554
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 73.08969
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1179400
 
-`Población`: 2506595
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 186
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2506595
+
+`👨‍👨‍👧‍👧 Demografía`: 186
 
         
 ### Gujranwala
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Gujranwala
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 32.15567
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 74.18705
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Gujranwala
 
-`Id geográfico`: 1177662
+`🗺️ Latitud`: 32.15567
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 74.18705
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1177662
 
-`Población`: 1384471
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 230
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1384471
+
+`👨‍👨‍👧‍👧 Demografía`: 230
 
         
 ### Hyderabad
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hyderabad
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.39242
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 68.37366
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hyderabad
 
-`Id geográfico`: 1176734
+`🗺️ Latitud`: 25.39242
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 68.37366
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1176734
 
-`Población`: 1386330
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 40
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1386330
+
+`👨‍👨‍👧‍👧 Demografía`: 40
 
         
 ### Karachi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Karachi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 24.8608
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 67.0104
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Karachi
 
-`Id geográfico`: 1174872
+`🗺️ Latitud`: 24.8608
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 67.0104
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1174872
 
-`Población`: 11624219
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 8
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 11624219
+
+`👨‍👨‍👧‍👧 Demografía`: 8
 
         
 ### Lahore
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lahore
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 31.558
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 74.35071
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lahore
 
-`Id geográfico`: 1172451
+`🗺️ Latitud`: 31.558
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 74.35071
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1172451
 
-`Población`: 6310888
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 216
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 6310888
+
+`👨‍👨‍👧‍👧 Demografía`: 216
 
         
 ### Multan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Multan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 30.19679
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 71.47824
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Multan
 
-`Id geográfico`: 1169825
+`🗺️ Latitud`: 30.19679
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 71.47824
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1169825
 
-`Población`: 1437230
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 126
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1437230
+
+`👨‍👨‍👧‍👧 Demografía`: 126
 
         
 ### Peshawar
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Peshawar
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 34.008
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 71.57849
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Peshawar
 
-`Id geográfico`: 1168197
+`🗺️ Latitud`: 34.008
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 71.57849
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1168197
 
-`Población`: 1218773
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 340
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1218773
+
+`👨‍👨‍👧‍👧 Demografía`: 340
 
         
 ### Rawalpindi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Rawalpindi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.59733
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 73.0479
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rawalpindi
 
-`Id geográfico`: 1166993
+`🗺️ Latitud`: 33.59733
 
-`Zona Horaria`: Asia/Karachi
+`🗺️ Longitud`: 73.0479
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1166993
 
-`Población`: 1743101
+`⏰ Zona Horaria`: Asia/Karachi
 
-`Demografía`: 499
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1743101
+
+`👨‍👨‍👧‍👧 Demografía`: 499
 
         
 ## 🇵🇱 Poland
 
-`Nombre Oficial`: Republic of Poland
+`⚜ Nombre Oficial`: Republic of Poland
 
-`Código Alfa-2`: PL
+`🆔 Código Alfa-2`: PL
 
-`Código Alfa-3`: POL
+`🆔 Código Alfa-3`: POL
 
-`Código numérico`: 616
+`🆔 Código numérico`: 616
 
     
 ### Warsaw
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Warsaw
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 52.22977
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 21.01178
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Warsaw
 
-`Id geográfico`: 756135
+`🗺️ Latitud`: 52.22977
 
-`Zona Horaria`: Europe/Warsaw
+`🗺️ Longitud`: 21.01178
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 756135
 
-`Población`: 1702139
+`⏰ Zona Horaria`: Europe/Warsaw
 
-`Demografía`: 113
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1702139
+
+`👨‍👨‍👧‍👧 Demografía`: 113
 
         
 ## 🇵🇾 Paraguay
 
-`Nombre Oficial`: Republic of Paraguay
+`⚜ Nombre Oficial`: Republic of Paraguay
 
-`Código Alfa-2`: PY
+`🆔 Código Alfa-2`: PY
 
-`Código Alfa-3`: PRY
+`🆔 Código Alfa-3`: PRY
 
-`Código numérico`: 600
+`🆔 Código numérico`: 600
 
     
 ### Asunción
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Asuncion
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -25.28646
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -57.647
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Asuncion
 
-`Id geográfico`: 3439389
+`🗺️ Latitud`: -25.28646
 
-`Zona Horaria`: America/Asuncion
+`🗺️ Longitud`: -57.647
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3439389
 
-`Población`: 1482200
+`⏰ Zona Horaria`: America/Asuncion
 
-`Demografía`: 107
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1482200
+
+`👨‍👨‍👧‍👧 Demografía`: 107
 
         
 ## 🇷🇴 Romania
 
-`Nombre Oficial`: Romania
+`⚜ Nombre Oficial`: Romania
 
-`Código Alfa-2`: RO
+`🆔 Código Alfa-2`: RO
 
-`Código Alfa-3`: ROU
+`🆔 Código Alfa-3`: ROU
 
-`Código numérico`: 642
+`🆔 Código numérico`: 642
 
     
 ### Bucharest
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bucharest
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 44.43225
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 26.10626
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bucharest
 
-`Id geográfico`: 683506
+`🗺️ Latitud`: 44.43225
 
-`Zona Horaria`: Europe/Bucharest
+`🗺️ Longitud`: 26.10626
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 683506
 
-`Población`: 1877155
+`⏰ Zona Horaria`: Europe/Bucharest
 
-`Demografía`: 83
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1877155
+
+`👨‍👨‍👧‍👧 Demografía`: 83
 
         
 ## 🇷🇸 Serbia
 
-`Nombre Oficial`: Republic of Serbia
+`⚜ Nombre Oficial`: Republic of Serbia
 
-`Código Alfa-2`: RS
+`🆔 Código Alfa-2`: RS
 
-`Código Alfa-3`: SRB
+`🆔 Código Alfa-3`: SRB
 
-`Código numérico`: 688
+`🆔 Código numérico`: 688
 
     
 ### Belgrade
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Belgrade
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 44.80401
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 20.46513
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Belgrade
 
-`Id geográfico`: 792680
+`🗺️ Latitud`: 44.80401
 
-`Zona Horaria`: Europe/Belgrade
+`🗺️ Longitud`: 20.46513
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 792680
 
-`Población`: 1273651
+`⏰ Zona Horaria`: Europe/Belgrade
 
-`Demografía`: 120
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1273651
+
+`👨‍👨‍👧‍👧 Demografía`: 120
 
         
 ## 🇷🇺 Russian Federation
 
-`Nombre Oficial`: Russian Federation
+`⚜ Nombre Oficial`: Russian Federation
 
-`Código Alfa-2`: RU
+`🆔 Código Alfa-2`: RU
 
-`Código Alfa-3`: RUS
+`🆔 Código Alfa-3`: RUS
 
-`Código numérico`: 643
+`🆔 Código numérico`: 643
 
     
 ### Chelyabinsk
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Chelyabinsk
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 55.15402
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 61.42915
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chelyabinsk
 
-`Id geográfico`: 1508291
+`🗺️ Latitud`: 55.15402
 
-`Zona Horaria`: Asia/Yekaterinburg
+`🗺️ Longitud`: 61.42915
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1508291
 
-`Población`: 1062919
+`⏰ Zona Horaria`: Asia/Yekaterinburg
 
-`Demografía`: 219
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1062919
+
+`👨‍👨‍👧‍👧 Demografía`: 219
 
         
 ### Kazan
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kazan
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 55.78874
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 49.12214
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kazan
 
-`Id geográfico`: 551487
+`🗺️ Latitud`: 55.78874
 
-`Zona Horaria`: Europe/Moscow
+`🗺️ Longitud`: 49.12214
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 551487
 
-`Población`: 1104738
+`⏰ Zona Horaria`: Europe/Moscow
 
-`Demografía`: 61
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1104738
+
+`👨‍👨‍👧‍👧 Demografía`: 61
 
         
 ### Moscow
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Moscow
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 55.75222
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 37.61556
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Moscow
 
-`Id geográfico`: 524901
+`🗺️ Latitud`: 55.75222
 
-`Zona Horaria`: Europe/Moscow
+`🗺️ Longitud`: 37.61556
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 524901
 
-`Población`: 10381222
+`⏰ Zona Horaria`: Europe/Moscow
 
-`Demografía`: 144
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 10381222
+
+`👨‍👨‍👧‍👧 Demografía`: 144
 
         
 ### Nizhniy Novgorod
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Nizhniy Novgorod
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 56.32867
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 44.00205
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Nizhniy Novgorod
 
-`Id geográfico`: 520555
+`🗺️ Latitud`: 56.32867
 
-`Zona Horaria`: Europe/Moscow
+`🗺️ Longitud`: 44.00205
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 520555
 
-`Población`: 1284164
+`⏰ Zona Horaria`: Europe/Moscow
 
-`Demografía`: 141
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1284164
+
+`👨‍👨‍👧‍👧 Demografía`: 141
 
         
 ### Novosibirsk
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Novosibirsk
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 55.0415
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 82.9346
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Novosibirsk
 
-`Id geográfico`: 1496747
+`🗺️ Latitud`: 55.0415
 
-`Zona Horaria`: Asia/Novosibirsk
+`🗺️ Longitud`: 82.9346
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1496747
 
-`Población`: 1419007
+`⏰ Zona Horaria`: Asia/Novosibirsk
 
-`Demografía`: 164
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1419007
+
+`👨‍👨‍👧‍👧 Demografía`: 164
 
         
 ### Omsk
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 06:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Omsk
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 54.99244
+`⌚ Hora Local`: 06:12 AM 
 
-`Longitud`: 73.36859
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Omsk
 
-`Id geográfico`: 1496153
+`🗺️ Latitud`: 54.99244
 
-`Zona Horaria`: Asia/Omsk
+`🗺️ Longitud`: 73.36859
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1496153
 
-`Población`: 1129281
+`⏰ Zona Horaria`: Asia/Omsk
 
-`Demografía`: 90
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1129281
+
+`👨‍👨‍👧‍👧 Demografía`: 90
 
         
 ### Rostov-na-Donu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Rostov-na-Donu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 47.23135
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 39.72328
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Rostov-na-Donu
 
-`Id geográfico`: 501175
+`🗺️ Latitud`: 47.23135
 
-`Zona Horaria`: Europe/Moscow
+`🗺️ Longitud`: 39.72328
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 501175
 
-`Población`: 1074482
+`⏰ Zona Horaria`: Europe/Moscow
 
-`Demografía`: 74
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1074482
+
+`👨‍👨‍👧‍👧 Demografía`: 74
 
         
 ### Saint Petersburg
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Saint Petersburg
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 59.93863
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 30.31413
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Saint Petersburg
 
-`Id geográfico`: 498817
+`🗺️ Latitud`: 59.93863
 
-`Zona Horaria`: Europe/Moscow
+`🗺️ Longitud`: 30.31413
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 498817
 
-`Población`: 5028000
+`⏰ Zona Horaria`: Europe/Moscow
 
-`Demografía`: 11
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5028000
+
+`👨‍👨‍👧‍👧 Demografía`: 11
 
         
 ### Samara
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 04:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Samara
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 53.20007
+`⌚ Hora Local`: 04:12 AM 
 
-`Longitud`: 50.15
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Samara
 
-`Id geográfico`: 499099
+`🗺️ Latitud`: 53.20007
 
-`Zona Horaria`: Europe/Samara
+`🗺️ Longitud`: 50.15
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 499099
 
-`Población`: 1134730
+`⏰ Zona Horaria`: Europe/Samara
 
-`Demografía`: 117
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1134730
+
+`👨‍👨‍👧‍👧 Demografía`: 117
 
         
 ### Ufa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ufa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 54.74306
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 55.96779
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ufa
 
-`Id geográfico`: 479561
+`🗺️ Latitud`: 54.74306
 
-`Zona Horaria`: Asia/Yekaterinburg
+`🗺️ Longitud`: 55.96779
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 479561
 
-`Población`: 1033338
+`⏰ Zona Horaria`: Asia/Yekaterinburg
 
-`Demografía`: 158
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1033338
+
+`👨‍👨‍👧‍👧 Demografía`: 158
 
         
 ### Volgograd
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Volgograd
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.71939
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 44.50183
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Volgograd
 
-`Id geográfico`: 472757
+`🗺️ Latitud`: 48.71939
 
-`Zona Horaria`: Europe/Volgograd
+`🗺️ Longitud`: 44.50183
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 472757
 
-`Población`: 1011417
+`⏰ Zona Horaria`: Europe/Volgograd
 
-`Demografía`: 65
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1011417
+
+`👨‍👨‍👧‍👧 Demografía`: 65
 
         
 ### Yekaterinburg
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Yekaterinburg
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 56.8519
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 60.6122
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Yekaterinburg
 
-`Id geográfico`: 1486209
+`🗺️ Latitud`: 56.8519
 
-`Zona Horaria`: Asia/Yekaterinburg
+`🗺️ Longitud`: 60.6122
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1486209
 
-`Población`: 1349772
+`⏰ Zona Horaria`: Asia/Yekaterinburg
 
-`Demografía`: 255
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1349772
+
+`👨‍👨‍👧‍👧 Demografía`: 255
 
         
 ## 🇸🇦 Saudi Arabia
 
-`Nombre Oficial`: Kingdom of Saudi Arabia
+`⚜ Nombre Oficial`: Kingdom of Saudi Arabia
 
-`Código Alfa-2`: SA
+`🆔 Código Alfa-2`: SA
 
-`Código Alfa-3`: SAU
+`🆔 Código Alfa-3`: SAU
 
-`Código numérico`: 682
+`🆔 Código numérico`: 682
 
     
 ### Jeddah
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Jeddah
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.54238
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 39.19797
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Jeddah
 
-`Id geográfico`: 105343
+`🗺️ Latitud`: 21.54238
 
-`Zona Horaria`: Asia/Riyadh
+`🗺️ Longitud`: 39.19797
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 105343
 
-`Población`: 2867446
+`⏰ Zona Horaria`: Asia/Riyadh
 
-`Demografía`: 21
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2867446
+
+`👨‍👨‍👧‍👧 Demografía`: 21
 
         
 ### Mecca
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mecca
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.42664
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 39.82563
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mecca
 
-`Id geográfico`: 104515
+`🗺️ Latitud`: 21.42664
 
-`Zona Horaria`: Asia/Riyadh
+`🗺️ Longitud`: 39.82563
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 104515
 
-`Población`: 1323624
+`⏰ Zona Horaria`: Asia/Riyadh
 
-`Demografía`: 333
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1323624
+
+`👨‍👨‍👧‍👧 Demografía`: 333
 
         
 ### Medina
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Medina
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 24.46861
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 39.61417
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Medina
 
-`Id geográfico`: 109223
+`🗺️ Latitud`: 24.46861
 
-`Zona Horaria`: Asia/Riyadh
+`🗺️ Longitud`: 39.61417
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 109223
 
-`Población`: 1300000
+`⏰ Zona Horaria`: Asia/Riyadh
 
-`Demografía`: 603
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1300000
+
+`👨‍👨‍👧‍👧 Demografía`: 603
 
         
 ### Riyadh
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Riyadh
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 24.68773
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 46.72185
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Riyadh
 
-`Id geográfico`: 108410
+`🗺️ Latitud`: 24.68773
 
-`Zona Horaria`: Asia/Riyadh
+`🗺️ Longitud`: 46.72185
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 108410
 
-`Población`: 4205961
+`⏰ Zona Horaria`: Asia/Riyadh
 
-`Demografía`: 612
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 4205961
+
+`👨‍👨‍👧‍👧 Demografía`: 612
 
         
 ## 🇸🇩 Sudan
 
-`Nombre Oficial`: Republic of the Sudan
+`⚜ Nombre Oficial`: Republic of the Sudan
 
-`Código Alfa-2`: SD
+`🆔 Código Alfa-2`: SD
 
-`Código Alfa-3`: SDN
+`🆔 Código Alfa-3`: SDN
 
-`Código numérico`: 729
+`🆔 Código numérico`: 729
 
     
 ### Khartoum
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Khartoum
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 15.55177
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 32.53241
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Khartoum
 
-`Id geográfico`: 379252
+`🗺️ Latitud`: 15.55177
 
-`Zona Horaria`: Africa/Khartoum
+`🗺️ Longitud`: 32.53241
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 379252
 
-`Población`: 1974647
+`⏰ Zona Horaria`: Africa/Khartoum
 
-`Demografía`: 381
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1974647
+
+`👨‍👨‍👧‍👧 Demografía`: 381
 
         
 ### Omdurman
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Omdurman
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 15.64453
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 32.47773
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Omdurman
 
-`Id geográfico`: 365137
+`🗺️ Latitud`: 15.64453
 
-`Zona Horaria`: Africa/Khartoum
+`🗺️ Longitud`: 32.47773
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 365137
 
-`Población`: 1200000
+`⏰ Zona Horaria`: Africa/Khartoum
 
-`Demografía`: 391
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1200000
+
+`👨‍👨‍👧‍👧 Demografía`: 391
 
         
 ## 🇸🇪 Sweden
 
-`Nombre Oficial`: Kingdom of Sweden
+`⚜ Nombre Oficial`: Kingdom of Sweden
 
-`Código Alfa-2`: SE
+`🆔 Código Alfa-2`: SE
 
-`Código Alfa-3`: SWE
+`🆔 Código Alfa-3`: SWE
 
-`Código numérico`: 752
+`🆔 Código numérico`: 752
 
     
 ### Stockholm
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 01:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Stockholm
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 59.33258
+`⌚ Hora Local`: 01:12 AM 
 
-`Longitud`: 18.0649
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Stockholm
 
-`Id geográfico`: 2673730
+`🗺️ Latitud`: 59.33258
 
-`Zona Horaria`: Europe/Stockholm
+`🗺️ Longitud`: 18.0649
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2673730
 
-`Población`: 1515017
+`⏰ Zona Horaria`: Europe/Stockholm
 
-`Demografía`: 28
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1515017
+
+`👨‍👨‍👧‍👧 Demografía`: 28
 
         
 ## 🇸🇬 Singapore
 
-`Nombre Oficial`: Republic of Singapore
+`⚜ Nombre Oficial`: Republic of Singapore
 
-`Código Alfa-2`: SG
+`🆔 Código Alfa-2`: SG
 
-`Código Alfa-3`: SGP
+`🆔 Código Alfa-3`: SGP
 
-`Código numérico`: 702
+`🆔 Código numérico`: 702
 
     
 ### Singapore
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Singapore
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 1.28967
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 103.85007
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Singapore
 
-`Id geográfico`: 1880252
+`🗺️ Latitud`: 1.28967
 
-`Zona Horaria`: Asia/Singapore
+`🗺️ Longitud`: 103.85007
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1880252
 
-`Población`: 3547809
+`⏰ Zona Horaria`: Asia/Singapore
 
-`Demografía`: 23
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3547809
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ## 🇸🇳 Senegal
 
-`Nombre Oficial`: Republic of Senegal
+`⚜ Nombre Oficial`: Republic of Senegal
 
-`Código Alfa-2`: SN
+`🆔 Código Alfa-2`: SN
 
-`Código Alfa-3`: SEN
+`🆔 Código Alfa-3`: SEN
 
-`Código numérico`: 686
+`🆔 Código numérico`: 686
 
     
 ### Dakar
-`Saludo`: Buenas noches 👋... Hoy es Thursday 01/February/2024 📅... Son las 12:02 AM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Dakar
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 14.6937
+`⌚ Hora Local`: 12:12 AM 
 
-`Longitud`: -17.44406
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dakar
 
-`Id geográfico`: 2253354
+`🗺️ Latitud`: 14.6937
 
-`Zona Horaria`: Africa/Dakar
+`🗺️ Longitud`: -17.44406
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 2253354
 
-`Población`: 2476400
+`⏰ Zona Horaria`: Africa/Dakar
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2476400
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ## 🇸🇴 Somalia
 
-`Nombre Oficial`: Federal Republic of Somalia
+`⚜ Nombre Oficial`: Federal Republic of Somalia
 
-`Código Alfa-2`: SO
+`🆔 Código Alfa-2`: SO
 
-`Código Alfa-3`: SOM
+`🆔 Código Alfa-3`: SOM
 
-`Código numérico`: 706
+`🆔 Código numérico`: 706
 
     
 ### Mogadishu
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Mogadishu
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 2.03711
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 45.34375
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Mogadishu
 
-`Id geográfico`: 53654
+`🗺️ Latitud`: 2.03711
 
-`Zona Horaria`: Africa/Mogadishu
+`🗺️ Longitud`: 45.34375
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 53654
 
-`Población`: 2587183
+`⏰ Zona Horaria`: Africa/Mogadishu
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2587183
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ## 🇸🇾 Syrian Arab Republic
 
-`Nombre Oficial`: Syrian Arab Republic
+`⚜ Nombre Oficial`: Syrian Arab Republic
 
-`Código Alfa-2`: SY
+`🆔 Código Alfa-2`: SY
 
-`Código Alfa-3`: SYR
+`🆔 Código Alfa-3`: SYR
 
-`Código numérico`: 760
+`🆔 Código numérico`: 760
 
     
 ### Aleppo
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Aleppo
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 36.20124
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 37.16117
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Aleppo
 
-`Id geográfico`: 170063
+`🗺️ Latitud`: 36.20124
 
-`Zona Horaria`: Asia/Damascus
+`🗺️ Longitud`: 37.16117
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 170063
 
-`Población`: 1602264
+`⏰ Zona Horaria`: Asia/Damascus
 
-`Demografía`: 401
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1602264
+
+`👨‍👨‍👧‍👧 Demografía`: 401
 
         
 ### Damascus
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Damascus
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 33.5102
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 36.29128
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Damascus
 
-`Id geográfico`: 170654
+`🗺️ Latitud`: 33.5102
 
-`Zona Horaria`: Asia/Damascus
+`🗺️ Longitud`: 36.29128
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 170654
 
-`Población`: 1569394
+`⏰ Zona Horaria`: Asia/Damascus
 
-`Demografía`: 701
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1569394
+
+`👨‍👨‍👧‍👧 Demografía`: 701
 
         
 ## 🇹🇭 Thailand
 
-`Nombre Oficial`: Kingdom of Thailand
+`⚜ Nombre Oficial`: Kingdom of Thailand
 
-`Código Alfa-2`: TH
+`🆔 Código Alfa-2`: TH
 
-`Código Alfa-3`: THA
+`🆔 Código Alfa-3`: THA
 
-`Código numérico`: 764
+`🆔 Código numérico`: 764
 
     
 ### Bangkok
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bangkok
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 13.75398
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 100.50144
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bangkok
 
-`Id geográfico`: 1609350
+`🗺️ Latitud`: 13.75398
 
-`Zona Horaria`: Asia/Bangkok
+`🗺️ Longitud`: 100.50144
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1609350
 
-`Población`: 5104476
+`⏰ Zona Horaria`: Asia/Bangkok
 
-`Demografía`: 12
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 5104476
+
+`👨‍👨‍👧‍👧 Demografía`: 12
 
         
 ## 🇹🇷 Türkiye
 
-`Nombre Oficial`: Republic of Türkiye
+`⚜ Nombre Oficial`: Republic of Türkiye
 
-`Código Alfa-2`: TR
+`🆔 Código Alfa-2`: TR
 
-`Código Alfa-3`: TUR
+`🆔 Código Alfa-3`: TUR
 
-`Código numérico`: 792
+`🆔 Código numérico`: 792
 
     
 ### Adana
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Adana
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.00167
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 35.32889
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Adana
 
-`Id geográfico`: 325363
+`🗺️ Latitud`: 37.00167
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 35.32889
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 325363
 
-`Población`: 1248988
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 41
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1248988
+
+`👨‍👨‍👧‍👧 Demografía`: 41
 
         
 ### Ankara
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ankara
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 39.91987
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 32.85427
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ankara
 
-`Id geográfico`: 323786
+`🗺️ Latitud`: 39.91987
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 32.85427
 
-`Elevación`: 850
+`🗺️ Id Geográfico`: 323786
 
-`Población`: 3517182
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 874
+`⛰️ Elevación`: 850
+
+`🚶‍ Población`: 3517182
+
+`👨‍👨‍👧‍👧 Demografía`: 874
 
         
 ### Bursa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Bursa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 40.19559
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 29.06013
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Bursa
 
-`Id geográfico`: 750269
+`🗺️ Latitud`: 40.19559
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 29.06013
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 750269
 
-`Población`: 1412701
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 155
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1412701
+
+`👨‍👨‍👧‍👧 Demografía`: 155
 
         
 ### Gaziantep
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Gaziantep
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 37.05944
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 37.3825
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Gaziantep
 
-`Id geográfico`: 314830
+`🗺️ Latitud`: 37.05944
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 37.3825
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 314830
 
-`Población`: 1065975
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 842
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1065975
+
+`👨‍👨‍👧‍👧 Demografía`: 842
 
         
 ### Istanbul
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Istanbul
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.01384
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 28.94966
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Istanbul
 
-`Id geográfico`: 745044
+`🗺️ Latitud`: 41.01384
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 28.94966
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 745044
 
-`Población`: 14804116
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 39
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 14804116
+
+`👨‍👨‍👧‍👧 Demografía`: 39
 
         
 ### İzmir
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Izmir
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 38.41273
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 27.13838
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Izmir
 
-`Id geográfico`: 311046
+`🗺️ Latitud`: 38.41273
 
-`Zona Horaria`: Europe/Istanbul
+`🗺️ Longitud`: 27.13838
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 311046
 
-`Población`: 2500603
+`⏰ Zona Horaria`: Europe/Istanbul
 
-`Demografía`: 122
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2500603
+
+`👨‍👨‍👧‍👧 Demografía`: 122
 
         
 ## 🇹🇼 Taiwan, Province of China
 
-`Nombre Oficial`: Taiwan, Province of China
+`⚜ Nombre Oficial`: Taiwan, Province of China
 
-`Código Alfa-2`: TW
+`🆔 Código Alfa-2`: TW
 
-`Código Alfa-3`: TWN
+`🆔 Código Alfa-3`: TWN
 
-`Código numérico`: 158
+`🆔 Código numérico`: 158
 
     
 ### Kaohsiung
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kaohsiung
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 22.61626
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.31333
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kaohsiung
 
-`Id geográfico`: 1673820
+`🗺️ Latitud`: 22.61626
 
-`Zona Horaria`: Asia/Taipei
+`🗺️ Longitud`: 120.31333
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1673820
 
-`Población`: 1519711
+`⏰ Zona Horaria`: Asia/Taipei
 
-`Demografía`: 9
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1519711
+
+`👨‍👨‍👧‍👧 Demografía`: 9
 
         
 ### Taichung
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Taichung
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 24.1469
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 120.6839
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Taichung
 
-`Id geográfico`: 1668399
+`🗺️ Latitud`: 24.1469
 
-`Zona Horaria`: Asia/Taipei
+`🗺️ Longitud`: 120.6839
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1668399
 
-`Población`: 1040725
+`⏰ Zona Horaria`: Asia/Taipei
 
-`Demografía`: 91
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1040725
+
+`👨‍👨‍👧‍👧 Demografía`: 91
 
         
 ### Taipei
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 08:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Taipei
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 25.04776
+`⌚ Hora Local`: 08:12 AM 
 
-`Longitud`: 121.53185
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Taipei
 
-`Id geográfico`: 1668341
+`🗺️ Latitud`: 25.04776
 
-`Zona Horaria`: Asia/Taipei
+`🗺️ Longitud`: 121.53185
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1668341
 
-`Población`: 7871900
+`⏰ Zona Horaria`: Asia/Taipei
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 7871900
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ## 🇹🇿 Tanzania, United Republic of
 
-`Nombre Oficial`: United Republic of Tanzania
+`⚜ Nombre Oficial`: United Republic of Tanzania
 
-`Código Alfa-2`: TZ
+`🆔 Código Alfa-2`: TZ
 
-`Código Alfa-3`: TZA
+`🆔 Código Alfa-3`: TZA
 
-`Código numérico`: 834
+`🆔 Código numérico`: 834
 
     
 ### Dar es Salaam
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dar es Salaam
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -6.82349
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 39.26951
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dar es Salaam
 
-`Id geográfico`: 160263
+`🗺️ Latitud`: -6.82349
 
-`Zona Horaria`: Africa/Dar_es_Salaam
+`🗺️ Longitud`: 39.26951
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 160263
 
-`Población`: 2698652
+`⏰ Zona Horaria`: Africa/Dar_es_Salaam
 
-`Demografía`: 24
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2698652
+
+`👨‍👨‍👧‍👧 Demografía`: 24
 
         
 ## 🇺🇦 Ukraine
 
-`Nombre Oficial`: Ukraine
+`⚜ Nombre Oficial`: Ukraine
 
-`Código Alfa-2`: UA
+`🆔 Código Alfa-2`: UA
 
-`Código Alfa-3`: UKR
+`🆔 Código Alfa-3`: UKR
 
-`Código numérico`: 804
+`🆔 Código numérico`: 804
 
     
 ### Dnipro
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Dnipro
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.4593
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 35.03865
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dnipro
 
-`Id geográfico`: 709930
+`🗺️ Latitud`: 48.4593
 
-`Zona Horaria`: Europe/Kiev
+`🗺️ Longitud`: 35.03865
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 709930
 
-`Población`: 1032822
+`⏰ Zona Horaria`: Europe/Kiev
 
-`Demografía`: 100
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1032822
+
+`👨‍👨‍👧‍👧 Demografía`: 100
 
         
 ### Donetsk
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Donetsk
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 48.023
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 37.80224
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Donetsk
 
-`Id geográfico`: 709717
+`🗺️ Latitud`: 48.023
 
-`Zona Horaria`: Europe/Kiev
+`🗺️ Longitud`: 37.80224
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 709717
 
-`Población`: 1024700
+`⏰ Zona Horaria`: Europe/Kiev
 
-`Demografía`: 223
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1024700
+
+`👨‍👨‍👧‍👧 Demografía`: 223
 
         
 ### Kharkiv
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kharkiv
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 49.98081
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 36.25272
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kharkiv
 
-`Id geográfico`: 706483
+`🗺️ Latitud`: 49.98081
 
-`Zona Horaria`: Europe/Kiev
+`🗺️ Longitud`: 36.25272
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 706483
 
-`Población`: 1430885
+`⏰ Zona Horaria`: Europe/Kiev
 
-`Demografía`: 113
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1430885
+
+`👨‍👨‍👧‍👧 Demografía`: 113
 
         
 ### Kyiv
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kyiv
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 50.45466
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 30.5238
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kyiv
 
-`Id geográfico`: 703448
+`🗺️ Latitud`: 50.45466
 
-`Zona Horaria`: Europe/Kiev
+`🗺️ Longitud`: 30.5238
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 703448
 
-`Población`: 2797553
+`⏰ Zona Horaria`: Europe/Kiev
 
-`Demografía`: 187
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2797553
+
+`👨‍👨‍👧‍👧 Demografía`: 187
 
         
 ### Odessa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Odessa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 46.47747
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 30.73262
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Odessa
 
-`Id geográfico`: 698740
+`🗺️ Latitud`: 46.47747
 
-`Zona Horaria`: Europe/Kiev
+`🗺️ Longitud`: 30.73262
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 698740
 
-`Población`: 1001558
+`⏰ Zona Horaria`: Europe/Kiev
 
-`Demografía`: 58
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1001558
+
+`👨‍👨‍👧‍👧 Demografía`: 58
 
         
 ## 🇺🇬 Uganda
 
-`Nombre Oficial`: Republic of Uganda
+`⚜ Nombre Oficial`: Republic of Uganda
 
-`Código Alfa-2`: UG
+`🆔 Código Alfa-2`: UG
 
-`Código Alfa-3`: UGA
+`🆔 Código Alfa-3`: UGA
 
-`Código numérico`: 800
+`🆔 Código numérico`: 800
 
     
 ### Kampala
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Kampala
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 0.31628
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 32.58219
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Kampala
 
-`Id geográfico`: 232422
+`🗺️ Latitud`: 0.31628
 
-`Zona Horaria`: Africa/Kampala
+`🗺️ Longitud`: 32.58219
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 232422
 
-`Población`: 1353189
+`⏰ Zona Horaria`: Africa/Kampala
 
-`Demografía`: 1223
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1353189
+
+`👨‍👨‍👧‍👧 Demografía`: 1223
 
         
 ## 🇺🇸 United States
 
-`Nombre Oficial`: United States of America
+`⚜ Nombre Oficial`: United States of America
 
-`Código Alfa-2`: US
+`🆔 Código Alfa-2`: US
 
-`Código Alfa-3`: USA
+`🆔 Código Alfa-3`: USA
 
-`Código numérico`: 840
+`🆔 Código numérico`: 840
 
     
 ### Brooklyn
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Brooklyn
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 40.6501
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -73.94958
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Brooklyn
 
-`Id geográfico`: 5110302
+`🗺️ Latitud`: 40.6501
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -73.94958
 
-`Elevación`: 15
+`🗺️ Id Geográfico`: 5110302
 
-`Población`: 2300664
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 18
+`⛰️ Elevación`: 15
+
+`🚶‍ Población`: 2300664
+
+`👨‍👨‍👧‍👧 Demografía`: 18
 
         
 ### Chicago
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Chicago
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 41.85003
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -87.65005
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Chicago
 
-`Id geográfico`: 4887398
+`🗺️ Latitud`: 41.85003
 
-`Zona Horaria`: America/Chicago
+`🗺️ Longitud`: -87.65005
 
-`Elevación`: 179
+`🗺️ Id Geográfico`: 4887398
 
-`Población`: 2720546
+`⏰ Zona Horaria`: America/Chicago
 
-`Demografía`: 180
+`⛰️ Elevación`: 179
+
+`🚶‍ Población`: 2720546
+
+`👨‍👨‍👧‍👧 Demografía`: 180
 
         
 ### Dallas
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Dallas
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 32.78306
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -96.80667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Dallas
 
-`Id geográfico`: 4684888
+`🗺️ Latitud`: 32.78306
 
-`Zona Horaria`: America/Chicago
+`🗺️ Longitud`: -96.80667
 
-`Elevación`: 128
+`🗺️ Id Geográfico`: 4684888
 
-`Población`: 1300092
+`⏰ Zona Horaria`: America/Chicago
 
-`Demografía`: 139
+`⛰️ Elevación`: 128
+
+`🚶‍ Población`: 1300092
+
+`👨‍👨‍👧‍👧 Demografía`: 139
 
         
 ### Houston
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Houston
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 29.76328
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -95.36327
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Houston
 
-`Id geográfico`: 4699066
+`🗺️ Latitud`: 29.76328
 
-`Zona Horaria`: America/Chicago
+`🗺️ Longitud`: -95.36327
 
-`Elevación`: 12
+`🗺️ Id Geográfico`: 4699066
 
-`Población`: 2296224
+`⏰ Zona Horaria`: America/Chicago
 
-`Demografía`: 30
+`⛰️ Elevación`: 12
+
+`🚶‍ Población`: 2296224
+
+`👨‍👨‍👧‍👧 Demografía`: 30
 
         
 ### Los Angeles
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 04:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: Los Angeles
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 34.05223
+`⌚ Hora Local`: 04:12 PM 
 
-`Longitud`: -118.24368
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Los Angeles
 
-`Id geográfico`: 5368361
+`🗺️ Latitud`: 34.05223
 
-`Zona Horaria`: America/Los_Angeles
+`🗺️ Longitud`: -118.24368
 
-`Elevación`: 89
+`🗺️ Id Geográfico`: 5368361
 
-`Población`: 3971883
+`⏰ Zona Horaria`: America/Los_Angeles
 
-`Demografía`: 96
+`⛰️ Elevación`: 89
+
+`🚶‍ Población`: 3971883
+
+`👨‍👨‍👧‍👧 Demografía`: 96
 
         
 ### Manhattan
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Manhattan
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 40.78343
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -73.96625
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Manhattan
 
-`Id geográfico`: 5125771
+`🗺️ Latitud`: 40.78343
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -73.96625
 
-`Elevación`: 35
+`🗺️ Id Geográfico`: 5125771
 
-`Población`: 1487536
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 38
+`⛰️ Elevación`: 35
+
+`🚶‍ Población`: 1487536
+
+`👨‍👨‍👧‍👧 Demografía`: 38
 
         
 ### New York City
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: New York City
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 40.71427
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -74.00597
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: New York City
 
-`Id geográfico`: 5128581
+`🗺️ Latitud`: 40.71427
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -74.00597
 
-`Elevación`: 10
+`🗺️ Id Geográfico`: 5128581
 
-`Población`: 8175133
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 57
+`⛰️ Elevación`: 10
+
+`🚶‍ Población`: 8175133
+
+`👨‍👨‍👧‍👧 Demografía`: 57
 
         
 ### Philadelphia
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Philadelphia
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 39.95233
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -75.16379
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Philadelphia
 
-`Id geográfico`: 4560349
+`🗺️ Latitud`: 39.95233
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -75.16379
 
-`Elevación`: 12
+`🗺️ Id Geográfico`: 4560349
 
-`Población`: 1567442
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 40
+`⛰️ Elevación`: 12
+
+`🚶‍ Población`: 1567442
+
+`👨‍👨‍👧‍👧 Demografía`: 40
 
         
 ### Phoenix
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 05:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: Phoenix
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 33.44838
+`⌚ Hora Local`: 05:12 PM 
 
-`Longitud`: -112.07404
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Phoenix
 
-`Id geográfico`: 5308655
+`🗺️ Latitud`: 33.44838
 
-`Zona Horaria`: America/Phoenix
+`🗺️ Longitud`: -112.07404
 
-`Elevación`: 331
+`🗺️ Id Geográfico`: 5308655
 
-`Población`: 1563025
+`⏰ Zona Horaria`: America/Phoenix
 
-`Demografía`: 366
+`⛰️ Elevación`: 331
+
+`🚶‍ Población`: 1563025
+
+`👨‍👨‍👧‍👧 Demografía`: 366
 
         
 ### Queens
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Queens
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 40.68149
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -73.83652
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Queens
 
-`Id geográfico`: 5133273
+`🗺️ Latitud`: 40.68149
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -73.83652
 
-`Elevación`: 12
+`🗺️ Id Geográfico`: 5133273
 
-`Población`: 2272771
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 13
+`⛰️ Elevación`: 12
+
+`🚶‍ Población`: 2272771
+
+`👨‍👨‍👧‍👧 Demografía`: 13
 
         
 ### San Antonio
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 06:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: San Antonio
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 29.42412
+`⌚ Hora Local`: 06:12 PM 
 
-`Longitud`: -98.49363
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: San Antonio
 
-`Id geográfico`: 4726206
+`🗺️ Latitud`: 29.42412
 
-`Zona Horaria`: America/Chicago
+`🗺️ Longitud`: -98.49363
 
-`Elevación`: 198
+`🗺️ Id Geográfico`: 4726206
 
-`Población`: 1469845
+`⏰ Zona Horaria`: America/Chicago
 
-`Demografía`: 202
+`⛰️ Elevación`: 198
+
+`🚶‍ Población`: 1469845
+
+`👨‍👨‍👧‍👧 Demografía`: 202
 
         
 ### San Diego
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 04:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: San Diego
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 32.71571
+`⌚ Hora Local`: 04:12 PM 
 
-`Longitud`: -117.16472
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: San Diego
 
-`Id geográfico`: 5391811
+`🗺️ Latitud`: 32.71571
 
-`Zona Horaria`: America/Los_Angeles
+`🗺️ Longitud`: -117.16472
 
-`Elevación`: 20
+`🗺️ Id Geográfico`: 5391811
 
-`Población`: 1394928
+`⏰ Zona Horaria`: America/Los_Angeles
 
-`Demografía`: 15
+`⛰️ Elevación`: 20
+
+`🚶‍ Población`: 1394928
+
+`👨‍👨‍👧‍👧 Demografía`: 15
 
         
 ### San Jose
-`Saludo`: Buenas tardes 👋... Hoy es Wednesday 31/January/2024 📅... Son las 04:02 PM ⌚
+`👋 Saludo`: Buenas tardes 
 
-`Nombre en ASCII`: San Jose
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 37.33939
+`⌚ Hora Local`: 04:12 PM 
 
-`Longitud`: -121.89496
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: San Jose
 
-`Id geográfico`: 5392171
+`🗺️ Latitud`: 37.33939
 
-`Zona Horaria`: America/Los_Angeles
+`🗺️ Longitud`: -121.89496
 
-`Elevación`: 26
+`🗺️ Id Geográfico`: 5392171
 
-`Población`: 1026908
+`⏰ Zona Horaria`: America/Los_Angeles
 
-`Demografía`: 23
+`⛰️ Elevación`: 26
+
+`🚶‍ Población`: 1026908
+
+`👨‍👨‍👧‍👧 Demografía`: 23
 
         
 ### The Bronx
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 07:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: The Bronx
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 40.84985
+`⌚ Hora Local`: 07:12 PM 
 
-`Longitud`: -73.86641
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: The Bronx
 
-`Id geográfico`: 5110266
+`🗺️ Latitud`: 40.84985
 
-`Zona Horaria`: America/New_York
+`🗺️ Longitud`: -73.86641
 
-`Elevación`: 23
+`🗺️ Id Geográfico`: 5110266
 
-`Población`: 1385108
+`⏰ Zona Horaria`: America/New_York
 
-`Demografía`: 19
+`⛰️ Elevación`: 23
+
+`🚶‍ Población`: 1385108
+
+`👨‍👨‍👧‍👧 Demografía`: 19
 
         
 ## 🇺🇾 Uruguay
 
-`Nombre Oficial`: Eastern Republic of Uruguay
+`⚜ Nombre Oficial`: Eastern Republic of Uruguay
 
-`Código Alfa-2`: UY
+`🆔 Código Alfa-2`: UY
 
-`Código Alfa-3`: URY
+`🆔 Código Alfa-3`: URY
 
-`Código numérico`: 858
+`🆔 Código numérico`: 858
 
     
 ### Montevideo
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 09:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Montevideo
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: -34.90328
+`⌚ Hora Local`: 09:12 PM 
 
-`Longitud`: -56.18816
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Montevideo
 
-`Id geográfico`: 3441575
+`🗺️ Latitud`: -34.90328
 
-`Zona Horaria`: America/Montevideo
+`🗺️ Longitud`: -56.18816
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3441575
 
-`Población`: 1270737
+`⏰ Zona Horaria`: America/Montevideo
 
-`Demografía`: 34
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1270737
+
+`👨‍👨‍👧‍👧 Demografía`: 34
 
         
 ## 🇺🇿 Uzbekistan
 
-`Nombre Oficial`: Republic of Uzbekistan
+`⚜ Nombre Oficial`: Republic of Uzbekistan
 
-`Código Alfa-2`: UZ
+`🆔 Código Alfa-2`: UZ
 
-`Código Alfa-3`: UZB
+`🆔 Código Alfa-3`: UZB
 
-`Código numérico`: 860
+`🆔 Código numérico`: 860
 
     
 ### Tashkent
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 05:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Tashkent
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 41.26465
+`⌚ Hora Local`: 05:12 AM 
 
-`Longitud`: 69.21627
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Tashkent
 
-`Id geográfico`: 1512569
+`🗺️ Latitud`: 41.26465
 
-`Zona Horaria`: Asia/Tashkent
+`🗺️ Longitud`: 69.21627
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1512569
 
-`Población`: 1978028
+`⏰ Zona Horaria`: Asia/Tashkent
 
-`Demografía`: 424
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1978028
+
+`👨‍👨‍👧‍👧 Demografía`: 424
 
         
 ## 🇻🇪 Venezuela, Bolivarian Republic of
 
-`Nombre Oficial`: Bolivarian Republic of Venezuela
+`⚜ Nombre Oficial`: Bolivarian Republic of Venezuela
 
-`Código Alfa-2`: VE
+`🆔 Código Alfa-2`: VE
 
-`Código Alfa-3`: VEN
+`🆔 Código Alfa-3`: VEN
 
-`Código numérico`: 862
+`🆔 Código numérico`: 862
 
     
 ### Caracas
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Caracas
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 10.48801
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -66.87919
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Caracas
 
-`Id geográfico`: 3646738
+`🗺️ Latitud`: 10.48801
 
-`Zona Horaria`: America/Caracas
+`🗺️ Longitud`: -66.87919
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3646738
 
-`Población`: 3000000
+`⏰ Zona Horaria`: America/Caracas
 
-`Demografía`: 887
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3000000
+
+`👨‍👨‍👧‍👧 Demografía`: 887
 
         
 ### Maracaibo
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Maracaibo
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 10.66663
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -71.61245
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Maracaibo
 
-`Id geográfico`: 3633009
+`🗺️ Latitud`: 10.66663
 
-`Zona Horaria`: America/Caracas
+`🗺️ Longitud`: -71.61245
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3633009
 
-`Población`: 2225000
+`⏰ Zona Horaria`: America/Caracas
 
-`Demografía`: 40
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2225000
+
+`👨‍👨‍👧‍👧 Demografía`: 40
 
         
 ### Maracay
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Maracay
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 10.23535
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -67.59113
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Maracay
 
-`Id geográfico`: 3632998
+`🗺️ Latitud`: 10.23535
 
-`Zona Horaria`: America/Caracas
+`🗺️ Longitud`: -67.59113
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3632998
 
-`Población`: 1754256
+`⏰ Zona Horaria`: America/Caracas
 
-`Demografía`: 443
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1754256
+
+`👨‍👨‍👧‍👧 Demografía`: 443
 
         
 ### Valencia
-`Saludo`: Buenas noches 👋... Hoy es Wednesday 31/January/2024 📅... Son las 08:02 PM ⌚
+`👋 Saludo`: Buenas noches 
 
-`Nombre en ASCII`: Valencia
+`📅 Día`: Wednesday 31/January/2024
 
-`Latitud`: 10.16202
+`⌚ Hora Local`: 08:12 PM 
 
-`Longitud`: -68.00765
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Valencia
 
-`Id geográfico`: 3625549
+`🗺️ Latitud`: 10.16202
 
-`Zona Horaria`: America/Caracas
+`🗺️ Longitud`: -68.00765
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3625549
 
-`Población`: 1385083
+`⏰ Zona Horaria`: America/Caracas
 
-`Demografía`: 457
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1385083
+
+`👨‍👨‍👧‍👧 Demografía`: 457
 
         
 ## 🇻🇳 Viet Nam
 
-`Nombre Oficial`: Socialist Republic of Viet Nam
+`⚜ Nombre Oficial`: Socialist Republic of Viet Nam
 
-`Código Alfa-2`: VN
+`🆔 Código Alfa-2`: VN
 
-`Código Alfa-3`: VNM
+`🆔 Código Alfa-3`: VNM
 
-`Código numérico`: 704
+`🆔 Código numérico`: 704
 
     
 ### Hanoi
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Hanoi
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 21.0245
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 105.84117
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Hanoi
 
-`Id geográfico`: 1581130
+`🗺️ Latitud`: 21.0245
 
-`Zona Horaria`: Asia/Ho_Chi_Minh
+`🗺️ Longitud`: 105.84117
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1581130
 
-`Población`: 1431270
+`⏰ Zona Horaria`: Asia/Ho_Chi_Minh
 
-`Demografía`: 10
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1431270
+
+`👨‍👨‍👧‍👧 Demografía`: 10
 
         
 ### Ho Chi Minh City
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 07:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Ho Chi Minh City
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 10.82302
+`⌚ Hora Local`: 07:12 AM 
 
-`Longitud`: 106.62965
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Ho Chi Minh City
 
-`Id geográfico`: 1566083
+`🗺️ Latitud`: 10.82302
 
-`Zona Horaria`: Asia/Ho_Chi_Minh
+`🗺️ Longitud`: 106.62965
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1566083
 
-`Población`: 3467331
+`⏰ Zona Horaria`: Asia/Ho_Chi_Minh
 
-`Demografía`: 7
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3467331
+
+`👨‍👨‍👧‍👧 Demografía`: 7
 
         
 ## 🇾🇪 Yemen
 
-`Nombre Oficial`: Republic of Yemen
+`⚜ Nombre Oficial`: Republic of Yemen
 
-`Código Alfa-2`: YE
+`🆔 Código Alfa-2`: YE
 
-`Código Alfa-3`: YEM
+`🆔 Código Alfa-3`: YEM
 
-`Código numérico`: 887
+`🆔 Código numérico`: 887
 
     
 ### Sanaa
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 03:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Sanaa
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: 15.35472
+`⌚ Hora Local`: 03:12 AM 
 
-`Longitud`: 44.20667
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Sanaa
 
-`Id geográfico`: 71137
+`🗺️ Latitud`: 15.35472
 
-`Zona Horaria`: Asia/Aden
+`🗺️ Longitud`: 44.20667
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 71137
 
-`Población`: 1937451
+`⏰ Zona Horaria`: Asia/Aden
 
-`Demografía`: 2253
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1937451
+
+`👨‍👨‍👧‍👧 Demografía`: 2253
 
         
 ## 🇿🇦 South Africa
 
-`Nombre Oficial`: Republic of South Africa
+`⚜ Nombre Oficial`: Republic of South Africa
 
-`Código Alfa-2`: ZA
+`🆔 Código Alfa-2`: ZA
 
-`Código Alfa-3`: ZAF
+`🆔 Código Alfa-3`: ZAF
 
-`Código numérico`: 710
+`🆔 Código numérico`: 710
 
     
 ### Cape Town
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Cape Town
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -33.92584
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 18.42322
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Cape Town
 
-`Id geográfico`: 3369157
+`🗺️ Latitud`: -33.92584
 
-`Zona Horaria`: Africa/Johannesburg
+`🗺️ Longitud`: 18.42322
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 3369157
 
-`Población`: 3433441
+`⏰ Zona Horaria`: Africa/Johannesburg
 
-`Demografía`: 25
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3433441
+
+`👨‍👨‍👧‍👧 Demografía`: 25
 
         
 ### Durban
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Durban
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -29.8579
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 31.0292
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Durban
 
-`Id geográfico`: 1007311
+`🗺️ Latitud`: -29.8579
 
-`Zona Horaria`: Africa/Johannesburg
+`🗺️ Longitud`: 31.0292
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 1007311
 
-`Población`: 3120282
+`⏰ Zona Horaria`: Africa/Johannesburg
 
-`Demografía`: 21
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 3120282
+
+`👨‍👨‍👧‍👧 Demografía`: 21
 
         
 ### Johannesburg
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Johannesburg
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -26.20227
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 28.04363
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Johannesburg
 
-`Id geográfico`: 993800
+`🗺️ Latitud`: -26.20227
 
-`Zona Horaria`: Africa/Johannesburg
+`🗺️ Longitud`: 28.04363
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 993800
 
-`Población`: 2026469
+`⏰ Zona Horaria`: Africa/Johannesburg
 
-`Demografía`: 1767
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 2026469
+
+`👨‍👨‍👧‍👧 Demografía`: 1767
 
         
 ### Pretoria
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Pretoria
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -25.74486
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 28.18783
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Pretoria
 
-`Id geográfico`: 964137
+`🗺️ Latitud`: -25.74486
 
-`Zona Horaria`: Africa/Johannesburg
+`🗺️ Longitud`: 28.18783
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 964137
 
-`Población`: 1619438
+`⏰ Zona Horaria`: Africa/Johannesburg
 
-`Demografía`: 1332
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1619438
+
+`👨‍👨‍👧‍👧 Demografía`: 1332
 
         
 ### Soweto
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Soweto
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -26.26781
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 27.85849
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Soweto
 
-`Id geográfico`: 953781
+`🗺️ Latitud`: -26.26781
 
-`Zona Horaria`: Africa/Johannesburg
+`🗺️ Longitud`: 27.85849
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 953781
 
-`Población`: 1695047
+`⏰ Zona Horaria`: Africa/Johannesburg
 
-`Demografía`: 1632
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1695047
+
+`👨‍👨‍👧‍👧 Demografía`: 1632
 
         
 ## 🇿🇲 Zambia
 
-`Nombre Oficial`: Republic of Zambia
+`⚜ Nombre Oficial`: Republic of Zambia
 
-`Código Alfa-2`: ZM
+`🆔 Código Alfa-2`: ZM
 
-`Código Alfa-3`: ZMB
+`🆔 Código Alfa-3`: ZMB
 
-`Código numérico`: 894
+`🆔 Código numérico`: 894
 
     
 ### Lusaka
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Lusaka
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -15.40669
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 28.28713
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Lusaka
 
-`Id geográfico`: 909137
+`🗺️ Latitud`: -15.40669
 
-`Zona Horaria`: Africa/Lusaka
+`🗺️ Longitud`: 28.28713
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 909137
 
-`Población`: 1267440
+`⏰ Zona Horaria`: Africa/Lusaka
 
-`Demografía`: 1277
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1267440
+
+`👨‍👨‍👧‍👧 Demografía`: 1277
 
         
 ## 🇿🇼 Zimbabwe
 
-`Nombre Oficial`: Republic of Zimbabwe
+`⚜ Nombre Oficial`: Republic of Zimbabwe
 
-`Código Alfa-2`: ZW
+`🆔 Código Alfa-2`: ZW
 
-`Código Alfa-3`: ZWE
+`🆔 Código Alfa-3`: ZWE
 
-`Código numérico`: 716
+`🆔 Código numérico`: 716
 
     
 ### Harare
-`Saludo`: Buenos días 👋... Hoy es Thursday 01/February/2024 📅... Son las 02:02 AM ⌚
+`👋 Saludo`: Buenos días 
 
-`Nombre en ASCII`: Harare
+`📅 Día`: Thursday 01/February/2024
 
-`Latitud`: -17.82772
+`⌚ Hora Local`: 02:12 AM 
 
-`Longitud`: 31.05337
+`ʕ•́ᴥ•̀ʔ Nombre en ASCII`: Harare
 
-`Id geográfico`: 890299
+`🗺️ Latitud`: -17.82772
 
-`Zona Horaria`: Africa/Harare
+`🗺️ Longitud`: 31.05337
 
-`Elevación`: None
+`🗺️ Id Geográfico`: 890299
 
-`Población`: 1542813
+`⏰ Zona Horaria`: Africa/Harare
 
-`Demografía`: 1494
+`⛰️ Elevación`: None
+
+`🚶‍ Población`: 1542813
+
+`👨‍👨‍👧‍👧 Demografía`: 1494
 
         
