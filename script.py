@@ -7,7 +7,7 @@ from general_functions import dic_countries_cities, day_time_greeting
 
 load_dotenv()
 
-min_population = 10_000
+min_population = 50_000
 github_token = os.getenv('TOKEN')
 
 repo_name = "EduardoProfe666/world-greetings"
