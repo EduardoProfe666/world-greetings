@@ -51,7 +51,7 @@ for country_code, info in cities_list.items():
         f"""
 ## {info['flag']} {info["info"].name}
 
-`⚜ Nombre Oficial`: {info["info"].official_name}
+`⚜ Nombre Oficial`: {info["info"].name}
 
 `🆔 Código Alfa-2`: {info["info"].alpha_2}
 
