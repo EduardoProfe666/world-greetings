@@ -2,7 +2,7 @@ name: Update README with Greetings
 
 on:
   schedule:
-    - cron: '*/4 * * * *'
+    - cron: '*/60 * * * *'
   workflow_dispatch:
 
 permissions:
